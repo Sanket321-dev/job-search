@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-10-15T20:40:50.189629+00:00",
+  "updated_at": "2026-10-15T23:24:34.087781+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -25,19 +25,19 @@
       "remote": true
     },
     {
-      "title": "Platform Engineer - GitLab & Automation (m/w/d)",
-      "company": "CPU Consulting & Software GmbH",
+      "title": "Didn't find a suitable position? – Show Us What You’ve Got with an Unsolicited Application!",
+      "company": "Amperecloud GmbH",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/cpu-consulting-software-gmbh/platform-engineer-gitlab-automation-berlin-178094",
-      "description": "Deine Rolle: Gestalte und betreibe eine zentrale GitLab-Plattform, auf die zahlreiche Entwicklungsteams täglich vertrauen. Für unseren Kunden, einen führenden IT-Dienstleister im Bankenumfeld, suchen wir einen erfahrenen Platform Engineer (m/w/d) mit Schwerpunkt auf dem Betrieb und der Weiterentwicklung einer unternehmenskritischen GitLab-Umgebung. In dieser Rolle sorgst du dafür, dass eine zentrale Entwicklungsplattform stabil, sicher und leistungsfähig betrieben wird. Du automatisierst Betriebsprozesse, entwickelst bestehende Plattformservices weiter und unterstützt Entwicklungsteams dabei, ihre Software effizient und zuverlässig bereitzust",
-      "posted_at": 1792071071,
+      "url": "https://www.arbeitnow.com/jobs/companies/amperecloud-gmbh/didnt-find-a-suitable-position-show-us-what-youve-got-with-an-unsolicited-application-berlin-70361",
+      "description": "Job Description Are you ready to be part of an innovative team driving the clean energy transition? At Amperecloud, we are building the platform for automated production, trading and consumption across all forms and market players in renewable energy. As a Marketing Manager, your main objective will be to identify and seize new growth channels, enabling us to meet our pipeline and ARR targets. Together with our Head of Marketing you will develop new demand gen strategies, create content for them, do tests and in the end build an efficient, scalable & best-in-class revenue marketing engine. Sounds exciting? It for sure is. Show us what you’ve ",
+      "posted_at": 1792098084,
       "tags": [
         "Remote",
-        "Software Development"
+        "IT"
       ],
       "experience": "Check listing",
-      "score": 45,
-      "match_reason": "Relevant keywords: git",
+      "score": 48,
+      "match_reason": "Relevant keywords: role-family match",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
@@ -73,22 +73,6 @@
       "match_reason": "Relevant keywords: devops",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
-    },
-    {
-      "title": "Senior Implementation Specialist",
-      "company": "Karbon",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/karbon/remote-senior-implementation-specialist-343555",
-      "description": "<div class=\"content-intro\"><p><strong>About Karbon</strong></p> <p style=\"text-align: left;\">Karbon is the global leader in AI-powered practice management software for accounting firms. We provide an award-winning cloud platform that helps tens of thousands of accounting professionals work more efficiently and collaboratively every day. With customers in 40 countries, we have grown into a globally distributed team across the US, Australia, New Zealand, Canada, the United Kingdom, and the Philippines. We are well-funded, ranked #1 on G2, growing rapidly, and have a people-first culture that is recognized with Great Place To Work® certification",
-      "posted_at": 1792065314,
-      "tags": [
-        "Services"
-      ],
-      "experience": "Check listing",
-      "score": 23,
-      "match_reason": "Relevant keywords: role-family match",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": false
     }
   ],
   "note": "Availability is not guaranteed; confirm each opening on its source page."
