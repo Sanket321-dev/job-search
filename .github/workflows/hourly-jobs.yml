@@ -1,8 +1,8 @@
-name: Refresh job dashboard
+name: Refresh and deploy job dashboard
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "17 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -17,6 +17,7 @@ concurrency:
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -24,16 +25,16 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Fetch and score current jobs
+      - name: Collect, deduplicate and score current listings
         env:
           ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
           ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
         run: python scripts/fetch_jobs.py
-      - name: Commit refreshed data
+      - name: Commit refreshed job and history data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/jobs.json
+          git add data/jobs.json data/seen.json
           if git diff --cached --quiet; then
             echo "No data changes to commit"
           else
@@ -42,10 +43,9 @@ jobs:
           fi
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
-      - name: Upload site artifact
+      - name: Upload dashboard site
         uses: actions/upload-pages-artifact@v3
         with:
           path: .
-      - name: Deploy site to GitHub Pages
-        id: deployment
+      - name: Deploy dashboard
         uses: actions/deploy-pages@v4

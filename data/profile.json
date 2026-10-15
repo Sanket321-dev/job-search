@@ -1,0 +1,7 @@
+{
+  "name": "Kartik",
+  "experience_level": "Fresher to 0-2 years",
+  "preferred_locations": ["Pune", "Maharashtra", "Remote", "India"],
+  "skills": ["Linux", "Red Hat", "AWS", "EC2", "S3", "IAM", "CloudWatch", "Route 53", "Lambda", "Azure", "Cloud", "DevOps", "CI/CD", "Jenkins", "Git", "GitHub", "Docker", "Terraform", "Infrastructure automation", "System administration", "SSH", "DNS", "DHCP", "NFS", "Samba", "Firewalls", "Networking", "SQL", "MariaDB", "Nagios", "Prometheus", "QA", "Testing", "Troubleshooting"],
+  "target_roles": ["DevOps Engineer", "Junior DevOps Engineer", "AWS Cloud Engineer", "Azure Cloud Engineer", "Cloud Support Engineer", "Linux Administrator", "System Administrator", "Technical Support Engineer", "IT Support", "NOC Engineer", "Junior Network Support", "Site Reliability Engineer", "QA Engineer", "QA Analyst", "Manual Tester", "Software Tester", "Junior Automation Tester", "Graduate Engineer Trainee", "Technical Trainee", "Associate Engineer"]
+}

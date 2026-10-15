@@ -1,0 +1,25 @@
+{
+  "sample": true,
+  "note": "Illustrative schema only. This is not a real or active job listing and is not loaded by the dashboard.",
+  "jobs": [
+    {
+      "id": "https://example.com/jobs/junior-cloud-support",
+      "title": "Junior Cloud Support Engineer (sample)",
+      "company": "Example Company (sample)",
+      "location": "Pune, Maharashtra, India",
+      "remote": false,
+      "experience": "0-2 years (sample)",
+      "posted_at": null,
+      "salary": null,
+      "category": "Cloud",
+      "source": "Example source (sample)",
+      "url": "https://example.com/jobs/junior-cloud-support",
+      "status": "sample, not verified",
+      "score": 74,
+      "priority": "Good Match",
+      "skills": ["Linux", "AWS"],
+      "match_reason": "Illustrative skill and location match reason.",
+      "missing_skills": ["Terraform"]
+    }
+  ]
+}

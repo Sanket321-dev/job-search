@@ -1,79 +1,13 @@
 {
-  "status": "ok",
-  "updated_at": "2026-10-15T06:20:18.819380+00:00",
-  "sources": [
-    "Adzuna skipped (API secrets not configured)",
-    "Arbeitnow public API",
-    "Remotive remote API"
-  ],
-  "jobs": [
-    {
-      "title": "Customer Support (m/w/d) | Teilzeit oder Werkstudium | Digital Health | Remote",
-      "company": "Infinos GmbH",
-      "location": "Damme",
-      "url": "https://www.arbeitnow.com/jobs/companies/infinos-gmbh/customer-support-teilzeit-oder-werkstudium-digital-health-remote-damme-473282",
-      "description": "Bei Infinos begleiten wir Menschen bei der medizinisch betreuten Gewichtsreduktion. Unser Support hilft bei Fragen zum Programm, zu Check-ins und zu organisatorischen Anliegen. Du betreust unsere Teilnehmer:innen vor allem per WhatsApp und E-Mail. Wir suchen Unterstützung in Teilzeit oder als Werkstudent:in mit rund 20 Wochenstunden, perspektivisch sind auch 25 bis 30 Stunden möglich. Deine festen Dienste liegen montags, mittwochs und freitags vormittags ab 07:30 Uhr, dazu kommen zwei Abende von 20 bis 22 Uhr. Bei Urlaub oder anderen Abwesenheiten übernimmst du nach Absprache Vertretungen. Du arbeitest vollständig remote und kannst ab sofort ",
-      "posted_at": 1792004444,
-      "tags": [
-        "Remote",
-        "Customer Service"
-      ],
-      "experience": "Check listing",
-      "score": 63,
-      "match_reason": "Relevant keywords: git, support, sre",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Software Test Engineer",
-      "company": "SwissPeak Partners GmbH",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-277047",
-      "description": "Wir rekrutieren einen Software Test Engineer (m/w/d) für ein neu formiertes Team rund um ein Dynamics 365 Projekt. Das Testing wird von Grund auf neu aufgebaut, du bist also massgeblich an der Definition des Vorgehens beteiligt. Du testest im Sprint mit und verantwortest gleichzeitig die Teststrategie, das Testkonzept und die Testplanung. Du koordinierst die UAT mit dem Fachbereich und bringst Qualitätsstandards in ein Team, das seine Testing-Reife gerade aufbaut. Der Fokus liegt überwiegend auf manuellem Testing, mit der Möglichkeit, später in die Automatisierung hineinzuwachsen. Must-have Anforderungen Mehrjährige Erfahrung im Software-Test",
-      "posted_at": 1792009947,
-      "tags": [
-        "Software Engineering",
-        "Remote"
-      ],
-      "experience": "Check listing",
-      "score": 53,
-      "match_reason": "Relevant keywords: testing",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Staff Site Reliability Engineer",
-      "company": "Adikteev",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.fr/jobs/companies/adikteev/remote-staff-site-reliability-engineer-paris-357394",
-      "description": "WHO WE ARE Adikteev is an AdTech company that helps mobile app publishers grow their revenue through targeted advertising. We deliver personalized ads that drive users to install an app or re-engage with one they've stopped using. Our clients are mostly mobile gaming leaders but also span e-commerce, on-demand services, and entertainment apps. Recognized for 10+ years as one of the top mobile retargeting platforms, Adikteev now operates globally from Paris, San Francisco, Barcelona and Seoul and has grown to over 120 employees. Beyond the business, Adikteev is consistently recognized as a great place to work. With an 18-nationality team, a 4.",
-      "posted_at": 1792009947,
-      "tags": [
-        "Engineering",
-        "Remote"
-      ],
-      "experience": "Check listing",
-      "score": 40,
-      "match_reason": "Relevant keywords: role-family match",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Senior back-end Engineer",
-      "company": "Lemon.io",
-      "location": "Europe, USA, UK, Canada, Australia, Ireland, Switzerland, Singapore, Mexico, Iceland, Norway",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-back-end-engineer-2091132",
-      "description": "Senior Developer? Work Remote. Get Paid Well. Build What Matters. Lemon.io connects hand-picked senior developers with vetted startups across the US and Europe — no bidding wars, no ghosting, just serious opportunities. We're currently hiring for a research-driven AI company on a mission to slash the cost of modern AI — co-designing hardware, software, algorithms, and models to make AI's benefits accessible to everyone. They're active open-source contributors, building the infrastructure behind next-generation AI at scale. Open roles: Senior Back-end Engineer (Golang), Senior DevOps Engineer, Senior Site Reliability Engineer, Senior Storage E",
-      "posted_at": "2026-09-30T13:15:26",
-      "tags": [
-        "Software Development"
-      ],
-      "experience": "Check listing",
-      "score": 28,
-      "match_reason": "Relevant keywords: devops",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    }
-  ],
-  "note": "Availability is not guaranteed; confirm each opening on its source page."
+  "status": "sample",
+  "refresh_status": "pending",
+  "updated_at": null,
+  "last_successful_refresh_at": null,
+  "last_attempt_at": null,
+  "source_status": [],
+  "sources": [],
+  "new_count": 0,
+  "message": "Sample baseline only. Run the GitHub Actions workflow to collect current listings.",
+  "jobs": [],
+  "note": "No live listings are included in this baseline."
 }
