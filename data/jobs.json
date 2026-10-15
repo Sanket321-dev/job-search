@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-10-15T12:16:08.974661+00:00",
+  "updated_at": "2026-10-15T17:28:49.218500+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -25,19 +25,19 @@
       "remote": true
     },
     {
-      "title": "SEO Manager (m/w/d) in Teilzeit",
-      "company": "SEO Galaxy GmbH",
-      "location": "Ulmen",
-      "url": "https://www.arbeitnow.com/jobs/companies/seo-galaxy-gmbh/seo-manager-in-teilzeit-ulmen-338142",
-      "description": "Über GetMentioned GetMentioned.com ist die SEO-Plattform für Sichtbarkeit in Google und KI-Suchen. Agenturen, Inhouse-SEOs und Marketing-Teams erreichen mit uns Top-Rankings für ihre wichtigsten Suchbegriffe und werden in ChatGPT, Perplexity & Co. genannt. Dafür kombinieren wir unsere eigene Content Engine TextRocket mit einem Online-PR-Marktplatz mit über 100.000 Publishern. Deine Rolle Du verantwortest das SEO und die KI-Sichtbarkeit von getmentioned.com. Du entscheidest, welche Themen wir besetzen, welche Seiten wir bauen oder verbessern und was als Nächstes passiert. Daneben betreuen wir noch einige wenige SEO-Kunden, denen du bei Fragen ",
-      "posted_at": 1792049480,
+      "title": "Platform Engineer - GitLab & Automation (m/w/d)",
+      "company": "CPU Consulting & Software GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/cpu-consulting-software-gmbh/platform-engineer-gitlab-automation-berlin-178094",
+      "description": "Deine Rolle: Gestalte und betreibe eine zentrale GitLab-Plattform, auf die zahlreiche Entwicklungsteams täglich vertrauen. Für unseren Kunden, einen führenden IT-Dienstleister im Bankenumfeld, suchen wir einen erfahrenen Platform Engineer (m/w/d) mit Schwerpunkt auf dem Betrieb und der Weiterentwicklung einer unternehmenskritischen GitLab-Umgebung. In dieser Rolle sorgst du dafür, dass eine zentrale Entwicklungsplattform stabil, sicher und leistungsfähig betrieben wird. Du automatisierst Betriebsprozesse, entwickelst bestehende Plattformservices weiter und unterstützt Entwicklungsteams dabei, ihre Software effizient und zuverlässig bereitzust",
+      "posted_at": 1792071071,
       "tags": [
         "Remote",
-        "Online Marketing"
+        "Software Development"
       ],
       "experience": "Check listing",
-      "score": 48,
-      "match_reason": "Relevant keywords: role-family match",
+      "score": 45,
+      "match_reason": "Relevant keywords: git",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
@@ -73,6 +73,22 @@
       "match_reason": "Relevant keywords: devops",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
+    },
+    {
+      "title": "Senior Implementation Specialist",
+      "company": "Karbon",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/karbon/remote-senior-implementation-specialist-343555",
+      "description": "<div class=\"content-intro\"><p><strong>About Karbon</strong></p> <p style=\"text-align: left;\">Karbon is the global leader in AI-powered practice management software for accounting firms. We provide an award-winning cloud platform that helps tens of thousands of accounting professionals work more efficiently and collaboratively every day. With customers in 40 countries, we have grown into a globally distributed team across the US, Australia, New Zealand, Canada, the United Kingdom, and the Philippines. We are well-funded, ranked #1 on G2, growing rapidly, and have a people-first culture that is recognized with Great Place To Work® certification",
+      "posted_at": 1792065314,
+      "tags": [
+        "Services"
+      ],
+      "experience": "Check listing",
+      "score": 23,
+      "match_reason": "Relevant keywords: role-family match",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": false
     }
   ],
   "note": "Availability is not guaranteed; confirm each opening on its source page."
