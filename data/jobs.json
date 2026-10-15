@@ -1,29 +1,12 @@
 {
   "status": "ok",
-  "updated_at": "2026-10-15T06:20:18.819380+00:00",
+  "updated_at": "2026-10-15T12:16:08.974661+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
     "Remotive remote API"
   ],
   "jobs": [
-    {
-      "title": "Customer Support (m/w/d) | Teilzeit oder Werkstudium | Digital Health | Remote",
-      "company": "Infinos GmbH",
-      "location": "Damme",
-      "url": "https://www.arbeitnow.com/jobs/companies/infinos-gmbh/customer-support-teilzeit-oder-werkstudium-digital-health-remote-damme-473282",
-      "description": "Bei Infinos begleiten wir Menschen bei der medizinisch betreuten Gewichtsreduktion. Unser Support hilft bei Fragen zum Programm, zu Check-ins und zu organisatorischen Anliegen. Du betreust unsere Teilnehmer:innen vor allem per WhatsApp und E-Mail. Wir suchen Unterstützung in Teilzeit oder als Werkstudent:in mit rund 20 Wochenstunden, perspektivisch sind auch 25 bis 30 Stunden möglich. Deine festen Dienste liegen montags, mittwochs und freitags vormittags ab 07:30 Uhr, dazu kommen zwei Abende von 20 bis 22 Uhr. Bei Urlaub oder anderen Abwesenheiten übernimmst du nach Absprache Vertretungen. Du arbeitest vollständig remote und kannst ab sofort ",
-      "posted_at": 1792004444,
-      "tags": [
-        "Remote",
-        "Customer Service"
-      ],
-      "experience": "Check listing",
-      "score": 63,
-      "match_reason": "Relevant keywords: git, support, sre",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
     {
       "title": "Software Test Engineer",
       "company": "SwissPeak Partners GmbH",
@@ -38,6 +21,23 @@
       "experience": "Check listing",
       "score": 53,
       "match_reason": "Relevant keywords: testing",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "SEO Manager (m/w/d) in Teilzeit",
+      "company": "SEO Galaxy GmbH",
+      "location": "Ulmen",
+      "url": "https://www.arbeitnow.com/jobs/companies/seo-galaxy-gmbh/seo-manager-in-teilzeit-ulmen-338142",
+      "description": "Über GetMentioned GetMentioned.com ist die SEO-Plattform für Sichtbarkeit in Google und KI-Suchen. Agenturen, Inhouse-SEOs und Marketing-Teams erreichen mit uns Top-Rankings für ihre wichtigsten Suchbegriffe und werden in ChatGPT, Perplexity & Co. genannt. Dafür kombinieren wir unsere eigene Content Engine TextRocket mit einem Online-PR-Marktplatz mit über 100.000 Publishern. Deine Rolle Du verantwortest das SEO und die KI-Sichtbarkeit von getmentioned.com. Du entscheidest, welche Themen wir besetzen, welche Seiten wir bauen oder verbessern und was als Nächstes passiert. Daneben betreuen wir noch einige wenige SEO-Kunden, denen du bei Fragen ",
+      "posted_at": 1792049480,
+      "tags": [
+        "Remote",
+        "Online Marketing"
+      ],
+      "experience": "Check listing",
+      "score": 48,
+      "match_reason": "Relevant keywords: role-family match",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
