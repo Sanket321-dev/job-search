@@ -1,0 +1,7 @@
+{
+  "status": "setup_required",
+  "updated_at": null,
+  "sources": [],
+  "jobs": [],
+  "note": "This file is populated by the hourly GitHub Actions workflow after setup."
+}
