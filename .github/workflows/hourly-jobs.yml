@@ -21,6 +21,8 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -39,7 +41,12 @@ jobs:
             echo "No data changes to commit"
           else
             git commit -m "chore: refresh job listings"
-            git push
+            # The branch can advance after checkout (for example, while this
+            # scheduled job is collecting). Rebase the generated data commit
+            # on the latest branch before pushing so remote commits are kept.
+            git fetch origin "$GITHUB_REF_NAME"
+            git rebase "origin/$GITHUB_REF_NAME"
+            git push origin "HEAD:$GITHUB_REF_NAME"
           fi
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
