@@ -28,6 +28,23 @@ class JobNormalizationTests(unittest.TestCase):
                "url":"https://example.com/jobs/remote", "description":"AWS Linux"}
         self.assertIsNone(jobs.normalize(row, "Test"))
 
+    def test_indian_remote_and_preferred_cities_are_accepted(self):
+        remote = {"title":"Remote Junior DevOps Engineer", "company":"Example", "location":"Remote",
+                  "candidate_required_location":"India", "remote":True,
+                  "url":"https://example.com/jobs/remote", "description":"AWS Linux"}
+        city = {"title":"QA Engineer", "company":"Example", "location":"Chennai, India",
+                "url":"https://example.com/jobs/chennai", "description":"Manual testing"}
+        self.assertIsNotNone(jobs.normalize(remote, "Test"))
+        self.assertIsNotNone(jobs.normalize(city, "Test"))
+        worldwide = {**remote, "location":"Worldwide", "candidate_required_location":"Worldwide",
+                     "url":"https://example.com/jobs/global"}
+        self.assertIsNotNone(jobs.normalize(worldwide, "Test"))
+
+    def test_unscoped_remote_role_is_not_assumed_eligible_in_india(self):
+        row = {"title":"Remote Junior DevOps Engineer", "company":"Example", "location":"Remote",
+               "remote":True, "url":"https://example.com/jobs/remote", "description":"AWS Linux"}
+        self.assertIsNone(jobs.normalize(row, "Test"))
+
     def test_duplicate_urls_keep_the_higher_scored_listing(self):
         rows = [{"url":"https://www.example.com/job/1?source=a", "score":42},
                 {"url":"https://example.com/job/1#apply", "score":70}]
@@ -46,6 +63,11 @@ class JobNormalizationTests(unittest.TestCase):
         base = {"company":"Example", "location":"London", "url":"https://example.com/1", "description":"AWS"}
         self.assertIsNone(jobs.normalize({**base, "title":"Senior DevOps Engineer"}, "Test"))
         self.assertIsNone(jobs.normalize({**base, "title":"Junior DevOps Engineer"}, "Test"))
+
+    def test_roles_requiring_more_than_two_years_are_filtered(self):
+        row = {"title":"Cloud Support Engineer", "company":"Example", "location":"Pune",
+               "url":"https://example.com/jobs/3", "description":"Requires 3+ years of relevant experience."}
+        self.assertIsNone(jobs.normalize(row, "Test"))
 
     def test_matching_explains_score_and_gaps(self):
         row = {"id":"https://example.com/1", "title":"Junior Linux Support Engineer", "company":"A",

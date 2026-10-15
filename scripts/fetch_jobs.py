@@ -23,6 +23,8 @@ PROFILE = json.loads(PROFILE_PATH.read_text(encoding="utf-8"))
 ROLES = PROFILE["target_roles"]
 SKILLS = PROFILE["skills"]
 LOCATIONS = PROFILE["preferred_locations"]
+INDIA_LOCATIONS = ("india", "pune", "pimpri", "chinchwad", "maharashtra", "mumbai", "nashik", "nagpur",
+                   "bengaluru", "bangalore", "hyderabad", "chennai", "delhi", "ncr", "gurugram", "gurgaon", "noida")
 ROLE_RULES = {
     "DevOps": r"devops|platform engineer|ci/cd",
     "Cloud": r"cloud|aws|azure|gcp",
@@ -104,6 +106,19 @@ def location_rank(location, remote=False):
         return 3
     return 9
 
+def india_eligible(location, remote=False, remote_scope=""):
+    """Accept listed Indian locations or remote roles whose scope includes India."""
+    loc = location.lower()
+    scope = remote_scope.lower()
+    if any(term in loc for term in INDIA_LOCATIONS):
+        return True
+    if not remote:
+        return False
+    # Unscoped remote roles can be restricted to any country; include only scopes
+    # that explicitly accept India or are worldwide/anywhere.
+    scope_text = scope or loc
+    return bool(re.search(r"india|worldwide|anywhere|global|all countries", scope_text, re.I))
+
 def normalize(row, source):
     title = clean(row.get("title"))
     company = clean(row.get("company") or row.get("company_name") or "Company not listed")
@@ -111,12 +126,18 @@ def normalize(row, source):
     location = clean(location_obj.get("display_name", "") if isinstance(location_obj, dict) else location_obj)
     description = clean(row.get("description") or row.get("summary"))[:1200]
     url = safe_application_url(row.get("url") or row.get("redirect_url") or row.get("apply_url"))
-    remote = bool(row.get("remote")) or "remote" in location.lower() or "work from home" in location.lower()
+    remote = bool(row.get("remote")) or bool(re.search(r"remote|work from home|worldwide|anywhere|global", location, re.I))
     text = " ".join([title, description, " ".join(map(str, row.get("tags") or []))]).lower()
     category = classify(text)
-    if not title or not url or not category or location_rank(location, remote) == 9:
+    remote_scope = clean(row.get("candidate_required_location"))
+    if not title or not url or not category or not india_eligible(location, remote, remote_scope):
         return None
-    if re.search(r"\b(senior|lead|principal|staff|director|head of)\b|\b(5|6|7|8|9|10)\+\s*years", title + " " + description, re.I):
+    senior_title = re.search(r"\b(senior|lead|principal|staff|director|head of)\b", title, re.I)
+    excessive_experience = re.search(
+        r"(?:minimum|min\.?|at least|required|requires?)\s*(?:of\s*)?([3-9]|[1-9]\d)\+?\s*(?:years?|yrs?)|"
+        r"([3-9]|[1-9]\d)\+?\s*(?:years?|yrs?)\s+(?:of\s+)?(?:relevant\s+)?experience",
+        description, re.I)
+    if senior_title or excessive_experience:
         return None
     tags = row.get("tags") or []
     if isinstance(tags, str):
@@ -130,9 +151,6 @@ def normalize(row, source):
         return None
     exp_patterns = [r"(?:0\s*(?:-|to)\s*2|1\s*[-–]\s*2)\s*years?", r"\b(?:fresher|entry.level|graduate|trainee|junior|associate|intern)\b", r"\d+\+?\s*years?"]
     experience = next((m.group(0) for pat in exp_patterns if (m := re.search(pat, description + " " + title, re.I))), "Not specified")
-    remote_scope = clean(row.get("candidate_required_location"))
-    if remote_scope and not re.search(r"india|worldwide|anywhere|global|remote", remote_scope, re.I):
-        return None
     if remote_scope and remote_scope.lower() not in ("worldwide", "anywhere"):
         location = location or remote_scope
     return {"id": normalize_url(url), "title": title, "company": company, "location": location or ("Remote" if remote else "Not specified"),
@@ -182,7 +200,17 @@ def match(job):
     exp_score = 20 if junior or not years else max(0, 18 - int(years.group(1)) * 7)
     loc_scores = {0: 20, 1: 16, 2: 12, 3: 10, 9: 0}
     age = parse_date(job.get("posted_at"))
-    freshness = max(0, 15 - int((NOW-age).total_seconds()/86400)*2) if age else 0
+    age_hours = max(0, (NOW - age).total_seconds() / 3600) if age else None
+    if age_hours is None:
+        freshness = 0
+    elif age_hours <= 1:
+        freshness = 15
+    elif age_hours <= 6:
+        freshness = 13
+    elif age_hours <= 24:
+        freshness = 11
+    else:
+        freshness = max(0, 10 - int((age_hours - 24) / 24) * 2)
     skill_score = min(30, len(skills) * 6)
     score = min(100, skill_score + role_score + exp_score + loc_scores[location_rank(job["location"], job["remote"])] + freshness)
     missing = [s for s in SKILLS if s not in skills][:6]
@@ -229,7 +257,8 @@ def main():
         OUT.write_text(json.dumps(prev, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
         print("No source succeeded; preserved existing job data")
         return
-    current = {j.get("id") or normalize_url(j.get("url")): j for j in deduplicate(prev.get("jobs", [])) if j.get("url")}
+    current = {j.get("id") or normalize_url(j.get("url")): j for j in deduplicate(prev.get("jobs", []))
+               if j.get("url") and india_eligible(j.get("location", ""), j.get("remote", False))}
     all_new = deduplicate(all_new)
     seen = history if isinstance(history, dict) else {}
     fresh_ids = set()
@@ -246,6 +275,8 @@ def main():
         current[key] = job
         seen.setdefault(key, {"first_seen_at": job["first_seen_at"], "title": job["title"], "company": job["company"], "url": job["url"]})
     for job in jobs_from_previous(prev):
+        if not india_eligible(job.get("location", ""), job.get("remote", False)):
+            continue
         key = job.get("id") or normalize_url(job.get("url"))
         if key:
             seen.setdefault(key, {"first_seen_at": job.get("first_seen_at") or NOW.isoformat(), "title": job.get("title", ""), "company": job.get("company", ""), "url": job.get("url", "")})
