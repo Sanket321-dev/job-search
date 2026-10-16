@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-10-15T23:24:34.087781+00:00",
+  "updated_at": "2026-10-16T02:08:30.246938+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -21,40 +21,6 @@
       "experience": "Check listing",
       "score": 53,
       "match_reason": "Relevant keywords: testing",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Didn't find a suitable position? – Show Us What You’ve Got with an Unsolicited Application!",
-      "company": "Amperecloud GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/amperecloud-gmbh/didnt-find-a-suitable-position-show-us-what-youve-got-with-an-unsolicited-application-berlin-70361",
-      "description": "Job Description Are you ready to be part of an innovative team driving the clean energy transition? At Amperecloud, we are building the platform for automated production, trading and consumption across all forms and market players in renewable energy. As a Marketing Manager, your main objective will be to identify and seize new growth channels, enabling us to meet our pipeline and ARR targets. Together with our Head of Marketing you will develop new demand gen strategies, create content for them, do tests and in the end build an efficient, scalable & best-in-class revenue marketing engine. Sounds exciting? It for sure is. Show us what you’ve ",
-      "posted_at": 1792098084,
-      "tags": [
-        "Remote",
-        "IT"
-      ],
-      "experience": "Check listing",
-      "score": 48,
-      "match_reason": "Relevant keywords: role-family match",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Staff Site Reliability Engineer",
-      "company": "Adikteev",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.fr/jobs/companies/adikteev/remote-staff-site-reliability-engineer-paris-357394",
-      "description": "WHO WE ARE Adikteev is an AdTech company that helps mobile app publishers grow their revenue through targeted advertising. We deliver personalized ads that drive users to install an app or re-engage with one they've stopped using. Our clients are mostly mobile gaming leaders but also span e-commerce, on-demand services, and entertainment apps. Recognized for 10+ years as one of the top mobile retargeting platforms, Adikteev now operates globally from Paris, San Francisco, Barcelona and Seoul and has grown to over 120 employees. Beyond the business, Adikteev is consistently recognized as a great place to work. With an 18-nationality team, a 4.",
-      "posted_at": 1792009947,
-      "tags": [
-        "Engineering",
-        "Remote"
-      ],
-      "experience": "Check listing",
-      "score": 40,
-      "match_reason": "Relevant keywords: role-family match",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
