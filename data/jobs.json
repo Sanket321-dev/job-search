@@ -1,12 +1,28 @@
 {
   "status": "ok",
-  "updated_at": "2026-10-16T20:13:20.802641+00:00",
+  "updated_at": "2026-10-16T23:07:11.132166+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
     "Remotive remote API"
   ],
   "jobs": [
+    {
+      "title": "Integration Engineer (EMEA)",
+      "company": "Constructor",
+      "location": "Remote - EMEA",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-integration-engineer-emea-88268",
+      "description": "About the Position Launched in 2019, Constructor is an AI-first ecommerce search and discovery platform that helps shoppers find the right products at the right time and enables leading global e-commerce brands to drive meaningful revenue and conversion gains. As an Integration Engineer, you will improve the e-commerce experience for hundreds of millions of users across the world by providing first level technical support to e-commerce companies (our customers) as they integrate their websites and mobile applications with Constructor's platform. This includes: Onboarding support - Collaborating with customers to understand their technical int",
+      "posted_at": 1792183219,
+      "tags": [
+        "Engineering"
+      ],
+      "experience": "Check listing",
+      "score": 53,
+      "match_reason": "Relevant keywords: support",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": false
+    },
     {
       "title": "Software Test Engineer",
       "company": "SwissPeak Partners GmbH",
@@ -23,6 +39,22 @@
       "match_reason": "Relevant keywords: testing",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
+    },
+    {
+      "title": "Technical Integration Specialist (EMEA)",
+      "company": "Constructor",
+      "location": "Remote - EMEA",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-technical-integration-specialist-emea-177085",
+      "description": "About the Position Launched in 2019, Constructor is an AI-first ecommerce search and discovery platform that helps shoppers find the right products at the right time and enables leading global e-commerce brands to drive meaningful revenue and conversion gains. As a Technical Integration Specialist, you will improve the e-commerce experience for hundreds of millions of users across the world by providing first level technical support to e-commerce companies (our customers) as they integrate their websites and mobile applications with Constructor's platform. This includes: Onboarding support - Collaborating with customers to understand their te",
+      "posted_at": 1792183219,
+      "tags": [
+        "Engineering"
+      ],
+      "experience": "Check listing",
+      "score": 53,
+      "match_reason": "Relevant keywords: support",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": false
     },
     {
       "title": "Social Media Opener im Gesundheitsbereich (m/w/d)",
