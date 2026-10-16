@@ -1,12 +1,29 @@
 {
   "status": "ok",
-  "updated_at": "2026-10-16T07:38:58.934292+00:00",
+  "updated_at": "2026-10-16T12:49:20.581369+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
     "Remotive remote API"
   ],
   "jobs": [
+    {
+      "title": "System Engineer im Service Desk (w/m/d) | Heilbronn & Remote",
+      "company": "perinova IT-Management GmbH",
+      "location": "Stuttgart",
+      "url": "https://www.arbeitnow.com/jobs/companies/perinova-it-management-gmbh/system-engineer-im-service-desk-heilbronn-remote-stuttgart-254512",
+      "description": "Deine Aufgaben Das macht Deinen Job spannend und interessant – Deine Aufgaben! 1st und 2nd Level Support im Client-Management (O365, M365, AzureAD,…) Administration, Support von Clients und Anwender Direkter Kontakt mit Endanwendern am Service Desk an den Kunden-Standorten in Süddeutschland Umgang mit einem Ticketsystem und Dokumentation Deiner Tätigkeiten im Ticketsystem Installation und Konfiguration von Hardware- und Softwarekomponenten Analyse und Behebung von Störungen Dein Profil Das zeichnet Dich aus – Dein Profil! Du verfügst über eine erfolgreich abgeschlossene Ausbildung zum Fachinformatiker (w/m/d) oder bist Quereinsteiger (w/m/d) ",
+      "posted_at": 1792141254,
+      "tags": [
+        "Remote",
+        "Customer Service"
+      ],
+      "experience": "Check listing",
+      "score": 58,
+      "match_reason": "Relevant keywords: azure, support",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
     {
       "title": "Software Test Engineer",
       "company": "SwissPeak Partners GmbH",
@@ -39,6 +56,22 @@
       "match_reason": "Relevant keywords: devops",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
+    },
+    {
+      "title": "Senior Full Stack Engineer (Realtime & Voice) Customer Experience Platform",
+      "company": "Hopper",
+      "location": "England - Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hopper/remote-senior-full-stack-engineer-realtime-voice-customer-experience-platform-44760",
+      "description": "About the Role HTS Assist is Hopper's agentic AI assistant for travel, resolving flight changes, cancellations, refunds, and bookings over chat and voice for some of the world's largest travel brands. We're looking for a senior full stack engineer to anchor this product, owning the realtime and voice layer end to end while building across React/TypeScript front ends, Scala and Python services, and cloud infrastructure. The team is lean and senior, ownership is broad, and the path from your code to a traveler's phone call is short. What would your day-to-day look like Own the voice channel end to end, including telephony and CPaaS integrations",
+      "posted_at": 1792140015,
+      "tags": [
+        "CX"
+      ],
+      "experience": "Check listing",
+      "score": 23,
+      "match_reason": "Relevant keywords: role-family match",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": false
     }
   ],
   "note": "Availability is not guaranteed; confirm each opening on its source page."
