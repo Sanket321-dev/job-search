@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-10-17T11:49:50.291100+00:00",
+  "updated_at": "2026-10-17T14:36:41.205151+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -39,6 +39,23 @@
       "experience": "Check listing",
       "score": 53,
       "match_reason": "Relevant keywords: testing",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Founding Platform Engineer",
+      "company": "Mlabs",
+      "location": "Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/mlabs/remote-founding-platform-engineer-netherlands-152205",
+      "description": "We are hiring on behalf of our client, a fast-growing innovator in the crypto and decentralized finance space who is seeking a Founding Platform Engineer (Staff+ level) to join the team. This organization is behind a leading decentralized exchange (DEX) on HyperEVM, having achieved significant revenue milestones with an ultra-lean team. The client is now expanding its technical architecture to build an advanced, mobile-first crypto trading platform (spot + perps) alongside a novel, original social product featuring cutting-edge mechanisms. As the first and only engineer in this specialized domain, the incoming candidate will take an original ",
+      "posted_at": 1792239605,
+      "tags": [
+        "ADE",
+        "Remote"
+      ],
+      "experience": "Check listing",
+      "score": 40,
+      "match_reason": "Relevant keywords: role-family match",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
