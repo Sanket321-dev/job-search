@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-10-18T02:01:35.821783+00:00",
+  "updated_at": "2026-10-18T07:31:05.835062+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -8,37 +8,34 @@
   ],
   "jobs": [
     {
-      "title": "Cloud Engineer (m/w/d) mit Karriereambitionen!",
-      "company": "Auralis Group",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/auralis-group/cloud-engineer-mit-karriereambitionen-berlin-312024",
-      "description": "Wir sind ein fast zwei Jahre altes IT Unternehmen, aktuell 90 MA, und suchen nun weiterhin Verstärkung, um Cloud-Projekte bei unseren Kunden durchzuführen. Aufgaben Du willst: Deine Arbeitszeiten selbst bestimmen? von zuhause aus arbeiten (remote)? den nächsten Schritt in Deiner Karriere gehen und lernen, wie man Teams leitet und ein Unternehmen führt? einen Arbeitgeber, der Dich leistungs- und ergebnisorientiert bezahlt? Qualifikation Du: bist seit 4 Jahren in Vollzeit berufstätig im Bereich Softwareentwicklung/DevOps und hast große Teile Deiner Erfahrung in Cloud-Infrastrukturen und Deployment-Prozessen gesammelt? bringst Erfahrung in einem",
-      "posted_at": 1792233060,
+      "title": "SQL Developer – AI Prompting & Context Engineering",
+      "company": "Bromcom Computers Plc",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bromcom-computers-plc/remote-sql-developer-ai-prompting-context-engineering-bromley-374742",
+      "description": "This is a dual role, split between approximately 60% AI-assisted development and agent orchestration, and 40% SQL Server development supporting large-scale data migration. You’ll work within the development team and report to the Software Manager, combining practical AI skills with strong SQL expertise to deliver reliable, efficient solutions. Key Responsibilities AI-Assisted Development & Agent Orchestration (c. 60%) Use AI coding assistants, such as Claude Code or GitHub Copilot, across the development lifecycle, including code generation, refactoring, testing, documentation and review. Build and maintain effective prompts, system instructi",
+      "posted_at": 1792290733,
       "tags": [
-        "Remote",
-        "System and Network Administration"
+        "Remote"
       ],
       "experience": "Check listing",
-      "score": 58,
-      "match_reason": "Relevant keywords: network, devops",
+      "score": 68,
+      "match_reason": "Relevant keywords: git, testing, sql, support",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
     {
-      "title": "Software Testautomatisierer (m/w/d) mit Karriereambitionen",
-      "company": "Auralis Group",
-      "location": "Markt Indersdorf",
-      "url": "https://www.arbeitnow.com/jobs/companies/auralis-group/software-testautomatisierer-mit-karriereambitionen-markt-indersdorf-86749",
-      "description": "Wir sind ein fast zwei Jahre altes IT-Unternehmen mit aktuell 90 MA und wachsen weiter 🚀 Dafür suchen wir Verstärkung im Bereich Software Testing & Testautomatisierung, um spannende Projekte bei unseren Kunden umzusetzen. Aufgaben Du willst: Deine Arbeitszeiten selbst bestimmen? von zuhause aus arbeiten (remote)? nicht nur testen, sondern Qualität aktiv gestalten? Testautomatisierung auf das nächste Level bringen? den nächsten Schritt in Deiner Karriere gehen und lernen, wie man Teams leitet und Qualität strategisch aufbaut? einen Arbeitgeber, der Dich leistungs- und ergebnisorientiert bezahlt? Dann bist Du bei uns genau richtig. Qualifikatio",
-      "posted_at": 1792231250,
+      "title": "Fullstack-Softwareentwickler (m/w/d)",
+      "company": "Lippe Personal GmbH",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/lippe-personal-gmbh/remote-fullstack-softwareentwickler-dusseldorf-237759",
+      "description": "Wir suchen jemanden, der wirklich mitbaut. Lippe Personal ist seit 2017 auf einen Markt spezialisiert, der gerade unter Druck steht: Arztpraxen, Zahnarztpraxen, Physiotherapeuten und Apotheken in Deutschland finden kaum noch qualifiziertes Personal. Der Fachkräftemangel ist real, die Digitalisierung in diesem Bereich steckt noch in den Kinderschuhen, und die Lösungen, die es heute gibt, sind nicht für die Nutzer gebaut, die sie eigentlich brauchen. Das wollen wir ändern. Wir bauen gerade eine digitale Plattform auf, die den medizinischen Arbeitsmarkt im DACH-Raum neu strukturiert. Datengetrieben, mobil-first, mit einem klaren Fokus auf echten",
+      "posted_at": 1792290737,
       "tags": [
-        "Remote",
-        "Quality Assurance",
-        "Inspection"
+        "Remote"
       ],
       "experience": "Check listing",
       "score": 53,
-      "match_reason": "Relevant keywords: testing",
+      "match_reason": "Relevant keywords: git",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
@@ -60,6 +57,20 @@
       "remote": true
     },
     {
+      "title": "Werkstudent Infrastructure Capacity Management (m/w/d)",
+      "company": "Syseleven",
+      "location": "Berlin / 100% remote möglich",
+      "url": "https://www.arbeitnow.com/jobs/companies/syseleven/remote-werkstudent-infrastructure-capacity-management-1523",
+      "description": "Deine Mission Als Teil des Infrastructure-Teams unterstützt Du die Sicherstellung der technologischen Handlungsfähigkeit unserer Cloud- und Rechenzentrumsumgebungen. Du agierst an der Schnittstelle zwischen Datenanalyse und operativem Betrieb, um die transparente Skalierbarkeit für Themengebiete von Compute und Storage bis hin zu GPU-Ressourcen zu gewährleisten. Durch die Strukturierung komplexer Kapazitätsdaten trägst du direkt zur fundierten Entscheidungsfindung für strategische Investitionen und den Ausbau unserer hochsicheren Infrastruktur bei. Deine Aufgaben Aufbereitung und Konsolidierung von Infrastrukturdaten aus diversen Quellen für ",
+      "posted_at": 1792300393,
+      "tags": [],
+      "experience": "Check listing",
+      "score": 48,
+      "match_reason": "Relevant keywords: role-family match",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": false
+    },
+    {
       "title": "Founding Platform Engineer",
       "company": "Mlabs",
       "location": "Netherlands",
@@ -73,6 +84,23 @@
       "experience": "Check listing",
       "score": 40,
       "match_reason": "Relevant keywords: role-family match",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "(Senior) DevOps Engineer (m/w/d)",
+      "company": "HyPlus Technology GmbH",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/hyplus-technology-gmbh/remote-senior-devops-engineer-ratingen-155414",
+      "description": "Über uns: Die HyPlus ist Dein Wegbegleiter im digitalen Wandel. Gemeinsam mit unseren Kund:innen entwickeln wir strukturiert, partnerschaftlich und mit klarem Fokus auf nachhaltigen Mehrwert, deren digitale DNA. Wir begleiten Unternehmen von der Anforderungsanalyse über Architektur, Softwareentwicklung und Implementierung bis hin zum Betrieb. Mit rund 800 Kolleg:innen in Deutschland, Polen, Litauen, Rumänien und Indien verbinden wir technologische Exzellenz mit Branchenkompetenz in Automotive, Handel, Banken & Versicherungen sowie dem öffentlichen Sektor. Bei uns ist KI-gestütztes Arbeiten Alltag, keine Absichtserklärung: Alle Mitarbeitenden ",
+      "posted_at": 1792290730,
+      "tags": [
+        "HyPlus Solutions",
+        "Remote"
+      ],
+      "experience": "Check listing",
+      "score": 33,
+      "match_reason": "Relevant keywords: git, devops",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
