@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-10-17T23:37:08.099626+00:00",
+  "updated_at": "2026-10-18T02:01:35.821783+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -39,6 +39,23 @@
       "experience": "Check listing",
       "score": 53,
       "match_reason": "Relevant keywords: testing",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Solution Architect - Remote from EU",
+      "company": "AlmavivA de Belgique",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.nl/jobs/companies/almaviva-de-belgique/solution-architect-remote-from-eu-the-hague-438335",
+      "description": "DESCRIPTION OF THE TASKS: Perform market analysis and/or proof of concept work to validate intended designs and/or identify suitable technologies and products for the purpose of the delivery stream domain and scope; Follow-up on implementation of approved designs with ICT Engineering and Operations teams, helping clarifying open points and steering the implementation to success wherever needed, providing design knowledge expertise. More than 6 years of experience in ICT Solution design, specifically on integration architectures (and microservices architectures in the last couple of years) A minimum of 3 years of experience with Cloud native t",
+      "posted_at": 1792279902,
+      "tags": [
+        "Europol",
+        "Remote"
+      ],
+      "experience": "Check listing",
+      "score": 48,
+      "match_reason": "Relevant keywords: role-family match",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
