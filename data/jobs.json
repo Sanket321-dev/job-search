@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-10-19T11:30:38.293315+00:00",
+  "updated_at": "2026-10-19T17:55:38.075266+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -38,6 +38,24 @@
       "experience": "Check listing",
       "score": 63,
       "match_reason": "Relevant keywords: azure, ci/cd, devops",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "SAP Security & Authorizations Consultant",
+      "company": "Cypher Consulting Europe",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/cypher-consulting-europe/sap-security-authorizations-consultant-berlin-417832",
+      "description": "About Cypher Consulting Europe Cypher Consulting Europe delivers expert consultants across a wide spectrum of technologies and industry sectors. As an independent contractor working 40 hours per week on a 12-month contract remotely across the European Union, you will provide specialized expertise as an SAP Security & Authorizations Consultant. Your responsibilities Configure and maintain SAP business roles, permissions, and access authorizations. Manage user access and security settings within SAP Public Cloud. Ensure appropriate access controls and compliance with security policies. Collaborate with technical and functional teams to resolve ",
+      "posted_at": 1792409472,
+      "tags": [
+        "Remote",
+        "SAP/ERP Consulting",
+        "Development"
+      ],
+      "experience": "Check listing",
+      "score": 48,
+      "match_reason": "Relevant keywords: role-family match",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
