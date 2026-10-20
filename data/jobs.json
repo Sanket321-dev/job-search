@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-10-20T19:43:39.178911+00:00",
+  "updated_at": "2026-10-20T22:47:55.862883+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -23,6 +23,23 @@
       "experience": "Check listing",
       "score": 58,
       "match_reason": "Relevant keywords: aws, support",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Supportmitarbeiter (m/w/d) – 100 % Remote | Handwerkersoftware",
+      "company": "Craftevo UG (haftungsbeschränkt)",
+      "location": "Garrel",
+      "url": "https://www.arbeitnow.com/jobs/companies/craftevo-ug-haftungsbeschrankt/supportmitarbeiter-100-remote-handwerkersoftware-garrel-432156",
+      "description": "Hilf dem Handwerk. Arbeite von überall. Du kennst diesen Moment, wenn aus „Ich komme nicht weiter“ ein „Ah, jetzt klappt’s!“ wird? Genau dafür suchen wir dich. Als Supportmitarbeiter (m/w/d) bei craftivo hilfst du Handwerksbetrieben, mit unserer Software sicher durch ihren Alltag zu kommen – und arbeitest selbst dort, wo du dich wohlfühlst. 100 % Remote weltweit · Vollzeit, 40 Stunden pro Woche · ab sofort · Unlimited PTO Das ist craftivo Handwerker sollen abends Feierabend machen können, statt noch stundenlang Papierkram zu erledigen. Dafür entwickeln wir craftivo: eine Handwerkersoftware, die Angebote, Rechnungen, Projekte, Einsatzplanung, ",
+      "posted_at": 1792530045,
+      "tags": [
+        "Remote",
+        "Customer Service"
+      ],
+      "experience": "Check listing",
+      "score": 53,
+      "match_reason": "Relevant keywords: support",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
