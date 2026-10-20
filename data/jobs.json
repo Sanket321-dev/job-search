@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-10-20T05:31:14.695440+00:00",
+  "updated_at": "2026-10-20T10:36:19.557104+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -25,6 +25,38 @@
       "remote": true
     },
     {
+      "title": "Associate Director Quality Compliance / QA Client",
+      "company": "simtrabps",
+      "location": "Halle, North Rhine-Westphalia",
+      "url": "https://www.arbeitnow.com/jobs/companies/simtrabps/associate-director-quality-compliance-qa-client-halle-north-rhine-westphalia-378537",
+      "description": "<p style=\"text-align: justify;\"><em>Simtra ist ein erstklassiges Auftragsentwicklungs- &amp; Herstellungsunternehmen, welches seit über 65 Jahren in Zusammenarbeit mit mehr als 60 internationalen Kunden weltweit sterile, injizierbare Arzneimittel auf den Markt bringt. Unser Hauptaugenmerk liegt hierbei auf der Herstellung von Krebstherapeutika. <span style=\"font-style: italic;\">Mit der Unterstützung von über 2.000 Mitarbeitenden an unseren drei Standorten in Bloomington, Indiana, USA; Parsippany, New Jersey, USA und Halle/Westfalen, Deutschland</span>, können wir unseren Kunden ein breites Portfolio von Verabreichungssystemen anbieten, darunt",
+      "posted_at": 1792475714,
+      "tags": [
+        "Quality Assurance & Regulatory Affairs"
+      ],
+      "experience": "Early career mentioned",
+      "score": 65,
+      "match_reason": "Relevant keywords: qa",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": false
+    },
+    {
+      "title": "Backend Engineer (Ruby), Create: Change Record",
+      "company": "gitlab",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-backend-engineer-ruby-create-change-record-484067",
+      "description": "<div class=\"content-intro\"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.</p> <p>The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and",
+      "posted_at": 1792486526,
+      "tags": [
+        "DevOps Engineering"
+      ],
+      "experience": "Check listing",
+      "score": 58,
+      "match_reason": "Relevant keywords: git, devops",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": false
+    },
+    {
       "title": "Data Privacy Compliance Specialist",
       "company": "DeepHealth",
       "location": "Remote job",
@@ -44,23 +76,6 @@
       "remote": true
     },
     {
-      "title": "Cloud Engineer (f/m/d)",
-      "company": "Trusted Shops SE (DE)",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/trusted-shops-se-de/remote-cloud-engineer-cologne-307668",
-      "description": "Trusted Shops creates digital trust between people, businesses, and AI Agents. Every day, millions of consumers rely on our solutions to make confident online decisions, while businesses use our products to build trust, strengthen customer relationships, and grow sustainably. With around 700 colleagues across Europe, more than 30,000 online shops, and over 50 million consumers in our Community of Trust, we are helping shape a safer and more transparent digital world. To strengthen our Engineering Department, we are looking for a Cloud Engineer (f/m/d) Cologne (hybrid) or Berlin (remote) | Permanent Contract (Full-time) Join our Legal Tech Ser",
-      "posted_at": 1792443089,
-      "tags": [
-        "Tech",
-        "Remote"
-      ],
-      "experience": "Check listing",
-      "score": 53,
-      "match_reason": "Relevant keywords: git",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
       "title": "Software Test Engineer",
       "company": "SwissPeak Partners GmbH",
       "location": "Remote job",
@@ -74,23 +89,6 @@
       "experience": "Check listing",
       "score": 53,
       "match_reason": "Relevant keywords: testing",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Softwaretester/-in für Webapplikation im Energiehandelskontext",
-      "company": "Coopers Group AG",
-      "location": "Bern",
-      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/softwaretester-in-fur-webapplikation-im-energiehandelskontext-bern-356631",
-      "description": "................ Für unseren Kunden aus der Energiebranche in Bern, suchen wir eine:n erfahrene:n, motivierte:n und aufgeschlossene:n Softwaretester:in für Webapplikationen im Energiehandelskontext. In diesem Projekt unterstützt du die Qualitätssicherung eines neu entwickelten Zeitreihenmanagementsystems, das eine bestehende Kernanwendung ablösen wird. Du stellst durch strukturierte Testaktivitäten sicher, dass die neue Lösung über den gesamten Projektverlauf hinweg stabil, zuverlässig und fachlich korrekt funktioniert und begleitest den Weg bis zum geplanten Go-Live. Deine Aufgaben: Ableitung von Testfällen aus fachlichen und technischen Anf",
-      "posted_at": 1792391447,
-      "tags": [
-        "Remote",
-        "IT"
-      ],
-      "experience": "Check listing",
-      "score": 40,
-      "match_reason": "Relevant keywords: role-family match",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
