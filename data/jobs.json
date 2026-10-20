@@ -1,45 +1,12 @@
 {
   "status": "ok",
-  "updated_at": "2026-10-20T10:36:19.557104+00:00",
+  "updated_at": "2026-10-20T15:27:26.677806+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
     "Remotive remote API"
   ],
   "jobs": [
-    {
-      "title": "Remote SAP S/4HANA Finance & Tax Consultant",
-      "company": "PROSTAFF Schweiz GmbH",
-      "location": "Zürich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/prostaff-schweiz-gmbh/remote-sap-s-4hana-finance-tax-consultant-zurich-245808",
-      "description": "For an international SAP S/4HANA transformation project, we are looking for an experienced SAP S/4HANA Finance & Tax Consultant to support Finance, Tax, and Compliance activities. The role focuses on SAP ECC to S/4HANA migration, finance process optimization, tax compliance, and cross-functional integration. Support the Tax team in SAP S/4HANA transformation activities. Analyze, design, and optimize SAP Finance and Tax processes. Support the migration from SAP ECC to SAP S/4HANA. Participate in data migration, testing, training, and deployment activities. Ensure seamless integration between SAP Finance (FI), Materials Management (MM), and Sal",
-      "posted_at": 1792402297,
-      "tags": [
-        "Remote",
-        "Finance"
-      ],
-      "experience": "Early career mentioned",
-      "score": 70,
-      "match_reason": "Relevant keywords: testing, support",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Associate Director Quality Compliance / QA Client",
-      "company": "simtrabps",
-      "location": "Halle, North Rhine-Westphalia",
-      "url": "https://www.arbeitnow.com/jobs/companies/simtrabps/associate-director-quality-compliance-qa-client-halle-north-rhine-westphalia-378537",
-      "description": "<p style=\"text-align: justify;\"><em>Simtra ist ein erstklassiges Auftragsentwicklungs- &amp; Herstellungsunternehmen, welches seit über 65 Jahren in Zusammenarbeit mit mehr als 60 internationalen Kunden weltweit sterile, injizierbare Arzneimittel auf den Markt bringt. Unser Hauptaugenmerk liegt hierbei auf der Herstellung von Krebstherapeutika. <span style=\"font-style: italic;\">Mit der Unterstützung von über 2.000 Mitarbeitenden an unseren drei Standorten in Bloomington, Indiana, USA; Parsippany, New Jersey, USA und Halle/Westfalen, Deutschland</span>, können wir unseren Kunden ein breites Portfolio von Verabreichungssystemen anbieten, darunt",
-      "posted_at": 1792475714,
-      "tags": [
-        "Quality Assurance & Regulatory Affairs"
-      ],
-      "experience": "Early career mentioned",
-      "score": 65,
-      "match_reason": "Relevant keywords: qa",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": false
-    },
     {
       "title": "Backend Engineer (Ruby), Create: Change Record",
       "company": "gitlab",
