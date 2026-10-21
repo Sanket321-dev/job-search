@@ -1,12 +1,30 @@
 {
   "status": "ok",
-  "updated_at": "2026-10-21T17:45:43.602991+00:00",
+  "updated_at": "2026-10-21T21:00:24.825047+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
     "Remotive remote API"
   ],
   "jobs": [
+    {
+      "title": "Copywriter (m/w/d) Direct Response – 100 % Remote",
+      "company": "Just Hiring",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/just-hiring/copywriter-direct-response-100-remote-berlin-444204",
+      "description": "Du willst Texte schreiben, die wirklich verkaufen? Dann lies weiter. Viele Copywriter kennen das: Jeder Text wird von fünf Leuten zerredet. Man schreibt für zehn Kunden gleichzeitig und kann für keinen richtig tief gehen. Für jede Landingpage braucht man einen Entwickler, und am Ende weiß niemand, ob der Text überhaupt konvertiert hat. Hier läuft das anders. Unser Partner ist eine der führenden Supplement-Brands für Darmgesundheit im DACH-Raum. Seit über 10 Jahren am Markt, über 1 Million Kunden, bekannt aus dem TV und mit eigenem Expertenbeirat aus Ärzten und Wissenschaftlern. Der Gründer hat noch weitere sehr erfolgreiche Brands aufgebaut. ",
+      "posted_at": 1792609255,
+      "tags": [
+        "Remote",
+        "CRM",
+        "Direct Marketing"
+      ],
+      "experience": "Check listing",
+      "score": 48,
+      "match_reason": "Relevant keywords: role-family match",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
     {
       "title": "Senior back-end Engineer",
       "company": "Lemon.io",
