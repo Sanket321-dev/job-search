@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-10-21T01:06:39.215926+00:00",
+  "updated_at": "2026-10-21T06:45:20.561206+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -25,6 +25,23 @@
       "remote": true
     },
     {
+      "title": "Platform Engineer (f/m/d)",
+      "company": "Spread Group",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/spread-group/remote-platform-engineer-berlin-8213",
+      "description": "Who We Are Spread Group is a renowned global provider of customized apparel and lifestyle products, distinguished by our commitment to made-to-order technology. Our core business model revolves around producing precisely what our customers desire, precisely when they desire it. As pioneers in this space, we combine sustainability with on-demand personalization, enabling individuals and businesses to express their unique identities through bespoke creations. Join us to be part of a global leader in the exciting world of personalized apparel and lifestyle products! As we continue to expand our business, we are seeking a curious and passionate i",
+      "posted_at": 1792549882,
+      "tags": [
+        "Tech",
+        "Remote"
+      ],
+      "experience": "Check listing",
+      "score": 40,
+      "match_reason": "Relevant keywords: role-family match",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
       "title": "Global Head of SDLC Solution (EMEA based)",
       "company": "Valiantys",
       "location": "Remote, France",
@@ -39,24 +56,6 @@
       "match_reason": "Relevant keywords: devops",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": false
-    },
-    {
-      "title": "Senior / Lead Developer - Core Data Services (SAP BTP) (m/f/d)",
-      "company": "Fioneer",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/fioneer/remote-senior-lead-developer-core-data-services-sap-btp-germany-273542",
-      "description": "Innovation is and will always be the core of SAP Fioneer, and it is the promise of why we were spun out of SAP: agility, innovation, and delivery. SAP Fioneer builds on a heritage of outstanding technology and a deep understanding of corporate and consumer demands. At the heart of it all it is simple: We bring financial services to the next level with innovative software solutions and platforms. We are helping companies in the financial services industry to achieve speed, scalability, and cost-efficiency through digital business innovation, cloud technology, and solutions that cover banking and insurance processes end-to-end. A global company",
-      "posted_at": 1792506016,
-      "tags": [
-        "Information Technology and Services",
-        "Lending",
-        "Remote"
-      ],
-      "experience": "Check listing",
-      "score": 28,
-      "match_reason": "Relevant keywords: git",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
     },
     {
       "title": "Senior back-end Engineer",
