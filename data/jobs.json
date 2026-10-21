@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-10-21T06:45:20.561206+00:00",
+  "updated_at": "2026-10-21T12:33:21.541820+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -8,19 +8,19 @@
   ],
   "jobs": [
     {
-      "title": "Supportmitarbeiter (m/w/d) – 100 % Remote | Handwerkersoftware",
-      "company": "Craftevo UG (haftungsbeschränkt)",
-      "location": "Garrel",
-      "url": "https://www.arbeitnow.com/jobs/companies/craftevo-ug-haftungsbeschrankt/supportmitarbeiter-100-remote-handwerkersoftware-garrel-432156",
-      "description": "Hilf dem Handwerk. Arbeite von überall. Du kennst diesen Moment, wenn aus „Ich komme nicht weiter“ ein „Ah, jetzt klappt’s!“ wird? Genau dafür suchen wir dich. Als Supportmitarbeiter (m/w/d) bei craftivo hilfst du Handwerksbetrieben, mit unserer Software sicher durch ihren Alltag zu kommen – und arbeitest selbst dort, wo du dich wohlfühlst. 100 % Remote weltweit · Vollzeit, 40 Stunden pro Woche · ab sofort · Unlimited PTO Das ist craftivo Handwerker sollen abends Feierabend machen können, statt noch stundenlang Papierkram zu erledigen. Dafür entwickeln wir craftivo: eine Handwerkersoftware, die Angebote, Rechnungen, Projekte, Einsatzplanung, ",
-      "posted_at": 1792530045,
+      "title": "Microsoft Principle Project Manager (m/w/d)",
+      "company": "mi.ro Personalvermittlung",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/miro-personalvermittlung/microsoft-principle-project-manager-berlin-312463",
+      "description": "Krisenprojekte | Microsoft-Technologien | Turnaround-Management Hier übernehmen Sie Verantwortung für strategisch wichtige Microsoft-Großprojekte, die aus dem Takt geraten sind – und bringen sie mit Ihrer Erfahrung, Führungskraft und klarem Kurs zurück auf Erfolgsspur. Aufgaben Sie übernehmen, wenn andere nicht mehr weiterwissen – speziell bei Microsoft-Projekten. In dieser Rolle tragen Sie Verantwortung für strategisch wichtige Microsoftprojekte wie Azure-Migrationen, M365-Rollouts, Dynamics-Implementierungen oder hybride Cloud-Architekturen – genau dann, wenn sie ins Stocken geraten. Als erfahrener Principle Project Manager mit technischem ",
+      "posted_at": 1792573428,
       "tags": [
         "Remote",
-        "Customer Service"
+        "Project Management"
       ],
       "experience": "Check listing",
       "score": 53,
-      "match_reason": "Relevant keywords: support",
+      "match_reason": "Relevant keywords: azure",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
@@ -40,22 +40,6 @@
       "match_reason": "Relevant keywords: role-family match",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
-    },
-    {
-      "title": "Global Head of SDLC Solution (EMEA based)",
-      "company": "Valiantys",
-      "location": "Remote, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/valiantys/remote-global-head-of-sdlc-solution-emea-based-467285",
-      "description": "The mission You will be Valiantys’ global owner of the Software Development Lifecycle (SDLC) and Developer Experience (DevEx) practice. Your mandate is to turn Valiantys’ Atlassian, DevOps and AI expertise into differentiated, repeatable and profitable professional services solutions. You will shape the market position, build the offering portfolio, lead global practice uplift and help clients connect people, processes, platforms and AI agents across the software delivery lifecycle. This is a builder role for a leader who combines technical depth, consulting discipline, commercial acumen and executive presence. You will help clients move beyo",
-      "posted_at": 1792537778,
-      "tags": [
-        "Global Solutions"
-      ],
-      "experience": "Check listing",
-      "score": 28,
-      "match_reason": "Relevant keywords: devops",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": false
     },
     {
       "title": "Senior back-end Engineer",
