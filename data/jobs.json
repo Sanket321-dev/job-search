@@ -1,46 +1,12 @@
 {
   "status": "ok",
-  "updated_at": "2026-10-21T12:33:21.541820+00:00",
+  "updated_at": "2026-10-21T17:45:43.602991+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
     "Remotive remote API"
   ],
   "jobs": [
-    {
-      "title": "Microsoft Principle Project Manager (m/w/d)",
-      "company": "mi.ro Personalvermittlung",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/miro-personalvermittlung/microsoft-principle-project-manager-berlin-312463",
-      "description": "Krisenprojekte | Microsoft-Technologien | Turnaround-Management Hier übernehmen Sie Verantwortung für strategisch wichtige Microsoft-Großprojekte, die aus dem Takt geraten sind – und bringen sie mit Ihrer Erfahrung, Führungskraft und klarem Kurs zurück auf Erfolgsspur. Aufgaben Sie übernehmen, wenn andere nicht mehr weiterwissen – speziell bei Microsoft-Projekten. In dieser Rolle tragen Sie Verantwortung für strategisch wichtige Microsoftprojekte wie Azure-Migrationen, M365-Rollouts, Dynamics-Implementierungen oder hybride Cloud-Architekturen – genau dann, wenn sie ins Stocken geraten. Als erfahrener Principle Project Manager mit technischem ",
-      "posted_at": 1792573428,
-      "tags": [
-        "Remote",
-        "Project Management"
-      ],
-      "experience": "Check listing",
-      "score": 53,
-      "match_reason": "Relevant keywords: azure",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Platform Engineer (f/m/d)",
-      "company": "Spread Group",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/spread-group/remote-platform-engineer-berlin-8213",
-      "description": "Who We Are Spread Group is a renowned global provider of customized apparel and lifestyle products, distinguished by our commitment to made-to-order technology. Our core business model revolves around producing precisely what our customers desire, precisely when they desire it. As pioneers in this space, we combine sustainability with on-demand personalization, enabling individuals and businesses to express their unique identities through bespoke creations. Join us to be part of a global leader in the exciting world of personalized apparel and lifestyle products! As we continue to expand our business, we are seeking a curious and passionate i",
-      "posted_at": 1792549882,
-      "tags": [
-        "Tech",
-        "Remote"
-      ],
-      "experience": "Check listing",
-      "score": 40,
-      "match_reason": "Relevant keywords: role-family match",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
     {
       "title": "Senior back-end Engineer",
       "company": "Lemon.io",
@@ -54,6 +20,40 @@
       "experience": "Check listing",
       "score": 28,
       "match_reason": "Relevant keywords: devops",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Python & Cloud Native Software Engineer (76078)",
+      "company": "IQ Plus AG",
+      "location": "Winterthur",
+      "url": "https://www.arbeitnow.ch/jobs/companies/iq-plus-ag/python-amp-cloud-native-software-engineer-76078-winterthur-74030",
+      "description": "Wir suchen für einen unserer Kunden einen erfahrenen Python & Cloud Native Software Engineer. Als Senior Software Engineer übernimmst du eine zentrale technische Rolle in einem agilen Entwicklungsteam der Telekom. Neben der Entwicklung anspruchsvoller Softwarelösungen verantwortest du die technische Qualität der Umsetzung, unterstützt das Team als fachlicher Ansprechpartner und gestaltest die Softwarearchitektur aktiv mit. Du führst das Team technisch, etablierst Best Practices und sorgst durch Code Reviews, Architekturentscheidungen und Mentoring für eine nachhaltige und qualitativ hochwertige Softwareentwicklung. Dabei arbeitest du eng mit ",
+      "posted_at": 1792594850,
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "experience": "Check listing",
+      "score": 23,
+      "match_reason": "Relevant keywords: role-family match",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Senior AI-Native Software Engineer / Coach",
+      "company": "Coopers Group AG",
+      "location": "Zürich",
+      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/senior-ai-native-software-engineer-coach-zurich-476608",
+      "description": "................ For our banking client in Zurich , we are looking for an experienced Senior AI-Native Software Engineer / Coach to drive the transformation of software development through the practical application of AI. The objective of this project is to fundamentally transform the Product Development Lifecycle (PDLC) and Software Development Lifecycle (SDLC) by leveraging AI, enabling AI agents to increasingly take over engineering tasks while humans focus on direction, validation and quality assurance. The ideal candidate combines a strong software engineering background with extensive hands-on experience using AI-powered development too",
+      "posted_at": 1792584061,
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "experience": "Check listing",
+      "score": 23,
+      "match_reason": "Relevant keywords: role-family match",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     }
