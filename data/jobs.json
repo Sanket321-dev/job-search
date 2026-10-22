@@ -1,63 +1,12 @@
 {
   "status": "ok",
-  "updated_at": "2026-10-22T15:43:24.080125+00:00",
+  "updated_at": "2026-10-22T19:36:39.534085+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
     "Remotive remote API"
   ],
   "jobs": [
-    {
-      "title": "AI CAD CAM IoT Engineer / Tinkerer CNC - Junior/Mid/Senior",
-      "company": "Imnoo AG",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/imnoo-ag/remote-ai-cad-cam-iot-engineer-tinkerer-cnc-junior-mid-senior-berlin-204969",
-      "description": "For over 10 years at Imnoo at Imnoo, we are bridging the gap between applied artificial intelligence and heavy industrial machinery. We aren't just riding the recent AI wave, we have been deeply rooted in machine learning and statistical analysis for 10 years, delivering real, measurable value to a stable, loyal client base of manufacturers. Imnoo is a leading SaaS platform built to analyze CNC parts, automate quoting and planning, and seamlessly connect the cloud with real manufacturers and shop-floor machines. We are looking for a unique hybrid—a CAD AI IoT Engineer / Tinkerer—who thrives at the intersection of software architecture and phy",
-      "posted_at": 1792669914,
-      "tags": [
-        "Software Department",
-        "Remote"
-      ],
-      "experience": "Early career mentioned",
-      "score": 35,
-      "match_reason": "Relevant keywords: role-family match",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Machine Learning / Computer Graphics Engineer (remote part/full time) - Junior/Mid/Senior",
-      "company": "Imnoo AG",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/imnoo-ag/machine-learning-computer-graphics-engineer-remote-part-full-time-junior-mid-senior-berlin-96875",
-      "description": "Geometry with consequences. Deep learning on 3D CAD data where correctness translates into steel and aluminum, not pixels. The ultimate tinkerer's playground. Physical machines, shop floors, and modern cloud architectures all in one stack. Tangible impact. Your work feeds the data pipelines that power our AI quoting and calculation engines. Factories operate differently because of what you ship. High autonomy. A fragmented industry full of unsolved problems, and the freedom to prototype, test, and deploy your own solutions end-to-end. What you'll do: Develop advanced feature-extraction and data-processing solutions for 3D CAD, 2D, and batch d",
-      "posted_at": 1792669914,
-      "tags": [
-        "Software Department",
-        "Remote"
-      ],
-      "experience": "Early career mentioned",
-      "score": 35,
-      "match_reason": "Relevant keywords: role-family match",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Principal Engineer (Software Engineering/Devops)",
-      "company": "Grip",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/grip/remote-principal-engineer-software-engineering-devops-62745",
-      "description": "🚀 Who are We? Grip is the AI-powered, end-to-end event platform built for engagement. The flexible system helps commercial event organizers like Ascential, Hyve, Emerald and Clarion Events boost revenue by establishing, maintaining and tracking relationships between participants over multiple events. This is possible because Grip goes beyond networking. It combines AI with billions of interactions happening across the platform with a powerful event management system, seamless registration and award-winning mobile event app so participants meet the right people at the right time. 🚀 The Team We’re hiring a Principal Software Engineer with stron",
-      "posted_at": 1792669907,
-      "tags": [
-        "Engineering",
-        "Remote"
-      ],
-      "experience": "Check listing",
-      "score": 33,
-      "match_reason": "Relevant keywords: network, devops",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
     {
       "title": "Senior back-end Engineer",
       "company": "Lemon.io",
@@ -75,46 +24,12 @@
       "remote": true
     },
     {
-      "title": "Senior Cloud Engineer (f/m/d)",
-      "company": "Trusted Shops SE (DE)",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/trusted-shops-se-de/remote-senior-cloud-engineer-cologne-437627",
-      "description": "Trusted Shops creates digital trust between people, businesses, and AI Agents. Every day, millions of consumers rely on our solutions to make confident online decisions, while businesses use our products to build trust, strengthen customer relationships, and grow sustainably. With around 700 colleagues across Europe, more than 30,000 online shops, and over 50 million consumers in our Community of Trust, we are helping shape a safer and more transparent digital world. To strengthen our Engineering Department, we are looking for a Senior Cloud Engineer (f/m/d) Cologne (hybrid) or Berlin (remote) | Permanent Contract (Full-time) Join our Legal T",
-      "posted_at": 1792669910,
-      "tags": [
-        "Tech",
-        "Remote"
-      ],
-      "experience": "Check listing",
-      "score": 28,
-      "match_reason": "Relevant keywords: git",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
       "title": "Python & Cloud Native Software Engineer (76078)",
       "company": "IQ Plus AG",
       "location": "Winterthur",
       "url": "https://www.arbeitnow.ch/jobs/companies/iq-plus-ag/python-amp-cloud-native-software-engineer-76078-winterthur-74030",
       "description": "Wir suchen für einen unserer Kunden einen erfahrenen Python & Cloud Native Software Engineer. Als Senior Software Engineer übernimmst du eine zentrale technische Rolle in einem agilen Entwicklungsteam der Telekom. Neben der Entwicklung anspruchsvoller Softwarelösungen verantwortest du die technische Qualität der Umsetzung, unterstützt das Team als fachlicher Ansprechpartner und gestaltest die Softwarearchitektur aktiv mit. Du führst das Team technisch, etablierst Best Practices und sorgst durch Code Reviews, Architekturentscheidungen und Mentoring für eine nachhaltige und qualitativ hochwertige Softwareentwicklung. Dabei arbeitest du eng mit ",
       "posted_at": 1792594850,
-      "tags": [
-        "Remote",
-        "Software Development"
-      ],
-      "experience": "Check listing",
-      "score": 23,
-      "match_reason": "Relevant keywords: role-family match",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Senior AI-Native Software Engineer / Coach",
-      "company": "Coopers Group AG",
-      "location": "Zürich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/senior-ai-native-software-engineer-coach-zurich-476608",
-      "description": "................ For our banking client in Zurich , we are looking for an experienced Senior AI-Native Software Engineer / Coach to drive the transformation of software development through the practical application of AI. The objective of this project is to fundamentally transform the Product Development Lifecycle (PDLC) and Software Development Lifecycle (SDLC) by leveraging AI, enabling AI agents to increasingly take over engineering tasks while humans focus on direction, validation and quality assurance. The ideal candidate combines a strong software engineering background with extensive hands-on experience using AI-powered development too",
-      "posted_at": 1792584061,
       "tags": [
         "Remote",
         "Software Development"
