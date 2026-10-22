@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-10-22T10:48:39.930687+00:00",
+  "updated_at": "2026-10-22T15:43:24.080125+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -8,68 +8,53 @@
   ],
   "jobs": [
     {
-      "title": "Java Entwickler:in / Java Developer Backend (w/m/d)",
-      "company": "BBHT Beratungsgesellschaft mbH & Co. KG",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/java-entwicklerin-java-developer-backend-berlin-196646",
-      "description": "Software entwickeln ohne Agentur-Feeling. Software die funktioniert. Du möchtest moderne Java-Anwendungen entwickeln aber nicht in einem Umfeld arbeiten, in dem Tickets wichtiger sind als Menschen? Bei uns entwickelst du Backend-Lösungen für Banken und Versicherungen, arbeitest in agilen Teams und hast die Freiheit, technische Entscheidungen aktiv mitzugestalten. Überstunden werden bezahlt. Mentoring gehört zum Standard. Und gute Ideen landen nicht in der Schublade. Unser Tech Stack Java 17/21 Spring Boot Microservices Git Cloud & CI/CD AI im Entwicklungsalltag Du setzt agentische KI & LLM’s sinnvoll aber bedacht in klaren Softwarearchitektur",
-      "posted_at": 1792652465,
+      "title": "AI CAD CAM IoT Engineer / Tinkerer CNC - Junior/Mid/Senior",
+      "company": "Imnoo AG",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/imnoo-ag/remote-ai-cad-cam-iot-engineer-tinkerer-cnc-junior-mid-senior-berlin-204969",
+      "description": "For over 10 years at Imnoo at Imnoo, we are bridging the gap between applied artificial intelligence and heavy industrial machinery. We aren't just riding the recent AI wave, we have been deeply rooted in machine learning and statistical analysis for 10 years, delivering real, measurable value to a stable, loyal client base of manufacturers. Imnoo is a leading SaaS platform built to analyze CNC parts, automate quoting and planning, and seamlessly connect the cloud with real manufacturers and shop-floor machines. We are looking for a unique hybrid—a CAD AI IoT Engineer / Tinkerer—who thrives at the intersection of software architecture and phy",
+      "posted_at": 1792669914,
       "tags": [
-        "Remote",
-        "Software Development"
+        "Software Department",
+        "Remote"
       ],
-      "experience": "Check listing",
-      "score": 58,
-      "match_reason": "Relevant keywords: git, ci/cd",
+      "experience": "Early career mentioned",
+      "score": 35,
+      "match_reason": "Relevant keywords: role-family match",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
     {
-      "title": "Technical Support & Enablement Specialist (m/f/d)",
-      "company": "1KOMMA5˚",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/technical-support-enablement-specialist-berlin-158494",
-      "description": "1KOMMA5° At 1KOMMA5° , we pursue a clear vision: Living on wind and sunlight forever for free . To make this a reality, we are building the energy system of the future with Heartbeat AI. Want to be part of it? We bring together regional craftsmanship and scalable software: We don't think of solar, batteries, heat pumps, and e-mobility as isolated components, but control them as an intelligent, integrated overall system in our virtual power plant. Directly connected to the electricity market – in real time, fully automated. This way, energy is used when it is available from renewables and particularly cost-effective. By 2030, our goal is to tr",
-      "posted_at": 1792656068,
+      "title": "Machine Learning / Computer Graphics Engineer (remote part/full time) - Junior/Mid/Senior",
+      "company": "Imnoo AG",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/imnoo-ag/machine-learning-computer-graphics-engineer-remote-part-full-time-junior-mid-senior-berlin-96875",
+      "description": "Geometry with consequences. Deep learning on 3D CAD data where correctness translates into steel and aluminum, not pixels. The ultimate tinkerer's playground. Physical machines, shop floors, and modern cloud architectures all in one stack. Tangible impact. Your work feeds the data pipelines that power our AI quoting and calculation engines. Factories operate differently because of what you ship. High autonomy. A fragmented industry full of unsolved problems, and the freedom to prototype, test, and deploy your own solutions end-to-end. What you'll do: Develop advanced feature-extraction and data-processing solutions for 3D CAD, 2D, and batch d",
+      "posted_at": 1792669914,
       "tags": [
-        "Remote",
-        "Software Development"
+        "Software Department",
+        "Remote"
       ],
-      "experience": "Check listing",
-      "score": 53,
-      "match_reason": "Relevant keywords: support",
+      "experience": "Early career mentioned",
+      "score": 35,
+      "match_reason": "Relevant keywords: role-family match",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
     {
-      "title": "Account Executive, Defence & Intelligence, France",
-      "company": "planetlabs",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/planetlabs/remote-account-executive-defence-intelligence-france-286139",
-      "description": "<div class=\"content-intro\"><p><strong>Welcome to Planet. We believe in using space to help life on Earth.</strong></p> <p>Planet designs, builds, and operates the largest constellation of imaging satellites in history. This constellation delivers an unprecedented dataset of empirical information via a revolutionary cloud-based platform to authoritative figures in commercial, environmental, and humanitarian sectors. We are both a space company and data company all rolled into one.</p> <p>Customers and users across the globe use Planet's data to develop new technologies, drive revenue, power research, and solve our world’s toughest obstacles.</",
-      "posted_at": 1792648523,
+      "title": "Principal Engineer (Software Engineering/Devops)",
+      "company": "Grip",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/grip/remote-principal-engineer-software-engineering-devops-62745",
+      "description": "🚀 Who are We? Grip is the AI-powered, end-to-end event platform built for engagement. The flexible system helps commercial event organizers like Ascential, Hyve, Emerald and Clarion Events boost revenue by establishing, maintaining and tracking relationships between participants over multiple events. This is possible because Grip goes beyond networking. It combines AI with billions of interactions happening across the platform with a powerful event management system, seamless registration and award-winning mobile event app so participants meet the right people at the right time. 🚀 The Team We’re hiring a Principal Software Engineer with stron",
+      "posted_at": 1792669907,
       "tags": [
-        "Account Executive"
+        "Engineering",
+        "Remote"
       ],
       "experience": "Check listing",
-      "score": 48,
-      "match_reason": "Relevant keywords: role-family match",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": false
-    },
-    {
-      "title": "Solutions Architect, Pre-Sales - German Defense & Intelligence",
-      "company": "planetlabs",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/planetlabs/remote-solutions-architect-pre-sales-german-defense-intelligence-412802",
-      "description": "<div class=\"content-intro\"><p><strong>Welcome to Planet. We believe in using space to help life on Earth.</strong></p> <p>Planet designs, builds, and operates the largest constellation of imaging satellites in history. This constellation delivers an unprecedented dataset of empirical information via a revolutionary cloud-based platform to authoritative figures in commercial, environmental, and humanitarian sectors. We are both a space company and data company all rolled into one.</p> <p>Customers and users across the globe use Planet's data to develop new technologies, drive revenue, power research, and solve our world’s toughest obstacles.</",
-      "posted_at": 1792648522,
-      "tags": [
-        "Pre-Sales and Services"
-      ],
-      "experience": "Check listing",
-      "score": 48,
-      "match_reason": "Relevant keywords: role-family match",
+      "score": 33,
+      "match_reason": "Relevant keywords: network, devops",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
@@ -86,6 +71,23 @@
       "experience": "Check listing",
       "score": 28,
       "match_reason": "Relevant keywords: devops",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Senior Cloud Engineer (f/m/d)",
+      "company": "Trusted Shops SE (DE)",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/trusted-shops-se-de/remote-senior-cloud-engineer-cologne-437627",
+      "description": "Trusted Shops creates digital trust between people, businesses, and AI Agents. Every day, millions of consumers rely on our solutions to make confident online decisions, while businesses use our products to build trust, strengthen customer relationships, and grow sustainably. With around 700 colleagues across Europe, more than 30,000 online shops, and over 50 million consumers in our Community of Trust, we are helping shape a safer and more transparent digital world. To strengthen our Engineering Department, we are looking for a Senior Cloud Engineer (f/m/d) Cologne (hybrid) or Berlin (remote) | Permanent Contract (Full-time) Join our Legal T",
+      "posted_at": 1792669910,
+      "tags": [
+        "Tech",
+        "Remote"
+      ],
+      "experience": "Check listing",
+      "score": 28,
+      "match_reason": "Relevant keywords: git",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
