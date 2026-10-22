@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-10-22T05:34:59.647549+00:00",
+  "updated_at": "2026-10-22T10:48:39.930687+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -8,16 +8,64 @@
   ],
   "jobs": [
     {
-      "title": "Copywriter (m/w/d) Direct Response – 100 % Remote",
-      "company": "Just Hiring",
+      "title": "Java Entwickler:in / Java Developer Backend (w/m/d)",
+      "company": "BBHT Beratungsgesellschaft mbH & Co. KG",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/just-hiring/copywriter-direct-response-100-remote-berlin-444204",
-      "description": "Du willst Texte schreiben, die wirklich verkaufen? Dann lies weiter. Viele Copywriter kennen das: Jeder Text wird von fünf Leuten zerredet. Man schreibt für zehn Kunden gleichzeitig und kann für keinen richtig tief gehen. Für jede Landingpage braucht man einen Entwickler, und am Ende weiß niemand, ob der Text überhaupt konvertiert hat. Hier läuft das anders. Unser Partner ist eine der führenden Supplement-Brands für Darmgesundheit im DACH-Raum. Seit über 10 Jahren am Markt, über 1 Million Kunden, bekannt aus dem TV und mit eigenem Expertenbeirat aus Ärzten und Wissenschaftlern. Der Gründer hat noch weitere sehr erfolgreiche Brands aufgebaut. ",
-      "posted_at": 1792609255,
+      "url": "https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/java-entwicklerin-java-developer-backend-berlin-196646",
+      "description": "Software entwickeln ohne Agentur-Feeling. Software die funktioniert. Du möchtest moderne Java-Anwendungen entwickeln aber nicht in einem Umfeld arbeiten, in dem Tickets wichtiger sind als Menschen? Bei uns entwickelst du Backend-Lösungen für Banken und Versicherungen, arbeitest in agilen Teams und hast die Freiheit, technische Entscheidungen aktiv mitzugestalten. Überstunden werden bezahlt. Mentoring gehört zum Standard. Und gute Ideen landen nicht in der Schublade. Unser Tech Stack Java 17/21 Spring Boot Microservices Git Cloud & CI/CD AI im Entwicklungsalltag Du setzt agentische KI & LLM’s sinnvoll aber bedacht in klaren Softwarearchitektur",
+      "posted_at": 1792652465,
       "tags": [
         "Remote",
-        "CRM",
-        "Direct Marketing"
+        "Software Development"
+      ],
+      "experience": "Check listing",
+      "score": 58,
+      "match_reason": "Relevant keywords: git, ci/cd",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Technical Support & Enablement Specialist (m/f/d)",
+      "company": "1KOMMA5˚",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/technical-support-enablement-specialist-berlin-158494",
+      "description": "1KOMMA5° At 1KOMMA5° , we pursue a clear vision: Living on wind and sunlight forever for free . To make this a reality, we are building the energy system of the future with Heartbeat AI. Want to be part of it? We bring together regional craftsmanship and scalable software: We don't think of solar, batteries, heat pumps, and e-mobility as isolated components, but control them as an intelligent, integrated overall system in our virtual power plant. Directly connected to the electricity market – in real time, fully automated. This way, energy is used when it is available from renewables and particularly cost-effective. By 2030, our goal is to tr",
+      "posted_at": 1792656068,
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "experience": "Check listing",
+      "score": 53,
+      "match_reason": "Relevant keywords: support",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Account Executive, Defence & Intelligence, France",
+      "company": "planetlabs",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.fr/jobs/companies/planetlabs/remote-account-executive-defence-intelligence-france-286139",
+      "description": "<div class=\"content-intro\"><p><strong>Welcome to Planet. We believe in using space to help life on Earth.</strong></p> <p>Planet designs, builds, and operates the largest constellation of imaging satellites in history. This constellation delivers an unprecedented dataset of empirical information via a revolutionary cloud-based platform to authoritative figures in commercial, environmental, and humanitarian sectors. We are both a space company and data company all rolled into one.</p> <p>Customers and users across the globe use Planet's data to develop new technologies, drive revenue, power research, and solve our world’s toughest obstacles.</",
+      "posted_at": 1792648523,
+      "tags": [
+        "Account Executive"
+      ],
+      "experience": "Check listing",
+      "score": 48,
+      "match_reason": "Relevant keywords: role-family match",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": false
+    },
+    {
+      "title": "Solutions Architect, Pre-Sales - German Defense & Intelligence",
+      "company": "planetlabs",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/planetlabs/remote-solutions-architect-pre-sales-german-defense-intelligence-412802",
+      "description": "<div class=\"content-intro\"><p><strong>Welcome to Planet. We believe in using space to help life on Earth.</strong></p> <p>Planet designs, builds, and operates the largest constellation of imaging satellites in history. This constellation delivers an unprecedented dataset of empirical information via a revolutionary cloud-based platform to authoritative figures in commercial, environmental, and humanitarian sectors. We are both a space company and data company all rolled into one.</p> <p>Customers and users across the globe use Planet's data to develop new technologies, drive revenue, power research, and solve our world’s toughest obstacles.</",
+      "posted_at": 1792648522,
+      "tags": [
+        "Pre-Sales and Services"
       ],
       "experience": "Check listing",
       "score": 48,
