@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-10-23T12:15:44.194383+00:00",
+  "updated_at": "2026-10-23T17:35:00.231286+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -8,19 +8,36 @@
   ],
   "jobs": [
     {
-      "title": "Cyber Security Consultant (UK) - Dionach by Nomios",
-      "company": "Nomios",
+      "title": "Commercial Operations Director",
+      "company": "AnywhereNow",
       "location": "Remote job",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/nomios/remote-cyber-security-consultant-uk-dionach-by-nomios-scotland-274544",
-      "description": "Location This role offers flexibility to work remotely, with regular visits to client sites. Alternatively, you can choose a hybrid arrangement and work from our offices in Oxford or Glasgow, if preferred and UK based. Why join Dionach by Nomios? Since being acquired by Nomios in late 2024, Dionach by Nomios has continued its dynamic growth as a leading information security company. Specializing in penetration testing and information assurance services, we offer an incredible opportunity to be part of an experienced team, build your skills, and grow professionally. Dionach by Nomios holds impressive certifications, including CREST, CHECK, PCI",
-      "posted_at": 1792722671,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/anywherenow/remote-commercial-operations-director-london-349059",
+      "description": "About AnywhereNow Founded in 2010 in The Netherlands, AnywhereNow is a global leader in Enterprise Dialogue Management, with a vision to ensure every employee and customer feels heard, understood, and valued. With around 240 employees working from 22 different countries, we partner with over 2,000 leading enterprises, including Mazda, the UN International Organization for Migration, Adecco Group, and the University of Cape Town, to deliver exceptional customer experiences through the power of Microsoft Teams and AI-driven insights. Our commitment to innovation, customer focus, and accountability drives our success. Our portfolio includes Dial",
+      "posted_at": 1792756286,
       "tags": [
-        "Advisory Services",
+        "Cloud & Delivery - Cloud Operations",
+        "Remote"
+      ],
+      "experience": "Early career mentioned",
+      "score": 60,
+      "match_reason": "Relevant keywords: role-family match",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "DevOps Engineer (100% remote)",
+      "company": "Tether Operations Limited",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/devops-engineer-100-remote-united-kindom-97107",
+      "description": "Join Tether and Shape the Future of Digital Finance At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamlessly integrate reserve-backed tokens across blockchains. By harnessing the power of blockchain technology, Tether enables you to store, send, and receive digital tokens instantly, securely, and globally, all at a fraction of the cost. Transparency is the bedrock of everything we do, ensuring trust in every transaction. Innovate with Tether Tether Finance: Our innovative product suite featu",
+      "posted_at": 1792756290,
+      "tags": [
+        "Data",
         "Remote"
       ],
       "experience": "Check listing",
-      "score": 53,
-      "match_reason": "Relevant keywords: testing",
+      "score": 58,
+      "match_reason": "Relevant keywords: git, devops",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
@@ -58,23 +75,6 @@
       "remote": true
     },
     {
-      "title": "Lead Cyber Security Consultant (CHECK) (UK) - Dionach by Nomios",
-      "company": "Nomios",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/nomios/remote-lead-cyber-security-consultant-check-uk-dionach-by-nomios-england-228849",
-      "description": "Location This role offers flexibility to work remotely from your own home, or as a hybrid arrangement and work from our offices in Oxford or Glasgow, if preferred. There is also a requirement for flexibility from employees to visit client sites across the UK as part of this role. Why join Dionach by Nomios? Since being acquired by Nomios in late 2024, Dionach by Nomios has continued its dynamic growth as a leading information security company. Specializing in penetration testing and information assurance services, we offer an incredible opportunity to be part of an experienced team, build your skills, and grow professionally. Dionach by Nomio",
-      "posted_at": 1792722671,
-      "tags": [
-        "Advisory Services",
-        "Remote"
-      ],
-      "experience": "Check listing",
-      "score": 28,
-      "match_reason": "Relevant keywords: testing",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
       "title": "Senior back-end Engineer",
       "company": "Lemon.io",
       "location": "Europe, USA, UK, Canada, Australia, Ireland, Switzerland, Singapore, Mexico, Iceland, Norway",
@@ -87,23 +87,6 @@
       "experience": "Check listing",
       "score": 28,
       "match_reason": "Relevant keywords: devops",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Senior AI Platform Engineer- LLM & Agents (m/w/d)",
-      "company": "Neurawork GmbH & Co. KG",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/neurawork-gmbh-co-kg/senior-ai-platform-engineer-llm-agents-berlin-491116",
-      "description": "NeuraPlox baut eine AI-Agent-Plattform für Enterprise-Kunden aus Banken, Versicherungen und Pharma. Unsere Kunden müssen ihre KI-Outputs nicht nur erklären wollen, sondern erklären können: gegenüber Aufsicht, Audit und eigenen Fachbereichen. Deshalb bauen wir explainable AI mit Audit-Lineage, Decision-Provenance und Retrieval, das auch bei Millionen von Vektoren pro Tenant sauber funktioniert. Wir sind ein investor-backed Startup mit einem kleinen Team, in dem jede Entscheidung sichtbar Wirkung hat. Als Senior AI Platform Engineer verantwortest du die Agent-Architektur, also den Kern unseres Produkts, und baust das AI-Engineering bei uns ents",
-      "posted_at": 1792742476,
-      "tags": [
-        "Remote",
-        "Software Development"
-      ],
-      "experience": "Check listing",
-      "score": 15,
-      "match_reason": "Relevant keywords: role-family match",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     }
