@@ -1,30 +1,12 @@
 {
   "status": "ok",
-  "updated_at": "2026-10-23T06:42:13.157851+00:00",
+  "updated_at": "2026-10-23T12:15:44.194383+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
     "Remotive remote API"
   ],
   "jobs": [
-    {
-      "title": "AI Solution Architect (m/w/d)",
-      "company": "virtual7 GmbH",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-255821",
-      "description": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, die mit ihren Ideen, ihrem Können und Engagement etwas bewegen wollen. Fühlst du dich angesprochen? Dann gestalte Deine Welt zum Besseren und werde Teil unseres Customer Cluster Environment, Transportation & Energy. DEINE MISSION Als AI Solution Architect (m/w/d) gestaltest Du die KI-/ML-Gesamtarchitektur für komplexe Enterprise-Umgebungen in der Cloud mit Schwerpunkt Microsoft Azure. Du",
-      "posted_at": 1792701097,
-      "tags": [
-        "Customer Cluster Environment",
-        "Transportation & Energy",
-        "Remote"
-      ],
-      "experience": "Check listing",
-      "score": 58,
-      "match_reason": "Relevant keywords: azure, git",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
     {
       "title": "Cyber Security Consultant (UK) - Dionach by Nomios",
       "company": "Nomios",
@@ -43,23 +25,6 @@
       "remote": true
     },
     {
-      "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
-      "company": "virtual7 GmbH",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-89280",
-      "description": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, die mit ihren Ideen, ihrem Können und Engagement etwas bewegen wollen. Fühlst du dich angesprochen? Dann gestalte Deine Welt zum Besseren und werde Teil unseres Customer Clusters Justice. DEINE MISSION Als Kubernetes Administrator/Private Cloud Engineer (m/w/d) stellst du sicher, dass unsere Container-Infrastruktur reibungslos läuft und zukunftsfähig bleibt. Deine Mission ist es, eine ho",
-      "posted_at": 1792701097,
-      "tags": [
-        "Customer Cluster Justice",
-        "Remote"
-      ],
-      "experience": "Check listing",
-      "score": 53,
-      "match_reason": "Relevant keywords: git",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
       "title": "Solution Architect - Remote from EU",
       "company": "AlmavivA de Belgique",
       "location": "Remote job",
@@ -73,6 +38,22 @@
       "experience": "Check listing",
       "score": 48,
       "match_reason": "Relevant keywords: role-family match",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "(Senior) Sales Manager SaaS (m|w|d)",
+      "company": "ANGEHEUERT GmbH",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.ch/jobs/companies/angeheuert-gmbh/remote-senior-sales-manager-saas-mwd-bern-115360",
+      "description": "Du willst Sales mit Impact & eine Mission mit Mehrwert? Dann werde zur Speerspitze unserer Expansion in der Schweiz. Unser Kunde revolutioniert die Parkinfrastruktur mit smarter Kennzeichenerkennung, Cloud Software & digitaler Bezahllösung. Bereits heute ist das digitale Parksystem an über 500 Standorten im DACH-Raum etabliert . Jetzt soll die Expansion in der Schweiz gezielt vorangetrieben werden. Als (Senior) Sales Executive Schweiz (m|w|d) identifizierst du Geschäftspotenziale, gewinnst neue Kunden & steuerst den gesamten Sales Cycle von Erstkontakt bis Abschluss. Schranken, Tickets & Parkscheiben waren gestern. Jetzt kommt Parken 2.0. 🚗📲 ",
+      "posted_at": 1792744284,
+      "tags": [
+        "Remote"
+      ],
+      "experience": "Check listing",
+      "score": 28,
+      "match_reason": "Relevant keywords: git",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
@@ -110,35 +91,18 @@
       "remote": true
     },
     {
-      "title": "Senior Oracle Data Engineer (m/w/d)",
-      "company": "virtual7 GmbH",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-oracle-data-engineer-karlsruhe-177938",
-      "description": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, die mit ihren Ideen, ihrem Können und Engagement etwas bewegen wollen. Fühlst du dich angesprochen? Dann gestalte Deine Welt zum Besseren und werde Teil unseres Customer Clusters Finance. DEINE MISSION Als Senior Oracle Data Engineer (m/w/d) übernimmst du fachliche Verantwortung für anspruchsvolle Datenbanklösungen und gestaltest performante, sichere Anwendungen auf Basis von Oracle-Tech",
-      "posted_at": 1792701097,
-      "tags": [
-        "Customer Cluster Finance",
-        "Remote"
-      ],
-      "experience": "Check listing",
-      "score": 28,
-      "match_reason": "Relevant keywords: git",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Python & Cloud Native Software Engineer (76078)",
-      "company": "IQ Plus AG",
-      "location": "Winterthur",
-      "url": "https://www.arbeitnow.ch/jobs/companies/iq-plus-ag/python-amp-cloud-native-software-engineer-76078-winterthur-74030",
-      "description": "Wir suchen für einen unserer Kunden einen erfahrenen Python & Cloud Native Software Engineer. Als Senior Software Engineer übernimmst du eine zentrale technische Rolle in einem agilen Entwicklungsteam der Telekom. Neben der Entwicklung anspruchsvoller Softwarelösungen verantwortest du die technische Qualität der Umsetzung, unterstützt das Team als fachlicher Ansprechpartner und gestaltest die Softwarearchitektur aktiv mit. Du führst das Team technisch, etablierst Best Practices und sorgst durch Code Reviews, Architekturentscheidungen und Mentoring für eine nachhaltige und qualitativ hochwertige Softwareentwicklung. Dabei arbeitest du eng mit ",
-      "posted_at": 1792594850,
+      "title": "Senior AI Platform Engineer- LLM & Agents (m/w/d)",
+      "company": "Neurawork GmbH & Co. KG",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/neurawork-gmbh-co-kg/senior-ai-platform-engineer-llm-agents-berlin-491116",
+      "description": "NeuraPlox baut eine AI-Agent-Plattform für Enterprise-Kunden aus Banken, Versicherungen und Pharma. Unsere Kunden müssen ihre KI-Outputs nicht nur erklären wollen, sondern erklären können: gegenüber Aufsicht, Audit und eigenen Fachbereichen. Deshalb bauen wir explainable AI mit Audit-Lineage, Decision-Provenance und Retrieval, das auch bei Millionen von Vektoren pro Tenant sauber funktioniert. Wir sind ein investor-backed Startup mit einem kleinen Team, in dem jede Entscheidung sichtbar Wirkung hat. Als Senior AI Platform Engineer verantwortest du die Agent-Architektur, also den Kern unseres Produkts, und baust das AI-Engineering bei uns ents",
+      "posted_at": 1792742476,
       "tags": [
         "Remote",
         "Software Development"
       ],
       "experience": "Check listing",
-      "score": 23,
+      "score": 15,
       "match_reason": "Relevant keywords: role-family match",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
