@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-10-25T10:21:26.371337+00:00",
+  "updated_at": "2026-10-25T14:39:58.749097+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -8,20 +8,53 @@
   ],
   "jobs": [
     {
-      "title": "DevOps Engineer W/M (remote) 🇪🇺",
-      "company": "Pennylane SAS",
+      "title": "DevOps Engineer",
+      "company": "Swarmaero",
       "location": "Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/devops-engineer-w-m-remote-451955",
-      "description": "Are you looking to have an impact on the daily life of millions of entrepreneurs in France (and tomorrow in Europe)? Are you looking for a work environment that values trust, proactivity, and autonomy? Are our Engineering principles aligned with your vision? Then Pennylane is the right place for you ! Our vision We aim to become the most beloved financial Operating System of French SMEs and Accounting Firms (and soon, European ones). We help entrepreneurs rid themselves of time-consuming tasks related to accounting and finance while providing them with access to key financial information to assist in making the best decisions for their busine",
-      "posted_at": 1792852815,
+      "url": "https://www.arbeitnow.com/jobs/companies/swarmaero/remote-devops-engineer-242127",
+      "description": "Swarm Aero is redefining air power, building the largest swarming UAV and the most versatile swarming aircraft network in the world. The company is moving quickly to launch the first aircraft designed specifically for swarming, as well as the Command & Control software to mobilize swarms of thousands of heterogeneous autonomous assets and empower human operators to achieve superhuman results. The team has created and exited multiple startups, negotiated defense deals worth billions of dollars, and designed and built 30+ novel aircraft, with aerospace experience from Scaled Composites, Airbus, Archer Aviation, Blue Origin, and Boom Supersonic.",
+      "posted_at": 1792921214,
       "tags": [
-        "Tech"
+        "Legion"
+      ],
+      "experience": "Check listing",
+      "score": 58,
+      "match_reason": "Relevant keywords: network, devops",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Cinder Expert Network",
+      "company": "Cinder",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/cinder/remote-cinder-expert-network-84072",
+      "description": "Cinder builds safety infrastructure for some of the most important AI and internet platforms in the world, including Midjourney, ElevenLabs, Synthesia and Black Forest Labs. We’re backed by Accel, Y Combinator, and Radical Ventures. We’re building a network of specialists who test AI models for the ways they can cause real harm. When a customer project calls for your expertise, we bring you in on a paid, project-based contract. We want to hear from: Red teamers and jailbreakers with hands-on experience getting frontier models to break Testers with experience across image, video, and audio generation, or in agentic and MCP-connected systems Ex",
+      "posted_at": 1792921215,
+      "tags": [
+        "Talent Community"
+      ],
+      "experience": "Early career mentioned",
+      "score": 57,
+      "match_reason": "Relevant keywords: network",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Platform Engineer",
+      "company": "ITQ",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.fr/jobs/companies/itq/remote-platform-engineer-paris-409658",
+      "description": "Our customers are beginning to embrace cloud-native and more agile approaches to developing software and services. To achieve this, they require the right tools and platforms, as well as the appropriate mindset to navigate the cultural shifts necessary for adopting modern application practices. And for this, we need your assistance! ITQ assists our clients in accelerating development and iteration, supporting their infrastructure teams in implementing Kubernetes and related services, and establishing platform teams, all to extract maximum value from a cloud-native mindset and approach. We leverage all public cloud services or the VMware Tanzu",
+      "posted_at": 1792932682,
+      "tags": [
+        "FR - CNA",
+        "Remote"
       ],
       "experience": "Check listing",
       "score": 53,
-      "match_reason": "Relevant keywords: devops",
+      "match_reason": "Relevant keywords: support",
       "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": false
+      "remote": true
     },
     {
       "title": "Software Test Engineer",
