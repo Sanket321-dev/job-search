@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-10-25T17:57:30.343535+00:00",
+  "updated_at": "2026-10-25T20:19:49.656144+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -88,22 +88,6 @@
       "match_reason": "Relevant keywords: devops",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
-    },
-    {
-      "title": "Cloud Security Engineer",
-      "company": "Ygo",
-      "location": "Remote EU",
-      "url": "https://www.arbeitnow.com/jobs/companies/ygo/remote-cloud-security-engineer-291881",
-      "description": "YGO.ai is a VC-funded AI tourism platform. We are hiring a Cloud Security Engineer to own the security of our cloud platform, the APIs our enterprise clients run on and the company itself. 🛡️ About this role. The role carries two things at once. You own security engineering directly and hands-on. You build the security function around it as we grow. At YGO a pod lead is a squad leader and a spokesperson, close to the work and close to the client, rather than a full-time manager. You will not stop being an engineer. The work is broad. You might review source code in the morning, investigate an endpoint alert after lunch and help design a new a",
-      "posted_at": 1792899611,
-      "tags": [
-        "Product Engineering"
-      ],
-      "experience": "Check listing",
-      "score": 23,
-      "match_reason": "Relevant keywords: role-family match",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": false
     }
   ],
   "note": "Availability is not guaranteed; confirm each opening on its source page."
