@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-10-25T14:39:58.749097+00:00",
+  "updated_at": "2026-10-25T17:57:30.343535+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -102,22 +102,6 @@
       "experience": "Check listing",
       "score": 23,
       "match_reason": "Relevant keywords: role-family match",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": false
-    },
-    {
-      "title": "Senior Platform Engineer (d/f/m)",
-      "company": "Vivenu",
-      "location": "Remote Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/vivenu/remote-senior-platform-engineer-428111",
-      "description": "Redefine the future of live entertainment tech Welcome to vivenu, the global leader in event ticketing tech and one of the world’s fastest-growing live entertainment tech firms. We are transforming event ticketing for global leaders like the Grammys, the Golden Globes, Stanford University and the Hockenheimring turning what was once a simple transaction into a strategic business advantage. Backed by over $65 million in funding, our platform empowers event organizers to own their brand experience, unlock deep data insights, and seamlessly integrate ticketing into their digital infrastructure. With six offices worldwide and growing, we deliver ",
-      "posted_at": 1792897648,
-      "tags": [
-        "Product & Development"
-      ],
-      "experience": "Check listing",
-      "score": 20,
-      "match_reason": "Relevant keywords: git",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": false
     }
