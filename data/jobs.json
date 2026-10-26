@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-10-26T00:50:48.121160+00:00",
+  "updated_at": "2026-10-26T05:34:26.509609+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -36,23 +36,6 @@
       "experience": "Early career mentioned",
       "score": 57,
       "match_reason": "Relevant keywords: network",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Platform Engineer",
-      "company": "ITQ",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.fr/jobs/companies/itq/remote-platform-engineer-paris-409658",
-      "description": "Our customers are beginning to embrace cloud-native and more agile approaches to developing software and services. To achieve this, they require the right tools and platforms, as well as the appropriate mindset to navigate the cultural shifts necessary for adopting modern application practices. And for this, we need your assistance! ITQ assists our clients in accelerating development and iteration, supporting their infrastructure teams in implementing Kubernetes and related services, and establishing platform teams, all to extract maximum value from a cloud-native mindset and approach. We leverage all public cloud services or the VMware Tanzu",
-      "posted_at": 1792932682,
-      "tags": [
-        "FR - CNA",
-        "Remote"
-      ],
-      "experience": "Check listing",
-      "score": 53,
-      "match_reason": "Relevant keywords: support",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
