@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-10-27T01:42:10.660962+00:00",
+  "updated_at": "2026-10-27T06:59:57.226198+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -88,24 +88,6 @@
       "experience": "Check listing",
       "score": 53,
       "match_reason": "Relevant keywords: testing",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Trainer/Dozent (m/w/x) für ITIL 5® Foundation Kurse (remote)",
-      "company": "GFN GmbH",
-      "location": "Heidelberg",
-      "url": "https://www.arbeitnow.com/jobs/companies/gfn-gmbh/trainer-dozent-fur-itil-5-foundation-kurse-remote-heidelberg-439571",
-      "description": "Die GFN GmbH begleitet als Bildungsanbieter mit IT-Spezialisierung deutschlandweit Menschen bei ihrer Weiterbildung und beruflichen Neuorientierung. Wir suchen freiberufliche Trainer (m/w/x) für einwöchige ITIL® 5 Foundation Kurse im geförderten Bildungsbereich. Aufgaben Unterricht & Prüfungsvorbereitung für ITIL® 5 Foundation Durchführung von Online-Live-Trainings Vor- und Nachbereitung der Trainings Betreuung und Beratung der Teilnehmenden Qualifikation Unterrichtserfahrung in der Erwachsenenbildung, idealerweise im geförderten Bildungsbereich (Nachweis erforderlich) Ausbildereignung IHK (AEVO) oder die Bereitschaft, diesen Nachweis noch zu",
-      "posted_at": 1793021461,
-      "tags": [
-        "Remote",
-        "Training",
-        "Development"
-      ],
-      "experience": "Check listing",
-      "score": 48,
-      "match_reason": "Relevant keywords: role-family match",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
