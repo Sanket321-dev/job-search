@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-10-27T06:59:57.226198+00:00",
+  "updated_at": "2026-10-27T13:02:42.113511+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -8,69 +8,54 @@
   ],
   "jobs": [
     {
-      "title": "Nebenjob als Online-Testbenutzer (m/w/d) - Studien für Apps, Websites & digitale Produkte",
-      "company": "TPnet Marktforschung",
-      "location": "Leipzig",
-      "url": "https://www.arbeitnow.com/jobs/companies/tpnet-marktforschung/nebenjob-als-online-testbenutzer-studien-fur-apps-websites-digitale-produkte-leipzig-230691",
-      "description": "Wie gut funktionieren neue Apps? Sind Websites verständlich aufgebaut? Und wie kommen neue Produkte bei Nutzern wirklich an? Genau solche Fragen untersuchen Unternehmen gemeinsam mit der Plattform TestingTime . Dafür werden regelmäßig Menschen gesucht, die neue digitale Angebote testen und ihre Eindrücke teilen. Als Online-Testbenutzer unterstützt du Studien zu Apps, Websites oder digitalen Services und gibst ehrliches Feedback aus Sicht eines Nutzers. Aufgaben Teilnahme an Online-Studien zu Apps, Websites oder digitalen Produkten Teilen deiner Eindrücke und Erfahrungen als Nutzer Bewertung von Bedienbarkeit, Design und Verständlichkeit Beant",
-      "posted_at": 1793023276,
+      "title": "DevOps Engineer (m/w/d) für Linux- und Kubernetes-basierte OSS-Infrastrukturen",
+      "company": "Biz Factory GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/biz-factory-gmbh/devops-engineer-fur-linux-und-kubernetes-basierte-oss-infrastrukturen-berlin-446339",
+      "description": "Du bist ein technischer Experte mit starken Grundlagen in Linux- und Container-basierten Systemen. Du hast eine \"Hands-on\"-Mentalität und gehst proaktiv auf Probleme zu, um diese zu lösen? Dann bist du bei uns richtig! Aufgaben Deine Rolle Wir suchen einen serviceorientierten DevOps Engineer, der uns bei der Inbetriebnahme und dem Betrieb unserer Linux-basierten IT-Systeme unterstützt. Du wirst technische Fähigkeiten, eine Leidenschaft für Problemlösungen und die Fähigkeit benötigen, um skalierbare Systeme innerhalb eines agilen Umfelds zu betreiben. Wir erwarten nicht, dass du alles bereits perfekt beherrschst, aber solide Kenntnisse in cont",
+      "posted_at": 1793093448,
       "tags": [
         "Remote",
-        "Marketing and Communication"
+        "System and Network Administration"
+      ],
+      "experience": "Check listing",
+      "score": 63,
+      "match_reason": "Relevant keywords: linux, network, devops",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "GCP Cloud Architect (Network) (m/w/d)",
+      "company": "adconova GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/adconova-gmbh/gcp-cloud-architect-network-berlin-49011",
+      "description": "Über adconova Effizienz² Deine Experten für Technical FinOps und AI Coaching Gegründet im Jahr 2021, bündelt adconova tiefgreifendes Expertenwissen aus den Bereichen Cloud und DevOps, um die digitale Transformation greifbar und messbar zu machen. Mit unserem Team agieren wir deutschlandweit als strategischer Partner für Unternehmen, die technologische Exzellenz mit wirtschaftlicher Vernunft vereinen wollen. Unsere Kernkompetenzen: - Technical FinOps: Wir bringen Transparenz in komplexe Cloud-Strukturen und optimieren Ihre Ausgaben durch präzises Kosten-Monitoring und Effizienzanalysen gebündelt mit technischer Umsetzung von Anpassungen. - AI ",
+      "posted_at": 1793091680,
+      "tags": [
+        "Remote",
+        "System and Network Administration"
+      ],
+      "experience": "Check listing",
+      "score": 63,
+      "match_reason": "Relevant keywords: git, network, devops",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "SAP HCM Consultant (TM, OM & PA)",
+      "company": "Market Cloud",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/market-cloud/sap-hcm-consultant-tm-om-pa-london-47820",
+      "description": "Key Responsibilities: Configure and support SAP HCM modules including TM, OM, and PA. Analyze business requirements and provide effective SAP HCM solutions. Manage employee master data, organizational structures, and time management processes. Implement and support payroll-related integrations with PA and TM modules. Work closely with business stakeholders to gather requirements and deliver enhancements. Perform system testing, troubleshooting, and issue resolution. Prepare functional specifications and support documentation. Collaborate with technical teams for custom developments and integrations. Required Skills: Strong hands-on experience",
+      "posted_at": 1793088055,
+      "tags": [
+        "Remote",
+        "SAP/ERP Consulting",
+        "Development"
       ],
       "experience": "Check listing",
       "score": 58,
-      "match_reason": "Relevant keywords: git, testing",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "DevOps Softwareentwickler/in mit Karriereambitionen - jetzt mit uns voll durchstarten!",
-      "company": "Auralis Group",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/auralis-group/devops-softwareentwickler-in-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-berlin-373151",
-      "description": "Wir sind ein fast zwei Jahre altes IT Unternehmen, aktuell 90 MA, und suchen nun weiterhin Verstärkung, um Cloud-Projekte bei unseren Kunden durchzuführen. Aufgaben Du willst: Deine Arbeitszeiten selbst bestimmen? von zuhause aus arbeiten (remote)? den nächsten Schritt in Deiner Karriere gehen und lernen, wie man Teams leitet und ein Unternehmen führt? einen Arbeitgeber, der Dich leistungs- und ergebnisorientiert bezahlt? Qualifikation Du: bist seit 4 Jahren in Vollzeit berufstätig im Bereich Softwareentwicklung/DevOps und hast große Teile Deiner Erfahrung in Cloud-Infrastrukturen und Deployment-Prozessen gesammelt? bringst Erfahrung in einem",
-      "posted_at": 1793032251,
-      "tags": [
-        "Remote",
-        "Software Development"
-      ],
-      "experience": "Check listing",
-      "score": 53,
-      "match_reason": "Relevant keywords: devops",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Integration Engineer (French Speaker)",
-      "company": "Constructor",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-integration-engineer-french-speaker-444069",
-      "description": "About the Position Launched in 2019, Constructor is an AI-first ecommerce search and discovery platform that helps shoppers find the right products at the right time and enables leading global e-commerce brands to drive meaningful revenue and conversion gains. As an Integration Engineer, you will improve the e-commerce experience for hundreds of millions of users across the world by providing first level technical support to e-commerce companies (our customers) as they integrate their websites and mobile applications with Constructor's platform. This includes: Onboarding support - Collaborating with customers to understand their technical int",
-      "posted_at": 1793040013,
-      "tags": [
-        "Engineering"
-      ],
-      "experience": "Check listing",
-      "score": 53,
-      "match_reason": "Relevant keywords: support",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Performance Marketing Manager – Paid Social (m/w/d)",
-      "company": "Alphapet Ventures GmbH",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/alphapet-ventures-gmbh/performance-marketing-manager-paid-social-munich-171243",
-      "description": "Werde Teil unseres Teams Unbefristet, Vollzeit, Remote (oder München) Deine Ads bringen gesunde Tiernahrung in mehr Näpfe . Hinter jeder Kampagne steht ein Hund oder eine Katze, die besser frisst. Als Performance Marketing Manager Paid Social sorgst du dafür, dass unsere Premium-Marken möglichst viele Tierhalter:innen erreichen. Dafür verantwortest du vier Meta-Konten, die Testing-Roadmap und die Creative-Briefings. Gemeinsam mit unserem Creative Strategist findest du heraus, welche Botschaften wirklich überzeugen. Saubere Daten von Pixel bis CAPI und verlässliche Reportings sind dabei deine Basis. Dein Beitrag zahlt direkt auf unsere Neukund",
-      "posted_at": 1793032250,
-      "tags": [
-        "Remote",
-        "Marketing and Communication"
-      ],
-      "experience": "Check listing",
-      "score": 53,
-      "match_reason": "Relevant keywords: testing",
+      "match_reason": "Relevant keywords: testing, support",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
@@ -92,6 +77,23 @@
       "remote": true
     },
     {
+      "title": "Bénévole Développeur Testeur d’Application- Association Startup de Tech Solidaire - Télétravail",
+      "company": "LA FAMILLE MAGHEN",
+      "location": "Montpellier",
+      "url": "https://www.arbeitnow.fr/jobs/companies/la-famille-maghen/benevole-developpeur-testeur-dapplication-association-startup-de-tech-solidaire-teletravail-montpellier-45193",
+      "description": "Ce que vous allez accomplir Vous rejoignez une association de tech solidaire pour concevoir, tester et développer nos applications d'inclusion sociale, notamment sur le projet e-PhotoID. Vous participez à la phase de test, identifiez les anomalies et sécurisez la qualité de nos solutions numériques destinées à lutter contre la fracture numérique. Ce que nous attendons de vous Un engagement bénévole de 10 heures par semaine en télétravail total, adapté à votre rythme. Une formation en développement informatique, en test de logiciels ou dans un domaine technique similaire. De la rigueur dans l'analyse des bugs et une réelle aisance avec les out",
+      "posted_at": 1793102466,
+      "tags": [
+        "Remote",
+        "Web Development"
+      ],
+      "experience": "Check listing",
+      "score": 40,
+      "match_reason": "Relevant keywords: role-family match",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
       "title": "Senior back-end Engineer",
       "company": "Lemon.io",
       "location": "Europe, USA, UK, Canada, Australia, Ireland, Switzerland, Singapore, Mexico, Iceland, Norway",
@@ -104,6 +106,23 @@
       "experience": "Check listing",
       "score": 28,
       "match_reason": "Relevant keywords: devops",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Senior Data Architect (3 month project)",
+      "company": "Intetics 2",
+      "location": "France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/intetics-2/remote-senior-data-architect-3-month-project-france-46823",
+      "description": "We are looking for an experienced Senior Data Architect to assess an existing data landscape and define a scalable target-state architecture that can support future business growth. The role combines architecture assessment, data platform design, governance, data quality, integrations, and implementation support across cloud, on-premises, and hybrid environments. Language requirement French - C1 or higher What you'll be working on Assess the current data architecture and identify key risks, limitations, and improvement areas Define a scalable target-state data architecture Design an architecture that can support ongoing expansion through new ",
+      "posted_at": 1793089207,
+      "tags": [
+        "Information Technology and Services",
+        "Remote"
+      ],
+      "experience": "Check listing",
+      "score": 28,
+      "match_reason": "Relevant keywords: support",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     }
