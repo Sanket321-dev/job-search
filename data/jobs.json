@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-10-27T19:03:28.795386+00:00",
+  "updated_at": "2026-10-27T23:19:31.691028+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -8,30 +8,12 @@
   ],
   "jobs": [
     {
-      "title": "AI Solution Architect (m/w/d)",
-      "company": "virtual7 GmbH",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-132164",
-      "description": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, die mit ihren Ideen, ihrem Können und Engagement etwas bewegen wollen. Fühlst du dich angesprochen? Dann gestalte Deine Welt zum Besseren und werde Teil unseres Customer Cluster Environment, Transportation & Energy. DEINE MISSION Als AI Solution Architect (m/w/d) gestaltest Du die KI-/ML-Gesamtarchitektur für komplexe Enterprise-Umgebungen in der Cloud mit Schwerpunkt Microsoft Azure. Du",
-      "posted_at": 1793105495,
-      "tags": [
-        "Customer Cluster Environment",
-        "Transportation & Energy",
-        "Remote"
-      ],
-      "experience": "Check listing",
-      "score": 58,
-      "match_reason": "Relevant keywords: azure, git",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
       "title": "Senior Cloud / DevOps Engineer – AWS, Kubernetes/OpenShift (m/w/d)",
       "company": "Rockstardevelopers GmbH",
-      "location": "Stuttgart",
+      "location": "Berlin",
       "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/senior-cloud-devops-engineer-aws-kubernetes-openshift-stuttgart-311937",
       "description": "Wer wir sind Rockstardevelopers, gegründet 2015 in Mannheim, weitere Büros in Stuttgart und München. Wir sind ein Software-Entwickler mit Erfahrung aus hunderten von individuellen Projekten für Enterprise- und Mittelstands-Kunden. Kurze Wege, ehrliches Feedback, keine politischen Spielchen. Keine Hierarchie-Ebenen zwischen dir und den Leuten, die Entscheidungen treffen. Deine Aufgaben Aufbau und Betrieb von Cloud-Infrastruktur (AWS, teils Azure) in Enterprise- und regulierten Umgebungen Infrastructure as Code (Terraform), CI/CD-Pipelines, Container (Docker/Kubernetes) Cloud-Architektur mitgestalten – Kosten, Security, Skalierung Automatisieru",
-      "posted_at": 1793109671,
+      "posted_at": 1793125055,
       "tags": [
         "Remote",
         "Software Development"
@@ -39,23 +21,6 @@
       "experience": "Check listing",
       "score": 53,
       "match_reason": "Relevant keywords: aws, azure, docker, terraform, ci/cd",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Software Test Engineer",
-      "company": "SwissPeak Partners GmbH",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-487044",
-      "description": "Wir rekrutieren einen Software Test Engineer (m/w/d) für ein neu formiertes Team rund um ein Dynamics 365 Projekt. Das Testing wird von Grund auf neu aufgebaut, du bist also massgeblich an der Definition des Vorgehens beteiligt. Du testest im Sprint mit und verantwortest gleichzeitig die Teststrategie, das Testkonzept und die Testplanung. Du koordinierst die UAT mit dem Fachbereich und bringst Qualitätsstandards in ein Team, das seine Testing-Reife gerade aufbaut. Der Fokus liegt überwiegend auf manuellem Testing, mit der Möglichkeit, später in die Automatisierung hineinzuwachsen. Must-have Anforderungen Mehrjährige Erfahrung im Software-Test",
-      "posted_at": 1792899069,
-      "tags": [
-        "Software Engineering",
-        "Remote"
-      ],
-      "experience": "Check listing",
-      "score": 53,
-      "match_reason": "Relevant keywords: testing",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
@@ -77,35 +42,19 @@
       "remote": true
     },
     {
-      "title": "Bénévole Développeur Testeur d’Application- Association Startup de Tech Solidaire - Télétravail",
-      "company": "LA FAMILLE MAGHEN",
-      "location": "Montpellier",
-      "url": "https://www.arbeitnow.fr/jobs/companies/la-famille-maghen/benevole-developpeur-testeur-dapplication-association-startup-de-tech-solidaire-teletravail-montpellier-45193",
-      "description": "Ce que vous allez accomplir Vous rejoignez une association de tech solidaire pour concevoir, tester et développer nos applications d'inclusion sociale, notamment sur le projet e-PhotoID. Vous participez à la phase de test, identifiez les anomalies et sécurisez la qualité de nos solutions numériques destinées à lutter contre la fracture numérique. Ce que nous attendons de vous Un engagement bénévole de 10 heures par semaine en télétravail total, adapté à votre rythme. Une formation en développement informatique, en test de logiciels ou dans un domaine technique similaire. De la rigueur dans l'analyse des bugs et une réelle aisance avec les out",
-      "posted_at": 1793102466,
+      "title": "Senior Site Reliability Engineer (SRE) m/f/x",
+      "company": "Makersite GmbH",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-site-reliability-engineer-sre-berlin-347745",
+      "description": "Location: Germany/Berlin/Stuttgart (Remote) Who You’ll Work For : At Makersite, we're pioneering the future of sustainable product development and digital collaboration. As a leading platform for product lifecycle management (PLM), we empower companies to make smarter, more sustainable decisions across their entire supply chain. Our cutting-edge software enables teams to design, prototype, and manufacture with transparency, efficiency, and responsibility—reducing environmental impact while optimizing performance. We're a fast-growing, innovative company that thrives on creativity, collaboration, and continuous learning. If you're passionate a",
+      "posted_at": 1793125885,
       "tags": [
-        "Remote",
-        "Web Development"
+        "Engineering",
+        "Remote"
       ],
       "experience": "Check listing",
-      "score": 40,
-      "match_reason": "Relevant keywords: role-family match",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Senior DevOps Engineer",
-      "company": "0G",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/0g/remote-senior-devops-engineer-314207",
-      "description": "About the role 0G is hiring its first dedicated DevOps engineer to own our cloud platform end to end: infrastructure, deployments, networking, security hygiene and cost. Today that work is spread across several developers. Our platform runs on five providers: Google Cloud, Alibaba Cloud, AWS, Cloudflare and Vercel. It includes: Validator, seed, RPC, and archive nodes for our mainnet and testnet Confidential-computing (TEE) workloads, GPU machines and storage nodes Kubernetes clusters and managed databases A global RPC load balancer at the edge, and our web apps All together, that is more than 200 virtual machines. You will be the person who k",
-      "posted_at": 1793104816,
-      "tags": [
-        "Engineering"
-      ],
-      "experience": "Check listing",
-      "score": 38,
-      "match_reason": "Relevant keywords: aws, network, devops",
+      "score": 33,
+      "match_reason": "Relevant keywords: git, sre",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
@@ -126,19 +75,20 @@
       "remote": true
     },
     {
-      "title": "Senior Oracle Data Engineer (m/w/d)",
-      "company": "virtual7 GmbH",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-oracle-data-engineer-karlsruhe-26886",
-      "description": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, die mit ihren Ideen, ihrem Können und Engagement etwas bewegen wollen. Fühlst du dich angesprochen? Dann gestalte Deine Welt zum Besseren und werde Teil unseres Customer Clusters Finance. DEINE MISSION Als Senior Oracle Data Engineer (m/w/d) übernimmst du fachliche Verantwortung für anspruchsvolle Datenbanklösungen und gestaltest performante, sichere Anwendungen auf Basis von Oracle-Tech",
-      "posted_at": 1793105495,
+      "title": "Marketing Lead - B2B Demand Generation & Growth (m/w/d) - Remote",
+      "company": "ZEP GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/zep-gmbh/marketing-lead-b2b-demand-generation-growth-remote-berlin-88167",
+      "description": "Über uns ZEP ist eine cloudbasierte Software für Projektcontrolling – von der Projektzeiterfassung über Abwesenheitsverwaltung bis zur Abrechnung. Mehr als 3.000 Unternehmen, vor allem projektorientierte Dienstleister wie Beratungen, IT- und Engineering-Unternehmen, arbeiten bereits mit ZEP. Seit unserer Gründung im Jahr 2000 sind wir inhabergeführt und kontinuierlich gewachsen. Jetzt wollen wir den nächsten Schritt gehen und noch mehr Unternehmen von ZEP überzeugen. Als Marketing Lead entwickelst du die passenden Ideen und Maßnahmen, um neue Kunden zu gewinnen und unser Wachstum aktiv voranzutreiben. Du willst Marketing nicht nur umsetzen, s",
+      "posted_at": 1793129444,
       "tags": [
-        "Customer Cluster Finance",
-        "Remote"
+        "Remote",
+        "Management",
+        "Team Leader"
       ],
       "experience": "Check listing",
-      "score": 28,
-      "match_reason": "Relevant keywords: git",
+      "score": 23,
+      "match_reason": "Relevant keywords: role-family match",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     }
