@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-10-27T13:02:42.113511+00:00",
+  "updated_at": "2026-10-27T19:03:28.795386+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -8,54 +8,37 @@
   ],
   "jobs": [
     {
-      "title": "DevOps Engineer (m/w/d) für Linux- und Kubernetes-basierte OSS-Infrastrukturen",
-      "company": "Biz Factory GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/biz-factory-gmbh/devops-engineer-fur-linux-und-kubernetes-basierte-oss-infrastrukturen-berlin-446339",
-      "description": "Du bist ein technischer Experte mit starken Grundlagen in Linux- und Container-basierten Systemen. Du hast eine \"Hands-on\"-Mentalität und gehst proaktiv auf Probleme zu, um diese zu lösen? Dann bist du bei uns richtig! Aufgaben Deine Rolle Wir suchen einen serviceorientierten DevOps Engineer, der uns bei der Inbetriebnahme und dem Betrieb unserer Linux-basierten IT-Systeme unterstützt. Du wirst technische Fähigkeiten, eine Leidenschaft für Problemlösungen und die Fähigkeit benötigen, um skalierbare Systeme innerhalb eines agilen Umfelds zu betreiben. Wir erwarten nicht, dass du alles bereits perfekt beherrschst, aber solide Kenntnisse in cont",
-      "posted_at": 1793093448,
+      "title": "AI Solution Architect (m/w/d)",
+      "company": "virtual7 GmbH",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-132164",
+      "description": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, die mit ihren Ideen, ihrem Können und Engagement etwas bewegen wollen. Fühlst du dich angesprochen? Dann gestalte Deine Welt zum Besseren und werde Teil unseres Customer Cluster Environment, Transportation & Energy. DEINE MISSION Als AI Solution Architect (m/w/d) gestaltest Du die KI-/ML-Gesamtarchitektur für komplexe Enterprise-Umgebungen in der Cloud mit Schwerpunkt Microsoft Azure. Du",
+      "posted_at": 1793105495,
       "tags": [
-        "Remote",
-        "System and Network Administration"
-      ],
-      "experience": "Check listing",
-      "score": 63,
-      "match_reason": "Relevant keywords: linux, network, devops",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "GCP Cloud Architect (Network) (m/w/d)",
-      "company": "adconova GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/adconova-gmbh/gcp-cloud-architect-network-berlin-49011",
-      "description": "Über adconova Effizienz² Deine Experten für Technical FinOps und AI Coaching Gegründet im Jahr 2021, bündelt adconova tiefgreifendes Expertenwissen aus den Bereichen Cloud und DevOps, um die digitale Transformation greifbar und messbar zu machen. Mit unserem Team agieren wir deutschlandweit als strategischer Partner für Unternehmen, die technologische Exzellenz mit wirtschaftlicher Vernunft vereinen wollen. Unsere Kernkompetenzen: - Technical FinOps: Wir bringen Transparenz in komplexe Cloud-Strukturen und optimieren Ihre Ausgaben durch präzises Kosten-Monitoring und Effizienzanalysen gebündelt mit technischer Umsetzung von Anpassungen. - AI ",
-      "posted_at": 1793091680,
-      "tags": [
-        "Remote",
-        "System and Network Administration"
-      ],
-      "experience": "Check listing",
-      "score": 63,
-      "match_reason": "Relevant keywords: git, network, devops",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "SAP HCM Consultant (TM, OM & PA)",
-      "company": "Market Cloud",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/market-cloud/sap-hcm-consultant-tm-om-pa-london-47820",
-      "description": "Key Responsibilities: Configure and support SAP HCM modules including TM, OM, and PA. Analyze business requirements and provide effective SAP HCM solutions. Manage employee master data, organizational structures, and time management processes. Implement and support payroll-related integrations with PA and TM modules. Work closely with business stakeholders to gather requirements and deliver enhancements. Perform system testing, troubleshooting, and issue resolution. Prepare functional specifications and support documentation. Collaborate with technical teams for custom developments and integrations. Required Skills: Strong hands-on experience",
-      "posted_at": 1793088055,
-      "tags": [
-        "Remote",
-        "SAP/ERP Consulting",
-        "Development"
+        "Customer Cluster Environment",
+        "Transportation & Energy",
+        "Remote"
       ],
       "experience": "Check listing",
       "score": 58,
-      "match_reason": "Relevant keywords: testing, support",
+      "match_reason": "Relevant keywords: azure, git",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Senior Cloud / DevOps Engineer – AWS, Kubernetes/OpenShift (m/w/d)",
+      "company": "Rockstardevelopers GmbH",
+      "location": "Stuttgart",
+      "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/senior-cloud-devops-engineer-aws-kubernetes-openshift-stuttgart-311937",
+      "description": "Wer wir sind Rockstardevelopers, gegründet 2015 in Mannheim, weitere Büros in Stuttgart und München. Wir sind ein Software-Entwickler mit Erfahrung aus hunderten von individuellen Projekten für Enterprise- und Mittelstands-Kunden. Kurze Wege, ehrliches Feedback, keine politischen Spielchen. Keine Hierarchie-Ebenen zwischen dir und den Leuten, die Entscheidungen treffen. Deine Aufgaben Aufbau und Betrieb von Cloud-Infrastruktur (AWS, teils Azure) in Enterprise- und regulierten Umgebungen Infrastructure as Code (Terraform), CI/CD-Pipelines, Container (Docker/Kubernetes) Cloud-Architektur mitgestalten – Kosten, Security, Skalierung Automatisieru",
+      "posted_at": 1793109671,
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "experience": "Check listing",
+      "score": 53,
+      "match_reason": "Relevant keywords: aws, azure, docker, terraform, ci/cd",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
@@ -77,6 +60,23 @@
       "remote": true
     },
     {
+      "title": "Callcenter - Telefonist:in",
+      "company": "Templar Hausverwaltung GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/templar-hausverwaltung-gmbh/callcenter-telefonistin-berlin-320904",
+      "description": "Kommunikation auf Augenhöhe im Kundenservice Templar Hausverwaltung GmbH sucht drei neue Kolleginnen und Kollegen für den Bereich Kundenservice. Sie bearbeiten telefonische Anfragen unserer Mieter und Eigentümer, koordinieren Anliegen rund um unsere Immobilienprojekte und sorgen für eine reibungslose Kommunikation zwischen allen Beteiligten. Das bringen Sie mit Sie arbeiten strukturiert, behalten auch in arbeitsintensiven Phasen den Überblick und bringen Freude am direkten Kontakt mit Menschen mit. Sollten Sie nicht jede Anforderung zu hundert Prozent erfüllen, freuen wir uns dennoch auf Ihre Bewerbung. Ihre ersten Monate bei Templar Hausverw",
+      "posted_at": 1793118672,
+      "tags": [
+        "Remote",
+        "Customer Service"
+      ],
+      "experience": "Check listing",
+      "score": 48,
+      "match_reason": "Relevant keywords: role-family match",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
       "title": "Bénévole Développeur Testeur d’Application- Association Startup de Tech Solidaire - Télétravail",
       "company": "LA FAMILLE MAGHEN",
       "location": "Montpellier",
@@ -90,6 +90,22 @@
       "experience": "Check listing",
       "score": 40,
       "match_reason": "Relevant keywords: role-family match",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "company": "0G",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/0g/remote-senior-devops-engineer-314207",
+      "description": "About the role 0G is hiring its first dedicated DevOps engineer to own our cloud platform end to end: infrastructure, deployments, networking, security hygiene and cost. Today that work is spread across several developers. Our platform runs on five providers: Google Cloud, Alibaba Cloud, AWS, Cloudflare and Vercel. It includes: Validator, seed, RPC, and archive nodes for our mainnet and testnet Confidential-computing (TEE) workloads, GPU machines and storage nodes Kubernetes clusters and managed databases A global RPC load balancer at the edge, and our web apps All together, that is more than 200 virtual machines. You will be the person who k",
+      "posted_at": 1793104816,
+      "tags": [
+        "Engineering"
+      ],
+      "experience": "Check listing",
+      "score": 38,
+      "match_reason": "Relevant keywords: aws, network, devops",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
@@ -110,19 +126,19 @@
       "remote": true
     },
     {
-      "title": "Senior Data Architect (3 month project)",
-      "company": "Intetics 2",
-      "location": "France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/intetics-2/remote-senior-data-architect-3-month-project-france-46823",
-      "description": "We are looking for an experienced Senior Data Architect to assess an existing data landscape and define a scalable target-state architecture that can support future business growth. The role combines architecture assessment, data platform design, governance, data quality, integrations, and implementation support across cloud, on-premises, and hybrid environments. Language requirement French - C1 or higher What you'll be working on Assess the current data architecture and identify key risks, limitations, and improvement areas Define a scalable target-state data architecture Design an architecture that can support ongoing expansion through new ",
-      "posted_at": 1793089207,
+      "title": "Senior Oracle Data Engineer (m/w/d)",
+      "company": "virtual7 GmbH",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-oracle-data-engineer-karlsruhe-26886",
+      "description": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, die mit ihren Ideen, ihrem Können und Engagement etwas bewegen wollen. Fühlst du dich angesprochen? Dann gestalte Deine Welt zum Besseren und werde Teil unseres Customer Clusters Finance. DEINE MISSION Als Senior Oracle Data Engineer (m/w/d) übernimmst du fachliche Verantwortung für anspruchsvolle Datenbanklösungen und gestaltest performante, sichere Anwendungen auf Basis von Oracle-Tech",
+      "posted_at": 1793105495,
       "tags": [
-        "Information Technology and Services",
+        "Customer Cluster Finance",
         "Remote"
       ],
       "experience": "Check listing",
       "score": 28,
-      "match_reason": "Relevant keywords: support",
+      "match_reason": "Relevant keywords: git",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     }
