@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-10-28T02:57:30.786668+00:00",
+  "updated_at": "2026-10-28T09:16:00.546032+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -40,40 +40,6 @@
       "remote": false
     },
     {
-      "title": "Senior Cloud / DevOps Engineer – AWS, Kubernetes/OpenShift (m/w/d)",
-      "company": "Rockstardevelopers GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/senior-cloud-devops-engineer-aws-kubernetes-openshift-stuttgart-311937",
-      "description": "Wer wir sind Rockstardevelopers, gegründet 2015 in Mannheim, weitere Büros in Stuttgart und München. Wir sind ein Software-Entwickler mit Erfahrung aus hunderten von individuellen Projekten für Enterprise- und Mittelstands-Kunden. Kurze Wege, ehrliches Feedback, keine politischen Spielchen. Keine Hierarchie-Ebenen zwischen dir und den Leuten, die Entscheidungen treffen. Deine Aufgaben Aufbau und Betrieb von Cloud-Infrastruktur (AWS, teils Azure) in Enterprise- und regulierten Umgebungen Infrastructure as Code (Terraform), CI/CD-Pipelines, Container (Docker/Kubernetes) Cloud-Architektur mitgestalten – Kosten, Security, Skalierung Automatisieru",
-      "posted_at": 1793125055,
-      "tags": [
-        "Remote",
-        "Software Development"
-      ],
-      "experience": "Check listing",
-      "score": 53,
-      "match_reason": "Relevant keywords: aws, azure, docker, terraform, ci/cd",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Callcenter - Telefonist:in",
-      "company": "Templar Hausverwaltung GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/templar-hausverwaltung-gmbh/callcenter-telefonistin-berlin-320904",
-      "description": "Kommunikation auf Augenhöhe im Kundenservice Templar Hausverwaltung GmbH sucht drei neue Kolleginnen und Kollegen für den Bereich Kundenservice. Sie bearbeiten telefonische Anfragen unserer Mieter und Eigentümer, koordinieren Anliegen rund um unsere Immobilienprojekte und sorgen für eine reibungslose Kommunikation zwischen allen Beteiligten. Das bringen Sie mit Sie arbeiten strukturiert, behalten auch in arbeitsintensiven Phasen den Überblick und bringen Freude am direkten Kontakt mit Menschen mit. Sollten Sie nicht jede Anforderung zu hundert Prozent erfüllen, freuen wir uns dennoch auf Ihre Bewerbung. Ihre ersten Monate bei Templar Hausverw",
-      "posted_at": 1793118672,
-      "tags": [
-        "Remote",
-        "Customer Service"
-      ],
-      "experience": "Check listing",
-      "score": 48,
-      "match_reason": "Relevant keywords: role-family match",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
       "title": "Director of Sales, Europe",
       "company": "planetlabs",
       "location": "Remote",
@@ -102,23 +68,6 @@
       "experience": "Check listing",
       "score": 48,
       "match_reason": "Relevant keywords: role-family match",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": false
-    },
-    {
-      "title": "Senior Site Reliability Engineer (SRE) m/f/x",
-      "company": "Makersite GmbH",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-site-reliability-engineer-sre-berlin-347745",
-      "description": "Location: Germany/Berlin/Stuttgart (Remote) Who You’ll Work For : At Makersite, we're pioneering the future of sustainable product development and digital collaboration. As a leading platform for product lifecycle management (PLM), we empower companies to make smarter, more sustainable decisions across their entire supply chain. Our cutting-edge software enables teams to design, prototype, and manufacture with transparency, efficiency, and responsibility—reducing environmental impact while optimizing performance. We're a fast-growing, innovative company that thrives on creativity, collaboration, and continuous learning. If you're passionate a",
-      "posted_at": 1793125885,
-      "tags": [
-        "Engineering",
-        "Remote"
-      ],
-      "experience": "Check listing",
-      "score": 33,
-      "match_reason": "Relevant keywords: git, sre",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
