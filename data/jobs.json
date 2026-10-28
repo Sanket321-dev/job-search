@@ -1,29 +1,12 @@
 {
   "status": "ok",
-  "updated_at": "2026-10-28T16:20:35.407592+00:00",
+  "updated_at": "2026-10-28T21:25:15.970065+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
     "Remotive remote API"
   ],
   "jobs": [
-    {
-      "title": "Sales Delivery Consultant (m/w/d) – IT-Projektgeschäft | 100 % Remote",
-      "company": "Auralis Group",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/auralis-group/sales-delivery-consultant-it-projektgeschaft-100-remote-berlin-58034",
-      "description": "Über die Auralis Group Die Auralis Group ist ein IT Dienstleistungsunternehmen mit Sitz in München und rund 100 Mitarbeitenden. Unser Fokus liegt auf Softwareentwicklung, Legacy-Ablösung sowie der Entwicklung von MVPs. Wir unterstützen Konzernkunden bei der digitalen Transformation und helfen Gründern beim Aufbau von B2B-SaaS-Produkten. Unser technisches Spektrum reicht von Cloud und DevOps über C#, Java und SAP bis hin zu Künstlicher Intelligenz und Quantencomputing. Was wir suchen Wir suchen eine erfahrene, strukturierte und deutschsprachige Persönlichkeit als Sales Delivery Consultant (m/w/d). Du kennst das Projekt- und Staffinggeschäft be",
-      "posted_at": 1793190687,
-      "tags": [
-        "Remote",
-        "Project Management"
-      ],
-      "experience": "Check listing",
-      "score": 58,
-      "match_reason": "Relevant keywords: git, devops",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
     {
       "title": "Customer Service Agent - dentolo (all genders)",
       "company": "getolo GmbH",
@@ -42,20 +25,53 @@
       "remote": true
     },
     {
-      "title": "Head of Growth (m/w/d) für Paid Social Agentur",
-      "company": "Start To Finish Consulting GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/start-to-finish-consulting-gmbh/head-of-growth-fur-paid-social-agentur-berlin-446350",
-      "description": "Über Start To Finish Consulting Wir sind Start to Finish. Kein Startup kann wachsen ohne das richtige Team. Aus diesem Grund unterstützen wir Startups und Mittelstand wie Snocks, MBR-Skin, Bears with Benefits, Upway und viele weitere dabei, ihre Schlüsselpositionen mit den richtigen Talenten zu besetzen. Mit über 100 zufriedenen Kunden sind wir die #1 Recruiting Boutique für E-Commerce Startups im deutschsprachigen Raum. Unser Kunde sucht Dich! Für die #1 Paid Social Agentur in Deutschland suchen wir einen Head of Growth (m/w/d) – Berlin oder remote. Die Agentur ist auf rund 40 Leute gewachsen und macht jetzt den nächsten großen Schritt: vom ",
-      "posted_at": 1793190689,
+      "title": "Entra ID & Active Directory Engineer",
+      "company": "Coopers Group AG",
+      "location": "Zürich",
+      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/entra-id-active-directory-engineer-zurich-493190",
+      "description": "................ Für ein langfristiges Projekt suchen wir für unseren Kunden in Zürich eine engagierte und erfahrene Persönlichkeit als Entra ID & Active Directory Engineer . In dieser vielseitigen Position übernimmst du Verantwortung für den Betrieb, die Weiterentwicklung und Absicherung einer hybriden Identity-Landschaft. Dabei arbeitest du an spannenden Themen rund um Microsoft Entra ID, Active Directory, Cloud Services und Security. Deine Aufgaben: Betrieb, Administration und Weiterentwicklung von Microsoft Entra ID (Azure AD) und Active Directory Verwaltung von Conditional Access, MFA, SSO, Identity Protection, Enterprise Applications un",
+      "posted_at": 1793201494,
       "tags": [
         "Remote",
-        "Management",
-        "Team Leader"
+        "IT Security"
+      ],
+      "experience": "Check listing",
+      "score": 53,
+      "match_reason": "Relevant keywords: azure",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "M365 Cloud Architekt:in – Enterprise Isolation & Security",
+      "company": "Coopers Group AG",
+      "location": "Zürich",
+      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/m365-cloud-architektin-enterprise-isolation-security-zurich-148849",
+      "description": "................ Für unseren Bankkunden in Zürich, Bern oder Basel, suchen wir eine:n erfahrene:n, motivierte:n und aufgeschlossene:n M365 Cloud Architekt:in – Enterprise Isolation & Security. Deine Aufgaben: Konzeption und Implementierung von sicheren Microsoft 365 Architekturen mit Fokus auf Tenant Isolation, Multi-Tenant-Szenarien und sichere Kollaborationsgrenzen Definition und Durchsetzung von Richtlinien zur Datentrennung, Informationsbarrieren (Information Barriers) und Data Loss Prevention (DLP) Architektur von sicheren Identitäts- und Zugriffspfaden mittels Microsoft Entra ID (Conditional Access, Privileged Identity Management, Exter",
+      "posted_at": 1793203253,
+      "tags": [
+        "Remote",
+        "IT"
       ],
       "experience": "Check listing",
       "score": 48,
       "match_reason": "Relevant keywords: role-family match",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "DevOps Engineer (m/w/d)",
+      "company": "Interlead GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/interlead-gmbh/devops-engineer-berlin-362354",
+      "description": "Was wir suchen Jedes Unternehmen braucht laufend neue Kunden – und genau dieses Problem lösen wir. Mit Interlead bauen wir die #1 Plattform für Leads, Termine und Aufträge und machen die Kundengewinnung für unsere Partner damit einfacher, transparenter und planbarer. Zum nächstmöglichen Zeitpunkt suchen wir daher einen DevOps Engineer (m/w/d) für unser IT Team, zu 100 % aus dem Home-Office (Deutschland) oder bei uns im Bremer Office! Das sind deine Aufgaben Du überwachst und betreust unsere Server Du kümmerst dich um das interne Monitoring Du bist verantwortlich für die Weiterentwicklung und Wartung der IT-Infrastruktur Du verwaltest unsere I",
+      "posted_at": 1793210437,
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "experience": "Early career mentioned",
+      "score": 40,
+      "match_reason": "Relevant keywords: devops",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
