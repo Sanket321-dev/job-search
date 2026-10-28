@@ -1,12 +1,44 @@
 {
   "status": "ok",
-  "updated_at": "2026-10-27T23:19:31.691028+00:00",
+  "updated_at": "2026-10-28T02:57:30.786668+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
     "Remotive remote API"
   ],
   "jobs": [
+    {
+      "title": "Director, Product-Led Growth",
+      "company": "remotewoman",
+      "location": "Remote • UK, Spain or France",
+      "url": "https://www.arbeitnow.com/jobs/companies/remotewoman/remote-director-product-led-growth-59513",
+      "description": "<h1><span style=\"font-size: 14pt; font-family: helvetica, arial, sans-serif;\"><strong>About Upsun</strong></span></h1> <p><span style=\"font-size: 12pt;\">Upsun is the cloud application platform humans and robots love. It’s built for hybrid teams, where AI agents write and test code and people focus on the problems that really matter. Developers, DevOps engineers, and platform teams use Upsun to build, ship, and scale with confidence, without wrestling with backend infrastructure.</span></p> <p><span style=\"font-size: 12pt;\">Upsun Dispatch, our newest offering, brings that same idea to the whole team. It’s the platform for governed collaboratio",
+      "posted_at": 1793148918,
+      "tags": [
+        "Marketing"
+      ],
+      "experience": "Check listing",
+      "score": 53,
+      "match_reason": "Relevant keywords: devops",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": false
+    },
+    {
+      "title": "Director, Product-Led Growth",
+      "company": "remotewoman",
+      "location": "Remote • UK, Germany",
+      "url": "https://www.arbeitnow.fr/jobs/companies/remotewoman/remote-director-product-led-growth-345793",
+      "description": "<h1><span style=\"font-size: 14pt; font-family: helvetica, arial, sans-serif;\"><strong>About Upsun</strong></span></h1> <p><span style=\"font-size: 12pt;\">Upsun is the cloud application platform humans and robots love. It’s built for hybrid teams, where AI agents write and test code and people focus on the problems that really matter. Developers, DevOps engineers, and platform teams use Upsun to build, ship, and scale with confidence, without wrestling with backend infrastructure.</span></p> <p><span style=\"font-size: 12pt;\">Upsun Dispatch, our newest offering, brings that same idea to the whole team. It’s the platform for governed collaboratio",
+      "posted_at": 1793148918,
+      "tags": [
+        "Marketing"
+      ],
+      "experience": "Check listing",
+      "score": 53,
+      "match_reason": "Relevant keywords: devops",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": false
+    },
     {
       "title": "Senior Cloud / DevOps Engineer – AWS, Kubernetes/OpenShift (m/w/d)",
       "company": "Rockstardevelopers GmbH",
@@ -40,6 +72,38 @@
       "match_reason": "Relevant keywords: role-family match",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
+    },
+    {
+      "title": "Director of Sales, Europe",
+      "company": "planetlabs",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/planetlabs/remote-director-of-sales-europe-185522",
+      "description": "<div class=\"content-intro\"><p><strong>Welcome to Planet. We believe in using space to help life on Earth.</strong></p> <p>Planet designs, builds, and operates the largest constellation of imaging satellites in history. This constellation delivers an unprecedented dataset of empirical information via a revolutionary cloud-based platform to authoritative figures in commercial, environmental, and humanitarian sectors. We are both a space company and data company all rolled into one.</p> <p>Customers and users across the globe use Planet's data to develop new technologies, drive revenue, power research, and solve our world’s toughest obstacles.</",
+      "posted_at": 1793148918,
+      "tags": [
+        "Sales Manager"
+      ],
+      "experience": "Check listing",
+      "score": 48,
+      "match_reason": "Relevant keywords: role-family match",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Director of Sales, Europe",
+      "company": "planetlabs",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/planetlabs/remote-director-of-sales-europe-34402",
+      "description": "<div class=\"content-intro\"><p><strong>Welcome to Planet. We believe in using space to help life on Earth.</strong></p> <p>Planet designs, builds, and operates the largest constellation of imaging satellites in history. This constellation delivers an unprecedented dataset of empirical information via a revolutionary cloud-based platform to authoritative figures in commercial, environmental, and humanitarian sectors. We are both a space company and data company all rolled into one.</p> <p>Customers and users across the globe use Planet's data to develop new technologies, drive revenue, power research, and solve our world’s toughest obstacles.</",
+      "posted_at": 1793148918,
+      "tags": [
+        "Sales Manager"
+      ],
+      "experience": "Check listing",
+      "score": 48,
+      "match_reason": "Relevant keywords: role-family match",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": false
     },
     {
       "title": "Senior Site Reliability Engineer (SRE) m/f/x",
@@ -80,7 +144,7 @@
       "location": "Berlin",
       "url": "https://www.arbeitnow.com/jobs/companies/zep-gmbh/marketing-lead-b2b-demand-generation-growth-remote-berlin-88167",
       "description": "Über uns ZEP ist eine cloudbasierte Software für Projektcontrolling – von der Projektzeiterfassung über Abwesenheitsverwaltung bis zur Abrechnung. Mehr als 3.000 Unternehmen, vor allem projektorientierte Dienstleister wie Beratungen, IT- und Engineering-Unternehmen, arbeiten bereits mit ZEP. Seit unserer Gründung im Jahr 2000 sind wir inhabergeführt und kontinuierlich gewachsen. Jetzt wollen wir den nächsten Schritt gehen und noch mehr Unternehmen von ZEP überzeugen. Als Marketing Lead entwickelst du die passenden Ideen und Maßnahmen, um neue Kunden zu gewinnen und unser Wachstum aktiv voranzutreiben. Du willst Marketing nicht nur umsetzen, s",
-      "posted_at": 1793129444,
+      "posted_at": 1793144851,
       "tags": [
         "Remote",
         "Management",
