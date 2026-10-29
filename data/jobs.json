@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-10-29T07:46:01.320639+00:00",
+  "updated_at": "2026-10-29T14:44:56.510628+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -25,6 +25,38 @@
       "remote": true
     },
     {
+      "title": "Account Manager",
+      "company": "Cosuno",
+      "location": "Berlin/Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/cosuno/account-manager-berlin-423811",
+      "description": "Über Cosuno Die Baubranche ist eine 14-Billionen-Euro-Industrie, die noch immer auf E-Mails, Excel-Tabellen und eingescannten PDFs läuft. Cosuno ersetzt das durch KI. Generalunternehmer schreiben ihre Projekte auf unserer Plattform an mehr als 250.000 Nachunternehmer aus, und unsere agentische KI findet die passenden Firmen, erkennt Auffälligkeiten in Angeboten und vergleicht jeden Preis mit 6,5 Millionen Datenpunkten aus über 136 Milliarden Euro verarbeitetem Angebotsvolumen. Jede Ausschreibung macht die KI klüger. Die Ergebnisse sind messbar: Generalunternehmer senken ihre Kosten um rund 6 %, Nachunternehmer gewinnen 22 % mehr Volumen, und ",
+      "posted_at": 1793266826,
+      "tags": [
+        "Customer Success I Subcontractor"
+      ],
+      "experience": "Check listing",
+      "score": 48,
+      "match_reason": "Relevant keywords: role-family match",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": false
+    },
+    {
+      "title": "Head of CS - Nachunternehmer (m/w/d)",
+      "company": "Cosuno",
+      "location": "Berlin/Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/cosuno/head-of-cs-nachunternehmer-berlin-60019",
+      "description": "Über Cosuno Die Baubranche ist eine 14-Billionen-Euro-Industrie, die noch immer auf E-Mails, Excel-Tabellen und eingescannten PDFs läuft. Cosuno ersetzt das durch KI. Generalunternehmer schreiben ihre Projekte auf unserer Plattform an mehr als 250.000 Nachunternehmer aus, und unsere agentische KI findet die passenden Firmen, erkennt Auffälligkeiten in Angeboten und vergleicht jeden Preis mit 6,5 Millionen Datenpunkten aus über 136 Milliarden Euro verarbeitetem Angebotsvolumen. Jede Ausschreibung macht die KI klüger. Die Ergebnisse sind messbar: Generalunternehmer senken ihre Kosten um rund 6 %, Nachunternehmer gewinnen 22 % mehr Volumen, und ",
+      "posted_at": 1793266826,
+      "tags": [
+        "Customer Success I Subcontractor"
+      ],
+      "experience": "Check listing",
+      "score": 48,
+      "match_reason": "Relevant keywords: role-family match",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": false
+    },
+    {
       "title": "M365 Cloud Architekt:in – Enterprise Isolation & Security",
       "company": "Coopers Group AG",
       "location": "Zürich",
@@ -42,6 +74,56 @@
       "remote": true
     },
     {
+      "title": "Onboarding Manager",
+      "company": "Cosuno",
+      "location": "Berlin/Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/cosuno/onboarding-manager-berlin-309595",
+      "description": "Über Cosuno Die Baubranche ist eine 14-Billionen-Euro-Industrie, die noch immer auf E-Mails, Excel-Tabellen und eingescannten PDFs läuft. Cosuno ersetzt das durch KI. Generalunternehmer schreiben ihre Projekte auf unserer Plattform an mehr als 250.000 Nachunternehmer aus, und unsere agentische KI findet die passenden Firmen, erkennt Auffälligkeiten in Angeboten und vergleicht jeden Preis mit 6,5 Millionen Datenpunkten aus über 136 Milliarden Euro verarbeitetem Angebotsvolumen. Jede Ausschreibung macht die KI klüger. Die Ergebnisse sind messbar: Generalunternehmer senken ihre Kosten um rund 6 %, Nachunternehmer gewinnen 22 % mehr Volumen, und ",
+      "posted_at": 1793266826,
+      "tags": [
+        "Customer Success I Subcontractor"
+      ],
+      "experience": "Check listing",
+      "score": 48,
+      "match_reason": "Relevant keywords: role-family match",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": false
+    },
+    {
+      "title": "Senior QA Engineer (m/f/d)",
+      "company": "Boardwise GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/boardwise-gmbh/senior-qa-engineer-berlin-462833",
+      "description": "Your mission Analyse requirements and user stories and identify gaps, edge cases, and risks early in the development process Design and maintain test documentation, including test plans, test cases, checklists, and requirement traceability Perform functional, regression, integration, exploratory, end-to-end, and acceptance testing Test complex role- and permission-based scenarios, including multiple user roles, restricted access, and cross-board visibility Verify end-to-end integrations with Microsoft 365 Test our iOS and Android applications across different devices and operating systems Validate configuration settings as well as data import",
+      "posted_at": 1793266288,
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "experience": "Check listing",
+      "score": 33,
+      "match_reason": "Relevant keywords: qa, testing",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Founding Marketing Lead (m/w/d) – Content, LinkedIn & Video | KI-Software für Bau & Immobilien",
+      "company": "neoBIM GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/neobim-gmbh/founding-marketing-lead-content-linkedin-video-ki-software-fur-bau-immobilien-berlin-256440",
+      "description": "Über neoBIM neoBIM entwickelt KI-Software für die Bau- und Immobilienbranche. Unser Konfigurator macht aus einem Grundstück Gebäudevarianten mit Wirtschaftlichkeitsrechnung, unser zweites Produkt liest Gemeinderatsprotokolle und findet Bauvorhaben, bevor sie ausgeschrieben werden. Unsere Kunden sind Systembauer, Generalunternehmer und Bauträger. PLIERA (pliera.com) ist unsere Produktmarke. Unsere Gründer sind Pioniere der Architektursoftware und wissen, wie man ein Produkt zum Branchenstandard macht. Bisher entstehen fast alle Gespräche über unseren Outbound-Vertrieb und Messen. Das änderst du: Als erste Marketing-Person baust du Inbound auf,",
+      "posted_at": 1793271673,
+      "tags": [
+        "Remote",
+        "Marketing Manager"
+      ],
+      "experience": "Check listing",
+      "score": 28,
+      "match_reason": "Relevant keywords: sre",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
       "title": "Senior back-end Engineer",
       "company": "Lemon.io",
       "location": "Europe, USA, UK, Canada, Australia, Ireland, Switzerland, Singapore, Mexico, Iceland, Norway",
@@ -54,6 +136,23 @@
       "experience": "Check listing",
       "score": 28,
       "match_reason": "Relevant keywords: devops",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Senior Software Engineer (PHP, TypeScript, Node.js) m/w/d",
+      "company": "easybill GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/easybill-gmbh/senior-software-engineer-php-typescript-nodejs-berlin-53164",
+      "description": "Nicht jede Heldentat ist laut. 22.000+ Unternehmen verlassen sich auf easybill, oft ohne es zu merken. Wir sorgen dafür, dass Rechnungen, Prozesse und Integrationen im Alltag einfach laufen. Remote-first, technisch anspruchsvoll, mit viel Ownership. Wenn du Systeme bauen willst, die echte Arbeit erleichtern: Willkommen bei easybill. Du bekommst klare Prioritäten, kurze Wege und genug Raum, um Dinge wirklich sauber zu lösen. Keine Meeting-Karaoke. Keine Konzern-Polonaise. Kein „Wir brauchen dafür noch sieben Freigaben“. Dafür: Fokus, Verantwortung, gute Tools und Menschen , die Probleme lieber lösen als verwalten. Das ideale Profil? Du bringst",
+      "posted_at": 1793271673,
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "experience": "Check listing",
+      "score": 23,
+      "match_reason": "Relevant keywords: role-family match",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
