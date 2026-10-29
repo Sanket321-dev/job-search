@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-10-29T19:56:20.261800+00:00",
+  "updated_at": "2026-10-29T23:44:29.240588+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -8,38 +8,52 @@
   ],
   "jobs": [
     {
-      "title": "Linux Administrator/Consultant (m/w/d) REMOTE",
-      "company": "Pont Connects e.K.",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/pont-connects-ek/linux-administrator-consultant-remote-berlin-212302",
-      "description": "Ihre Aufgaben Für einen langjährigen Kunden suche ich einen Linux Administrator/Consultant (m/w/d) in Festanstellung. Sie arbeiten vollständig remote innerhalb der DACH-Region und unterstützen das Team bei anspruchsvollen Linux-Umgebungen. Das wird erwartet Sie bringen fundierte Kenntnisse in der Administration von Linux-Systemen mit und beraten Kunden fundiert zu technischen Fragestellungen. Skills: Erfahrung in Kundenprojekten: mehrjährige Erfahrung in technisch komplexen Kundenprojekten – idealerweise als Consultant, Technical Lead, System Engineer oder Solution Architect. sicher in der Administration von Linux-Servern. fundierte Kenntniss",
-      "posted_at": 1793291483,
+      "title": "Backend Engineer, Source Code: Repository Services (Ruby)",
+      "company": "gitlab",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-backend-engineer-source-code-repository-services-ruby-60596",
+      "description": "<div class=\"content-intro\"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.</p> <p>The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and",
+      "posted_at": 1793310922,
       "tags": [
-        "Remote",
-        "System and Network Administration"
+        "DevOps Engineering"
       ],
       "experience": "Check listing",
       "score": 58,
-      "match_reason": "Relevant keywords: linux, network",
+      "match_reason": "Relevant keywords: git, devops",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
     {
-      "title": "Entra ID & Active Directory Engineer",
-      "company": "Coopers Group AG",
-      "location": "Zürich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/entra-id-active-directory-engineer-zurich-493190",
-      "description": "................ Für ein langfristiges Projekt suchen wir für unseren Kunden in Zürich eine engagierte und erfahrene Persönlichkeit als Entra ID & Active Directory Engineer . In dieser vielseitigen Position übernimmst du Verantwortung für den Betrieb, die Weiterentwicklung und Absicherung einer hybriden Identity-Landschaft. Dabei arbeitest du an spannenden Themen rund um Microsoft Entra ID, Active Directory, Cloud Services und Security. Deine Aufgaben: Betrieb, Administration und Weiterentwicklung von Microsoft Entra ID (Azure AD) und Active Directory Verwaltung von Conditional Access, MFA, SSO, Identity Protection, Enterprise Applications un",
-      "posted_at": 1793201494,
+      "title": "Product Manager",
+      "company": "remotewoman",
+      "location": "Remote • Germany, Canada, France",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/remotewoman/remote-product-manager-179053",
+      "description": "<h1><span style=\"font-size: 14pt; font-family: helvetica, arial, sans-serif;\"><strong>About Upsun</strong></span></h1> <p><span style=\"font-size: 12pt;\">Upsun is the software factory for human-AI workflows. We give teams one unified platform to create, review, deploy, and run software, with AI agents and humans working in sync. Developers, DevOps engineers, and platform teams use Upsun to build and ship with confidence, without wrestling with infrastructure.</span></p> <p><span style=\"font-size: 12pt;\">Upsun brings this together through two products: one that shapes the work, and one that runs it.</span></p> <ul> <li><span style=\"font-size: 1",
+      "posted_at": 1793310920,
       "tags": [
-        "Remote",
-        "IT Security"
+        "Product & Engineering"
       ],
       "experience": "Check listing",
       "score": 53,
-      "match_reason": "Relevant keywords: azure",
+      "match_reason": "Relevant keywords: devops",
       "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
+      "remote": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "remotewoman",
+      "location": "Remote • Germany, Canada, Spain or the UK",
+      "url": "https://www.arbeitnow.fr/jobs/companies/remotewoman/remote-product-manager-168702",
+      "description": "<h1><span style=\"font-size: 14pt; font-family: helvetica, arial, sans-serif;\"><strong>About Upsun</strong></span></h1> <p><span style=\"font-size: 12pt;\">Upsun is the software factory for human-AI workflows. We give teams one unified platform to create, review, deploy, and run software, with AI agents and humans working in sync. Developers, DevOps engineers, and platform teams use Upsun to build and ship with confidence, without wrestling with infrastructure.</span></p> <p><span style=\"font-size: 12pt;\">Upsun brings this together through two products: one that shapes the work, and one that runs it.</span></p> <ul> <li><span style=\"font-size: 1",
+      "posted_at": 1793310921,
+      "tags": [
+        "Product & Engineering"
+      ],
+      "experience": "Check listing",
+      "score": 53,
+      "match_reason": "Relevant keywords: devops",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": false
     },
     {
       "title": "Technischer Planer Rechenzentrumsbau (m/w/d)",
@@ -47,7 +61,7 @@
       "location": "Berlin",
       "url": "https://www.arbeitnow.com/jobs/companies/innovit-ag/technischer-planer-rechenzentrumsbau-berlin-152007",
       "description": "Über innovIT AG Die innovIT AG denkt Rechenzentren neu: schneller geplant, modular aufgebaut und technisch präzise umgesetzt. Hinter unseren Lösungen steht ein Team mit mehr als 15 Jahren Erfahrung in Planung, Bau und Betrieb von Rechenzentren – alle Gewerke kommen aus dem eigenen Haus. Unsere Rechenzentren entstehen in Modulen aus Stahl. Dafür suchen wir jemanden, der aus unseren Grundrissen fertigungsreife Pläne macht – und der dabei mit KI arbeiten will statt gegen sie. Aufgaben Du setzt unsere Grundrisse für Rechenzentren in eine durchgängige Planung um. Du konstruierst daraus die Containermodule für unsere Fertigung – Werkstatt- und Fert",
-      "posted_at": 1793295045,
+      "posted_at": 1793310447,
       "tags": [
         "Remote",
         "Building",
@@ -74,40 +88,6 @@
       "experience": "Check listing",
       "score": 48,
       "match_reason": "Relevant keywords: role-family match",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Initiativbewerbung Büro Düsseldorf",
-      "company": "advacc advanced accounting GmbH",
-      "location": "Düsseldorf",
-      "url": "https://www.arbeitnow.com/jobs/companies/advacc-advanced-accounting-gmbh/initiativbewerbung-buro-dusseldorf-456047",
-      "description": "Gestalte mit uns die Buchhaltung von morgen: cloudbasiert, KI-unterstützt, papierlos Du brennst für Zahlen und möchtest die Finanzbuchhaltung nicht nur verwalten, sondern aktiv in die digitale Zukunft führen? Dann bist du bei uns genau richtig, unabhängig davon, wo du in deiner Karriere gerade stehst. Wir suchen engagierte Persönlichkeiten aus dem Bereich Finanz- und Buchhaltung und freuen uns über Initiativbewerbungen von: Junior-Finanzbuchhaltern (m/w/d) , die nach ihrer Ausbildung oder ihrem Studium durchstarten und wachsen möchten, Finanzbuchhaltern (m/w/d) mit solider Praxiserfahrung, die den nächsten Schritt suchen, Senior-Finanzbuchhal",
-      "posted_at": 1793289683,
-      "tags": [
-        "Remote",
-        "Finance"
-      ],
-      "experience": "Early career mentioned",
-      "score": 40,
-      "match_reason": "Relevant keywords: git",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Initiativbewerbung Büro Greifswald",
-      "company": "advacc advanced accounting GmbH",
-      "location": "Greifswald",
-      "url": "https://www.arbeitnow.com/jobs/companies/advacc-advanced-accounting-gmbh/initiativbewerbung-buro-greifswald-142461",
-      "description": "Gestalte mit uns die Buchhaltung von morgen: cloudbasiert, KI-unterstützt, papierlos Du brennst für Zahlen und möchtest die Finanzbuchhaltung nicht nur verwalten, sondern aktiv in die digitale Zukunft führen? Dann bist du bei uns genau richtig, unabhängig davon, wo du in deiner Karriere gerade stehst. Wir suchen engagierte Persönlichkeiten aus dem Bereich Finanz- und Buchhaltung und freuen uns über Initiativbewerbungen von: Junior-Finanzbuchhaltern (m/w/d) , die nach ihrer Ausbildung oder ihrem Studium durchstarten und wachsen möchten, Finanzbuchhaltern (m/w/d) mit solider Praxiserfahrung, die den nächsten Schritt suchen, Senior-Finanzbuchhal",
-      "posted_at": 1793289683,
-      "tags": [
-        "Remote",
-        "Finance"
-      ],
-      "experience": "Early career mentioned",
-      "score": 40,
-      "match_reason": "Relevant keywords: git",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
