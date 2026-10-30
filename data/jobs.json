@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-10-30T03:25:42.050804+00:00",
+  "updated_at": "2026-10-30T10:32:54.770584+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -8,36 +8,19 @@
   ],
   "jobs": [
     {
-      "title": "SQL Developer – AI Prompting & Context Engineering",
-      "company": "Bromcom Computers Plc",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/bromcom-computers-plc/remote-sql-developer-ai-prompting-context-engineering-bromley-268635",
-      "description": "This is a dual role, split between approximately 60% AI-assisted development and agent orchestration, and 40% SQL Server development supporting large-scale data migration. You’ll work within the development team and report to the Software Manager, combining practical AI skills with strong SQL expertise to deliver reliable, efficient solutions. Key Responsibilities AI-Assisted Development & Agent Orchestration (c. 60%) Use AI coding assistants, such as Claude Code or GitHub Copilot, across the development lifecycle, including code generation, refactoring, testing, documentation and review. Build and maintain effective prompts, system instructi",
-      "posted_at": 1793320289,
+      "title": "FTTH Security Expert",
+      "company": "P1 Security",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/p1-security/ftth-security-expert-paris-486738",
+      "description": "About P1 Security Founded in 2011 by serial entrepreneur and security expert Philippe Langlois, P1 Security is on a mission to secure critical and sovereign mobile networks by providing services and technologies to identify, detect and recover from critical threats and vulnerabilities. P1 Security is one of the very few companies in the world tackling telecom security through pure Mobile and Telecom Security attacks and security from 5G and Cloud-based infrastructure Security , OpenRAN, Network Slicing and RAN Sharing, Edge Computing (MEC), down to legacy 2/3/4G Diameter, SS7 SIGTRAN attacks, GTP manipulation and fuzzing. Our offering and exp",
+      "posted_at": 1793345466,
       "tags": [
-        "Software & QA",
-        "Remote"
+        "Remote",
+        "IT Security"
       ],
       "experience": "Check listing",
-      "score": 73,
-      "match_reason": "Relevant keywords: git, qa, testing, sql, support",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "DevOps Engineer (100% remote)",
-      "company": "Tether Operations Limited",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/devops-engineer-100-remote-united-kindom-394367",
-      "description": "Join Tether and Shape the Future of Digital Finance At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamlessly integrate reserve-backed tokens across blockchains. By harnessing the power of blockchain technology, Tether enables you to store, send, and receive digital tokens instantly, securely, and globally, all at a fraction of the cost. Transparency is the bedrock of everything we do, ensuring trust in every transaction. Innovate with Tether Tether Finance: Our innovative product suite featu",
-      "posted_at": 1793320286,
-      "tags": [
-        "Engineering",
-        "Remote"
-      ],
-      "experience": "Check listing",
-      "score": 58,
-      "match_reason": "Relevant keywords: git, devops",
+      "score": 53,
+      "match_reason": "Relevant keywords: network",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
