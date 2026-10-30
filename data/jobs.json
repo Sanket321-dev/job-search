@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-10-30T10:32:54.770584+00:00",
+  "updated_at": "2026-10-30T16:51:09.364493+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -91,14 +91,30 @@
       "remote": true
     },
     {
-      "title": "Senior Manager, Global Benefits",
-      "company": "dataiku",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/dataiku/remote-senior-manager-global-benefits-206561",
-      "description": "<div class=\"content-intro\"><p><a href=\"https://www.dataiku.com/?utm_source=newswire&amp;utm_medium=press-release&amp;utm_campaign=PlatformforAISuccess\" target=\"_blank\">Dataiku</a> is the Platform for AI Success, the enterprise orchestration layer for building, deploying, and governing AI. In a single environment, teams design and operate analytics, machine learning, and AI agents with the transparency, collaboration, and control enterprises require. Sitting above data platforms, cloud infrastructure, and AI services, Dataiku connects the full enterprise AI stack - empowering organizations to run AI across multi-vendor environments with centra",
-      "posted_at": 1793321719,
+      "title": "Lead Architect & Platform Engineer (m/f/d)",
+      "company": "ANGEHEUERT GmbH",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-lead-architect-platform-engineer-frankfurt-am-main-102119",
+      "description": "Lead Architect & Platform Engineer Are you looking for an architecture role where you do not simply optimize existing structures within a decades old IT environment? As a Lead Architect & Platform Engineer , you will have the opportunity to build key parts of a modern cloud and platform architecture from the ground up while actively shaping standards, integration patterns, and technical guidelines. Apply now and help build the technological foundation for the company’s next stage of development. Your benefits as Lead Architect & Platform Engineer Creative Freedom: Help build modern cloud and platform architectures and influence which technolo",
+      "posted_at": 1793374277,
       "tags": [
-        "Total Rewards"
+        "Remote"
+      ],
+      "experience": "Check listing",
+      "score": 23,
+      "match_reason": "Relevant keywords: role-family match",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Lead Architekt & Platform Engineer (m/w/d)",
+      "company": "ANGEHEUERT GmbH",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-lead-architekt-platform-engineer-frankfurt-am-main-276539",
+      "description": "Lead Architekt & Platform Engineer Du suchst eine Architekturrolle, bei der du nicht in einem jahrzehntelang gewachsenen IT Umfeld nur bestehende Strukturen optimierst? Als Lead Architekt & Platform Engineer erhältst du die Möglichkeit, zentrale Teile einer modernen Cloud und Plattformarchitektur neu aufzubauen und dabei Standards, Integrationsmuster und technische Leitplanken selbst mitzugestalten. Bewirb dich jetzt und baue die technologische Grundlage für die nächste Entwicklungsstufe des Unternehmens mit auf. Deine Benefits als Lead Architekt & Platform Engineer Gestaltungsspielraum: Baue moderne Cloud und Plattformarchitekturen mit auf u",
+      "posted_at": 1793374277,
+      "tags": [
+        "Remote"
       ],
       "experience": "Check listing",
       "score": 23,
