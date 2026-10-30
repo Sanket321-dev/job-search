@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-10-29T23:44:29.240588+00:00",
+  "updated_at": "2026-10-30T03:25:42.050804+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -8,36 +8,38 @@
   ],
   "jobs": [
     {
-      "title": "Backend Engineer, Source Code: Repository Services (Ruby)",
-      "company": "gitlab",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-backend-engineer-source-code-repository-services-ruby-60596",
-      "description": "<div class=\"content-intro\"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.</p> <p>The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and",
-      "posted_at": 1793310922,
+      "title": "SQL Developer – AI Prompting & Context Engineering",
+      "company": "Bromcom Computers Plc",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bromcom-computers-plc/remote-sql-developer-ai-prompting-context-engineering-bromley-268635",
+      "description": "This is a dual role, split between approximately 60% AI-assisted development and agent orchestration, and 40% SQL Server development supporting large-scale data migration. You’ll work within the development team and report to the Software Manager, combining practical AI skills with strong SQL expertise to deliver reliable, efficient solutions. Key Responsibilities AI-Assisted Development & Agent Orchestration (c. 60%) Use AI coding assistants, such as Claude Code or GitHub Copilot, across the development lifecycle, including code generation, refactoring, testing, documentation and review. Build and maintain effective prompts, system instructi",
+      "posted_at": 1793320289,
       "tags": [
-        "DevOps Engineering"
+        "Software & QA",
+        "Remote"
+      ],
+      "experience": "Check listing",
+      "score": 73,
+      "match_reason": "Relevant keywords: git, qa, testing, sql, support",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "DevOps Engineer (100% remote)",
+      "company": "Tether Operations Limited",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/devops-engineer-100-remote-united-kindom-394367",
+      "description": "Join Tether and Shape the Future of Digital Finance At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamlessly integrate reserve-backed tokens across blockchains. By harnessing the power of blockchain technology, Tether enables you to store, send, and receive digital tokens instantly, securely, and globally, all at a fraction of the cost. Transparency is the bedrock of everything we do, ensuring trust in every transaction. Innovate with Tether Tether Finance: Our innovative product suite featu",
+      "posted_at": 1793320286,
+      "tags": [
+        "Engineering",
+        "Remote"
       ],
       "experience": "Check listing",
       "score": 58,
       "match_reason": "Relevant keywords: git, devops",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
-    },
-    {
-      "title": "Product Manager",
-      "company": "remotewoman",
-      "location": "Remote • Germany, Canada, France",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/remotewoman/remote-product-manager-179053",
-      "description": "<h1><span style=\"font-size: 14pt; font-family: helvetica, arial, sans-serif;\"><strong>About Upsun</strong></span></h1> <p><span style=\"font-size: 12pt;\">Upsun is the software factory for human-AI workflows. We give teams one unified platform to create, review, deploy, and run software, with AI agents and humans working in sync. Developers, DevOps engineers, and platform teams use Upsun to build and ship with confidence, without wrestling with infrastructure.</span></p> <p><span style=\"font-size: 12pt;\">Upsun brings this together through two products: one that shapes the work, and one that runs it.</span></p> <ul> <li><span style=\"font-size: 1",
-      "posted_at": 1793310920,
-      "tags": [
-        "Product & Engineering"
-      ],
-      "experience": "Check listing",
-      "score": 53,
-      "match_reason": "Relevant keywords: devops",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": false
     },
     {
       "title": "Product Manager",
@@ -56,38 +58,19 @@
       "remote": false
     },
     {
-      "title": "Technischer Planer Rechenzentrumsbau (m/w/d)",
-      "company": "innovIT AG",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/innovit-ag/technischer-planer-rechenzentrumsbau-berlin-152007",
-      "description": "Über innovIT AG Die innovIT AG denkt Rechenzentren neu: schneller geplant, modular aufgebaut und technisch präzise umgesetzt. Hinter unseren Lösungen steht ein Team mit mehr als 15 Jahren Erfahrung in Planung, Bau und Betrieb von Rechenzentren – alle Gewerke kommen aus dem eigenen Haus. Unsere Rechenzentren entstehen in Modulen aus Stahl. Dafür suchen wir jemanden, der aus unseren Grundrissen fertigungsreife Pläne macht – und der dabei mit KI arbeiten will statt gegen sie. Aufgaben Du setzt unsere Grundrisse für Rechenzentren in eine durchgängige Planung um. Du konstruierst daraus die Containermodule für unsere Fertigung – Werkstatt- und Fert",
-      "posted_at": 1793310447,
+      "title": "Software Test Engineer",
+      "company": "SwissPeak Partners GmbH",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-463546",
+      "description": "Wir rekrutieren einen Software Test Engineer (m/w/d) für ein neu formiertes Team rund um ein Dynamics 365 Projekt. Das Testing wird von Grund auf neu aufgebaut, du bist also massgeblich an der Definition des Vorgehens beteiligt. Du testest im Sprint mit und verantwortest gleichzeitig die Teststrategie, das Testkonzept und die Testplanung. Du koordinierst die UAT mit dem Fachbereich und bringst Qualitätsstandards in ein Team, das seine Testing-Reife gerade aufbaut. Der Fokus liegt überwiegend auf manuellem Testing, mit der Möglichkeit, später in die Automatisierung hineinzuwachsen. Must-have Anforderungen Mehrjährige Erfahrung im Software-Test",
+      "posted_at": 1793320284,
       "tags": [
-        "Remote",
-        "Building",
-        "Supply",
-        "Safety Services Engineering"
+        "Software Engineering",
+        "Remote"
       ],
       "experience": "Check listing",
       "score": 53,
-      "match_reason": "Relevant keywords: sre",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "M365 Cloud Architekt:in – Enterprise Isolation & Security",
-      "company": "Coopers Group AG",
-      "location": "Zürich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/m365-cloud-architektin-enterprise-isolation-security-zurich-148849",
-      "description": "................ Für unseren Bankkunden in Zürich, Bern oder Basel, suchen wir eine:n erfahrene:n, motivierte:n und aufgeschlossene:n M365 Cloud Architekt:in – Enterprise Isolation & Security. Deine Aufgaben: Konzeption und Implementierung von sicheren Microsoft 365 Architekturen mit Fokus auf Tenant Isolation, Multi-Tenant-Szenarien und sichere Kollaborationsgrenzen Definition und Durchsetzung von Richtlinien zur Datentrennung, Informationsbarrieren (Information Barriers) und Data Loss Prevention (DLP) Architektur von sicheren Identitäts- und Zugriffspfaden mittels Microsoft Entra ID (Conditional Access, Privileged Identity Management, Exter",
-      "posted_at": 1793203253,
-      "tags": [
-        "Remote",
-        "IT"
-      ],
-      "experience": "Check listing",
-      "score": 48,
-      "match_reason": "Relevant keywords: role-family match",
+      "match_reason": "Relevant keywords: testing",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
@@ -123,6 +106,38 @@
       "match_reason": "Relevant keywords: devops",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
+    },
+    {
+      "title": "Senior Manager, Global Benefits",
+      "company": "dataiku",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/dataiku/remote-senior-manager-global-benefits-206561",
+      "description": "<div class=\"content-intro\"><p><a href=\"https://www.dataiku.com/?utm_source=newswire&amp;utm_medium=press-release&amp;utm_campaign=PlatformforAISuccess\" target=\"_blank\">Dataiku</a> is the Platform for AI Success, the enterprise orchestration layer for building, deploying, and governing AI. In a single environment, teams design and operate analytics, machine learning, and AI agents with the transparency, collaboration, and control enterprises require. Sitting above data platforms, cloud infrastructure, and AI services, Dataiku connects the full enterprise AI stack - empowering organizations to run AI across multi-vendor environments with centra",
+      "posted_at": 1793321719,
+      "tags": [
+        "Total Rewards"
+      ],
+      "experience": "Check listing",
+      "score": 23,
+      "match_reason": "Relevant keywords: role-family match",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Senior Manager, Global Benefits",
+      "company": "dataiku",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.fr/jobs/companies/dataiku/remote-senior-manager-global-benefits-212788",
+      "description": "<div class=\"content-intro\"><p><a href=\"https://www.dataiku.com/?utm_source=newswire&amp;utm_medium=press-release&amp;utm_campaign=PlatformforAISuccess\" target=\"_blank\">Dataiku</a> is the Platform for AI Success, the enterprise orchestration layer for building, deploying, and governing AI. In a single environment, teams design and operate analytics, machine learning, and AI agents with the transparency, collaboration, and control enterprises require. Sitting above data platforms, cloud infrastructure, and AI services, Dataiku connects the full enterprise AI stack - empowering organizations to run AI across multi-vendor environments with centra",
+      "posted_at": 1793321719,
+      "tags": [
+        "Total Rewards"
+      ],
+      "experience": "Check listing",
+      "score": 23,
+      "match_reason": "Relevant keywords: role-family match",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": false
     },
     {
       "title": "Senior Back-end Developer",
