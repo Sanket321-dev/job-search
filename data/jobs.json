@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-10-31T07:42:05.857177+00:00",
+  "updated_at": "2026-10-31T13:59:55.282107+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -25,36 +25,18 @@
       "remote": true
     },
     {
-      "title": "Software Engineer - Edge & Cloud (m/f/d)",
-      "company": "1KOMMA5˚",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/software-engineer-edge-cloud-berlin-280496",
-      "description": "1KOMMA5° At 1KOMMA5° , we pursue a clear vision: Living on wind and sunlight forever for free . To make this a reality, we are building the energy system of the future with Heartbeat AI. Want to be part of it? We bring together regional craftsmanship and scalable software: We don't think of solar, batteries, heat pumps, and e-mobility as isolated components, but control them as an intelligent, integrated overall system in our virtual power plant. Directly connected to the electricity market – in real time, fully automated. This way, energy is used when it is available from renewables and particularly cost-effective. By 2030, our goal is to tr",
-      "posted_at": 1793392252,
+      "title": "Full-Stack Developer",
+      "company": "Fluence International, Inc.",
+      "location": "Worldwide",
+      "url": "https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165",
+      "description": "We’re looking for a pragmatic, security-minded Full-Stack Developer to help build and scale Fluence’s B2B products used by clinicians, researchers, and organizations in psychedelic-assisted therapy and mental health. You’ll work closely with and report to our Senior AI & Design Lead to turn product requirements into robust, secure, and well-documented applications, as well as maintain existing ones. What you’ll do Build and maintain full-stack web applications using React and Next.js . Architect reliable, performant backends and APIs; familiarity with AWS (Lambda, ECS/Fargate, API Gateway, RDS/DynamoDB, S3, CloudFront, Cognito, etc.) is impor",
+      "posted_at": "2026-10-29T18:22:41",
       "tags": [
-        "Remote",
         "Software Development"
       ],
       "experience": "Check listing",
-      "score": 48,
-      "match_reason": "Relevant keywords: role-family match",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Software Engineer - Edge & Cloud (m/w/d)",
-      "company": "1KOMMA5˚",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/software-engineer-edge-cloud-berlin-16107",
-      "description": "1KOMMA5° Bei 1KOMMA5° verfolgen wir eine Vision: Living on wind and sunlight forever for free . Dafür bauen wir mit Heartbeat AI das Energiesystem der Zukunft. Bist du dabei? Wir bringen regionales Handwerk und skalierbare Software zusammen: Solar, Speicher, Wärmepumpe und E-Mobilität denken wir nicht einzeln, sondern steuern sie als intelligentes, integriertes Gesamtsystem in unserem virtuellen Kraftwerk. Direkt verbunden mit dem Strommarkt – in Echtzeit, vollautomatisiert. So wird Energie dann genutzt, wenn sie erneuerbar verfügbar und besonders günstig ist. Bis 2030 wollen wir 1,5 Millionen Haushalte auf erneuerbare Energien umstellen. Übe",
-      "posted_at": 1793392252,
-      "tags": [
-        "Remote",
-        "Software Development"
-      ],
-      "experience": "Check listing",
-      "score": 48,
-      "match_reason": "Relevant keywords: role-family match",
+      "score": 28,
+      "match_reason": "Relevant keywords: aws",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
@@ -89,6 +71,24 @@
       "match_reason": "Relevant keywords: role-family match",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": false
+    },
+    {
+      "title": "Marketing Lead - B2B Demand Generation & Growth (m/w/d) - Remote",
+      "company": "ZEP GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/zep-gmbh/marketing-lead-b2b-demand-generation-growth-remote-berlin-78700",
+      "description": "Über uns ZEP ist eine cloudbasierte Software für Projektcontrolling – von der Projektzeiterfassung über Abwesenheitsverwaltung bis zur Abrechnung. Mehr als 3.000 Unternehmen, vor allem projektorientierte Dienstleister wie Beratungen, IT- und Engineering-Unternehmen, arbeiten bereits mit ZEP. Seit unserer Gründung im Jahr 2000 sind wir inhabergeführt und kontinuierlich gewachsen. Jetzt wollen wir den nächsten Schritt gehen und noch mehr Unternehmen von ZEP überzeugen. Als Marketing Lead entwickelst du die passenden Ideen und Maßnahmen, um neue Kunden zu gewinnen und unser Wachstum aktiv voranzutreiben. Du willst Marketing nicht nur umsetzen, s",
+      "posted_at": 1793433657,
+      "tags": [
+        "Remote",
+        "Management",
+        "Team Leader"
+      ],
+      "experience": "Check listing",
+      "score": 23,
+      "match_reason": "Relevant keywords: role-family match",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
     },
     {
       "title": "Senior Back-end Developer",
