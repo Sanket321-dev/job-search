@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-10-30T21:13:33.394582+00:00",
+  "updated_at": "2026-10-31T01:13:31.571551+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -94,22 +94,6 @@
       "remote": true
     },
     {
-      "title": "Product Manager",
-      "company": "remotewoman",
-      "location": "Remote • Germany, Canada, Spain or the UK",
-      "url": "https://www.arbeitnow.fr/jobs/companies/remotewoman/remote-product-manager-168702",
-      "description": "<h1><span style=\"font-size: 14pt; font-family: helvetica, arial, sans-serif;\"><strong>About Upsun</strong></span></h1> <p><span style=\"font-size: 12pt;\">Upsun is the software factory for human-AI workflows. We give teams one unified platform to create, review, deploy, and run software, with AI agents and humans working in sync. Developers, DevOps engineers, and platform teams use Upsun to build and ship with confidence, without wrestling with infrastructure.</span></p> <p><span style=\"font-size: 12pt;\">Upsun brings this together through two products: one that shapes the work, and one that runs it.</span></p> <ul> <li><span style=\"font-size: 1",
-      "posted_at": 1793310921,
-      "tags": [
-        "Product & Engineering"
-      ],
-      "experience": "Check listing",
-      "score": 53,
-      "match_reason": "Relevant keywords: devops",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": false
-    },
-    {
       "title": "Software Test Engineer",
       "company": "SwissPeak Partners GmbH",
       "location": "Remote job",
@@ -127,19 +111,36 @@
       "remote": true
     },
     {
-      "title": "Senior AWS Platform Engineer",
-      "company": "Luscii",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.nl/jobs/companies/luscii/remote-senior-aws-platform-engineer-utrecht-130307",
-      "description": "At Luscii, we are creating space for care by building digital health applications that help people manage their health. Applications such as the Luscii Thuismeten app and OMRON Connect. Together with healthcare professionals around the world, we build technology that helps users receive the right care in the right place. Millions of people rely on our products every month, and behind every reliable healthcare experience is a cloud platform that simply works. As engineer working on our apps, you will play a vital role in modernising the cloud platform that powers the platform, creating a more reliable, scalable and future-proof foundation for ",
-      "posted_at": 1793298667,
+      "title": "Software Engineer - Edge & Cloud (m/f/d)",
+      "company": "1KOMMA5˚",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/software-engineer-edge-cloud-berlin-280496",
+      "description": "1KOMMA5° At 1KOMMA5° , we pursue a clear vision: Living on wind and sunlight forever for free . To make this a reality, we are building the energy system of the future with Heartbeat AI. Want to be part of it? We bring together regional craftsmanship and scalable software: We don't think of solar, batteries, heat pumps, and e-mobility as isolated components, but control them as an intelligent, integrated overall system in our virtual power plant. Directly connected to the electricity market – in real time, fully automated. This way, energy is used when it is available from renewables and particularly cost-effective. By 2030, our goal is to tr",
+      "posted_at": 1793392252,
       "tags": [
-        "Software Development",
-        "Remote"
+        "Remote",
+        "Software Development"
       ],
       "experience": "Check listing",
-      "score": 33,
-      "match_reason": "Relevant keywords: aws, git",
+      "score": 48,
+      "match_reason": "Relevant keywords: role-family match",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Software Engineer - Edge & Cloud (m/w/d)",
+      "company": "1KOMMA5˚",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/software-engineer-edge-cloud-berlin-16107",
+      "description": "1KOMMA5° Bei 1KOMMA5° verfolgen wir eine Vision: Living on wind and sunlight forever for free . Dafür bauen wir mit Heartbeat AI das Energiesystem der Zukunft. Bist du dabei? Wir bringen regionales Handwerk und skalierbare Software zusammen: Solar, Speicher, Wärmepumpe und E-Mobilität denken wir nicht einzeln, sondern steuern sie als intelligentes, integriertes Gesamtsystem in unserem virtuellen Kraftwerk. Direkt verbunden mit dem Strommarkt – in Echtzeit, vollautomatisiert. So wird Energie dann genutzt, wenn sie erneuerbar verfügbar und besonders günstig ist. Bis 2030 wollen wir 1,5 Millionen Haushalte auf erneuerbare Energien umstellen. Übe",
+      "posted_at": 1793392252,
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "experience": "Check listing",
+      "score": 48,
+      "match_reason": "Relevant keywords: role-family match",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
@@ -158,22 +159,6 @@
       "match_reason": "Relevant keywords: devops",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
-    },
-    {
-      "title": "Senior Manager, Global Benefits",
-      "company": "dataiku",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/dataiku/remote-senior-manager-global-benefits-212788",
-      "description": "<div class=\"content-intro\"><p><a href=\"https://www.dataiku.com/?utm_source=newswire&amp;utm_medium=press-release&amp;utm_campaign=PlatformforAISuccess\" target=\"_blank\">Dataiku</a> is the Platform for AI Success, the enterprise orchestration layer for building, deploying, and governing AI. In a single environment, teams design and operate analytics, machine learning, and AI agents with the transparency, collaboration, and control enterprises require. Sitting above data platforms, cloud infrastructure, and AI services, Dataiku connects the full enterprise AI stack - empowering organizations to run AI across multi-vendor environments with centra",
-      "posted_at": 1793321719,
-      "tags": [
-        "Total Rewards"
-      ],
-      "experience": "Check listing",
-      "score": 23,
-      "match_reason": "Relevant keywords: role-family match",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": false
     },
     {
       "title": "Senior Back-end Developer",
