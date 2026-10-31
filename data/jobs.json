@@ -1,12 +1,30 @@
 {
   "status": "ok",
-  "updated_at": "2026-10-31T13:59:55.282107+00:00",
+  "updated_at": "2026-10-31T18:19:48.699837+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
     "Remotive remote API"
   ],
   "jobs": [
+    {
+      "title": "Bereichsleitung Marketing · Chief Marketing Officer (m/w/d)",
+      "company": "Bundesverbraucherhilfe e.V.",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/bundesverbraucherhilfe-ev/bereichsleitung-marketing-chief-marketing-officer-berlin-188227",
+      "description": "Über die Bundesverbraucherhilfe e.V. Gute Angebote helfen nur, wenn sie die Menschen erreichen, die sie brauchen. Ratgeber, Expertensuche, Vertrauensregister und Mitgliedschaft sollen bekannter werden, ohne aufdringlich zu wirken. Als Bereichsleitung Marketing verantworten Sie, wie die Bundesverbraucherhilfe ihre Angebote sichtbar macht und neue Mitglieder gewinnt. Sie arbeiten eng mit der Bereichsleitung Kommunikation und dem Brand Design zusammen. Ihre Aufgaben Entwicklung und Umsetzung einer Marketingstrategie für Angebote und Mitgliedschaft Planung von Kampagnen für Verbraucherinnen und Verbraucher sowie für Unternehmen Aufbau von Koopera",
+      "posted_at": 1793469643,
+      "tags": [
+        "Remote",
+        "Management",
+        "Team Leader"
+      ],
+      "experience": "Check listing",
+      "score": 53,
+      "match_reason": "Relevant keywords: sre",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
     {
       "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
       "company": "virtual7 GmbH",
@@ -55,22 +73,6 @@
       "match_reason": "Relevant keywords: devops",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
-    },
-    {
-      "title": "Lead Data Engineer",
-      "company": "Akersystems",
-      "location": "Remote/Home Based",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/akersystems/remote-lead-data-engineer-315863",
-      "description": "<div class=\"content-intro\"><p>Aker Systems was founded in 2017 by a team of experienced technology professionals who recognised an opportunity to provide highly secure enterprise data platforms to large organisations.&nbsp; We build and operate ground-breaking, ultra-secure, high performance, cloud-based data infrastructure for the enterprise. Our proprietary technology solutions drive performance and reduce costs while helping our clients to improve the management and sharing of data across their organisations.</p> <p>In 2024, Aker Systems won the Breakthrough Culture Awards highlighting growth companies putting culture first. In 2020 Aker S",
-      "posted_at": 1793429717,
-      "tags": [
-        "Delivery"
-      ],
-      "experience": "Check listing",
-      "score": 23,
-      "match_reason": "Relevant keywords: role-family match",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": false
     },
     {
       "title": "Marketing Lead - B2B Demand Generation & Growth (m/w/d) - Remote",
