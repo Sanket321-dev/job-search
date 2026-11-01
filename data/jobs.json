@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-01T01:38:20.240592+00:00",
+  "updated_at": "2026-11-01T08:22:22.833333+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -106,24 +106,6 @@
       "experience": "Check listing",
       "score": 28,
       "match_reason": "Relevant keywords: git",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Marketing Lead - B2B Demand Generation & Growth (m/w/d) - Remote",
-      "company": "ZEP GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/zep-gmbh/marketing-lead-b2b-demand-generation-growth-remote-berlin-78700",
-      "description": "Über uns ZEP ist eine cloudbasierte Software für Projektcontrolling – von der Projektzeiterfassung über Abwesenheitsverwaltung bis zur Abrechnung. Mehr als 3.000 Unternehmen, vor allem projektorientierte Dienstleister wie Beratungen, IT- und Engineering-Unternehmen, arbeiten bereits mit ZEP. Seit unserer Gründung im Jahr 2000 sind wir inhabergeführt und kontinuierlich gewachsen. Jetzt wollen wir den nächsten Schritt gehen und noch mehr Unternehmen von ZEP überzeugen. Als Marketing Lead entwickelst du die passenden Ideen und Maßnahmen, um neue Kunden zu gewinnen und unser Wachstum aktiv voranzutreiben. Du willst Marketing nicht nur umsetzen, s",
-      "posted_at": 1793433657,
-      "tags": [
-        "Remote",
-        "Management",
-        "Team Leader"
-      ],
-      "experience": "Check listing",
-      "score": 23,
-      "match_reason": "Relevant keywords: role-family match",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
