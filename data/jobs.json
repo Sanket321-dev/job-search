@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-01T15:34:05.399615+00:00",
+  "updated_at": "2026-11-01T19:57:11.987640+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -22,24 +22,6 @@
       "experience": "Check listing",
       "score": 58,
       "match_reason": "Relevant keywords: azure, git",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Bereichsleitung Marketing · Chief Marketing Officer (m/w/d) im Ehrenamt",
-      "company": "Bundesverbraucherhilfe e.V.",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/bundesverbraucherhilfe-ev/bereichsleitung-marketing-chief-marketing-officer-berlin-188227",
-      "description": "Über die Bundesverbraucherhilfe e.V. Gute Angebote helfen nur, wenn sie die Menschen erreichen, die sie brauchen. Ratgeber, Expertensuche, Vertrauensregister und Mitgliedschaft sollen bekannter werden, ohne aufdringlich zu wirken. Als Bereichsleitung Marketing verantworten Sie, wie die Bundesverbraucherhilfe ihre Angebote sichtbar macht und neue Mitglieder gewinnt. Sie arbeiten eng mit der Bereichsleitung Kommunikation und dem Brand Design zusammen. Ihre Aufgaben Entwicklung und Umsetzung einer Marketingstrategie für Angebote und Mitgliedschaft Planung von Kampagnen für Verbraucherinnen und Verbraucher sowie für Unternehmen Aufbau von Koopera",
-      "posted_at": 1793485045,
-      "tags": [
-        "Remote",
-        "Management",
-        "Team Leader"
-      ],
-      "experience": "Check listing",
-      "score": 53,
-      "match_reason": "Relevant keywords: sre",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
@@ -90,6 +72,23 @@
       "experience": "Check listing",
       "score": 28,
       "match_reason": "Relevant keywords: git",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Senior Full Stack Developer - Deepdesk",
+      "company": "AnywhereNow",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.nl/jobs/companies/anywherenow/remote-senior-full-stack-developer-deepdesk-rotterdam-346552",
+      "description": "About Deepdesk Deepdesk, part of AnywhereNow, powers AI Assistants and Virtual Agents for enterprise contact centres, helping brands such as Achmea, Vodafone and DHL boost productivity today while scaling for the future of customer experience. As part of AnywhereNow, a global leader in customer experience technology with 220 colleagues worldwide, we combine the agility of a scale-up with the strength of an established enterprise provider. The Opportunity We are looking for an experienced developer to join our small engineering team. The centre of the role is backend development in Python or Go and cloud infrastructure, with some front-end wor",
+      "posted_at": 1793547104,
+      "tags": [
+        "Deepdesk",
+        "Remote"
+      ],
+      "experience": "Check listing",
+      "score": 23,
+      "match_reason": "Relevant keywords: role-family match",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
