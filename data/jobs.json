@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-10-31T22:01:54.490221+00:00",
+  "updated_at": "2026-11-01T01:38:20.240592+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -8,12 +8,30 @@
   ],
   "jobs": [
     {
-      "title": "Bereichsleitung Marketing · Chief Marketing Officer (m/w/d)",
+      "title": "AI Solution Architect (m/w/d)",
+      "company": "virtual7 GmbH",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-430823",
+      "description": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, die mit ihren Ideen, ihrem Können und Engagement etwas bewegen wollen. Fühlst du dich angesprochen? Dann gestalte Deine Welt zum Besseren und werde Teil unseres Customer Cluster Environment, Transportation & Energy. DEINE MISSION Als AI Solution Architect (m/w/d) gestaltest Du die KI-/ML-Gesamtarchitektur für komplexe Enterprise-Umgebungen in der Cloud mit Schwerpunkt Microsoft Azure. Du",
+      "posted_at": 1793493079,
+      "tags": [
+        "Customer Cluster Environment",
+        "Transportation & Energy",
+        "Remote"
+      ],
+      "experience": "Check listing",
+      "score": 58,
+      "match_reason": "Relevant keywords: azure, git",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Bereichsleitung Marketing · Chief Marketing Officer (m/w/d) im Ehrenamt",
       "company": "Bundesverbraucherhilfe e.V.",
       "location": "Berlin",
       "url": "https://www.arbeitnow.com/jobs/companies/bundesverbraucherhilfe-ev/bereichsleitung-marketing-chief-marketing-officer-berlin-188227",
       "description": "Über die Bundesverbraucherhilfe e.V. Gute Angebote helfen nur, wenn sie die Menschen erreichen, die sie brauchen. Ratgeber, Expertensuche, Vertrauensregister und Mitgliedschaft sollen bekannter werden, ohne aufdringlich zu wirken. Als Bereichsleitung Marketing verantworten Sie, wie die Bundesverbraucherhilfe ihre Angebote sichtbar macht und neue Mitglieder gewinnt. Sie arbeiten eng mit der Bereichsleitung Kommunikation und dem Brand Design zusammen. Ihre Aufgaben Entwicklung und Umsetzung einer Marketingstrategie für Angebote und Mitgliedschaft Planung von Kampagnen für Verbraucherinnen und Verbraucher sowie für Unternehmen Aufbau von Koopera",
-      "posted_at": 1793469643,
+      "posted_at": 1793485045,
       "tags": [
         "Remote",
         "Management",
@@ -26,19 +44,19 @@
       "remote": true
     },
     {
-      "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
-      "company": "virtual7 GmbH",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-487125",
-      "description": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, die mit ihren Ideen, ihrem Können und Engagement etwas bewegen wollen. Fühlst du dich angesprochen? Dann gestalte Deine Welt zum Besseren und werde Teil unseres Customer Clusters Justice. DEINE MISSION Als Kubernetes Administrator/Private Cloud Engineer (m/w/d) stellst du sicher, dass unsere Container-Infrastruktur reibungslos läuft und zukunftsfähig bleibt. Deine Mission ist es, eine ho",
-      "posted_at": 1793428288,
+      "title": "Senior Site Reliability Engineer (SRE) m/f/x",
+      "company": "Makersite GmbH",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-site-reliability-engineer-sre-berlin-445711",
+      "description": "Location: Germany/Berlin/Stuttgart (Remote) Who You’ll Work For : At Makersite, we're pioneering the future of sustainable product development and digital collaboration. As a leading platform for product lifecycle management (PLM), we empower companies to make smarter, more sustainable decisions across their entire supply chain. Our cutting-edge software enables teams to design, prototype, and manufacture with transparency, efficiency, and responsibility—reducing environmental impact while optimizing performance. We're a fast-growing, innovative company that thrives on creativity, collaboration, and continuous learning. If you're passionate a",
+      "posted_at": 1793493077,
       "tags": [
-        "Customer Cluster Justice",
+        "Technology",
         "Remote"
       ],
       "experience": "Check listing",
-      "score": 53,
-      "match_reason": "Relevant keywords: git",
+      "score": 33,
+      "match_reason": "Relevant keywords: git, sre",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
@@ -71,6 +89,23 @@
       "experience": "Check listing",
       "score": 28,
       "match_reason": "Relevant keywords: devops",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Senior Oracle Data Engineer (m/w/d)",
+      "company": "virtual7 GmbH",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-oracle-data-engineer-karlsruhe-188254",
+      "description": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, die mit ihren Ideen, ihrem Können und Engagement etwas bewegen wollen. Fühlst du dich angesprochen? Dann gestalte Deine Welt zum Besseren und werde Teil unseres Customer Clusters Finance. DEINE MISSION Als Senior Oracle Data Engineer (m/w/d) übernimmst du fachliche Verantwortung für anspruchsvolle Datenbanklösungen und gestaltest performante, sichere Anwendungen auf Basis von Oracle-Tech",
+      "posted_at": 1793493079,
+      "tags": [
+        "Customer Cluster Finance",
+        "Remote"
+      ],
+      "experience": "Check listing",
+      "score": 28,
+      "match_reason": "Relevant keywords: git",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
