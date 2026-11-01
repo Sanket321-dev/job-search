@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-01T19:57:11.987640+00:00",
+  "updated_at": "2026-11-01T23:19:02.551071+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -22,6 +22,23 @@
       "experience": "Check listing",
       "score": 58,
       "match_reason": "Relevant keywords: azure, git",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Brand Ambassador - Representing the Brand | HACOY",
+      "company": "HACOY",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/hacoy/brand-ambassador-representing-the-brand-hacoy-munich-131633",
+      "description": "We are looking for brand ambassadors for our new fashion brand, interested in long-term collaboration. At HACOY we are making individuals feel comfortable with the clothing they wear, but more importantly; with themselves. Focused on home office wear, our collection presents clothing pieces that combine comfort and classic business style. Tasks Creation of authentic content on your preferred social media channel(s) Product samples testing Representing the brand at events Modeling for photo shootings Requirements home & remote office enthusiast active on social media Benefits Selected clothing pieces Additional Payments based on performance In",
+      "posted_at": 1793561442,
+      "tags": [
+        "Remote",
+        "Marketing and Communication"
+      ],
+      "experience": "Check listing",
+      "score": 53,
+      "match_reason": "Relevant keywords: testing",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
