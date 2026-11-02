@@ -1,30 +1,12 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-02T03:16:31.304670+00:00",
+  "updated_at": "2026-11-02T11:48:45.839819+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
     "Remotive remote API"
   ],
   "jobs": [
-    {
-      "title": "AI Solution Architect (m/w/d)",
-      "company": "virtual7 GmbH",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-430823",
-      "description": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, die mit ihren Ideen, ihrem Können und Engagement etwas bewegen wollen. Fühlst du dich angesprochen? Dann gestalte Deine Welt zum Besseren und werde Teil unseres Customer Cluster Environment, Transportation & Energy. DEINE MISSION Als AI Solution Architect (m/w/d) gestaltest Du die KI-/ML-Gesamtarchitektur für komplexe Enterprise-Umgebungen in der Cloud mit Schwerpunkt Microsoft Azure. Du",
-      "posted_at": 1793493079,
-      "tags": [
-        "Customer Cluster Environment",
-        "Transportation & Energy",
-        "Remote"
-      ],
-      "experience": "Check listing",
-      "score": 58,
-      "match_reason": "Relevant keywords: azure, git",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
     {
       "title": "Brand Ambassador - Representing the Brand | HACOY",
       "company": "HACOY",
@@ -35,6 +17,41 @@
       "tags": [
         "Remote",
         "Marketing and Communication"
+      ],
+      "experience": "Check listing",
+      "score": 53,
+      "match_reason": "Relevant keywords: testing",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Sales Manager B2B (m/w/d) - (freiberuflich)",
+      "company": "COLMENA GmbH & Co. KG",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/colmena-gmbh-co-kg/sales-manager-b2b-freiberuflich-munich-232744",
+      "description": "COLMENA – Innovation und Positivität. Wir glauben an die Vorteile, die unsere moderne Arbeitsrealität für Arbeitnehmer und Arbeitgeber bietet und fördern diese mit innovativen Ideen und Technologien. Entsprechend ist das COLMENA Team offen, kreativ und vielschichtig. Die Kombination aus der Arbeit mit Menschen und dem Einsatz moderner Informations-technologie prägt COLMENA und mit der Balance beider Bereiche stärken wir Mitarbeiterinnen und Mitarbeiter und Unternehmen nachhaltig. Unter dem Motto “New Work is here to stay” streben wir einen Wandel im Denken an, bei dem alle Beteiligten mitwirken können und gehört werden. Als junges Softwareunt",
+      "posted_at": 1793610039,
+      "tags": [
+        "Remote",
+        "Management",
+        "Team Leader"
+      ],
+      "experience": "Check listing",
+      "score": 53,
+      "match_reason": "Relevant keywords: sre",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Working Student – Quality & Data (m/f/d)",
+      "company": "JawBuddy",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/jawbuddy/working-student-quality-data-berlin-77350",
+      "description": "About JawBuddy JawBuddy helps people with jaw pain, teeth grinding and TMJ problems through a guided exercise app. Our app measures jaw movement through the phone camera using computer vision and AR, so users see their progress in real numbers. We are a small, funded health-tech team with paying customers in Germany. Next up: a B2B platform release in early 2027. The role You make sure our app and our numbers can be trusted, and you use AI to do it at a scale one person couldn't before. AI handles the repetitive checks; you handle what needs human judgment, like testing our camera features in the real world. You work directly with our CTO and",
+      "posted_at": 1793608242,
+      "tags": [
+        "Remote",
+        "Quality Management"
       ],
       "experience": "Check listing",
       "score": 53,
@@ -55,23 +72,6 @@
       "experience": "Check listing",
       "score": 28,
       "match_reason": "Relevant keywords: aws",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Senior Oracle Data Engineer (m/w/d)",
-      "company": "virtual7 GmbH",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-oracle-data-engineer-karlsruhe-188254",
-      "description": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, die mit ihren Ideen, ihrem Können und Engagement etwas bewegen wollen. Fühlst du dich angesprochen? Dann gestalte Deine Welt zum Besseren und werde Teil unseres Customer Clusters Finance. DEINE MISSION Als Senior Oracle Data Engineer (m/w/d) übernimmst du fachliche Verantwortung für anspruchsvolle Datenbanklösungen und gestaltest performante, sichere Anwendungen auf Basis von Oracle-Tech",
-      "posted_at": 1793493079,
-      "tags": [
-        "Customer Cluster Finance",
-        "Remote"
-      ],
-      "experience": "Check listing",
-      "score": 28,
-      "match_reason": "Relevant keywords: git",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
