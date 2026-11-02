@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-02T11:48:45.839819+00:00",
+  "updated_at": "2026-11-02T21:01:16.348534+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -8,54 +8,50 @@
   ],
   "jobs": [
     {
-      "title": "Brand Ambassador - Representing the Brand | HACOY",
-      "company": "HACOY",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/hacoy/brand-ambassador-representing-the-brand-hacoy-munich-131633",
-      "description": "We are looking for brand ambassadors for our new fashion brand, interested in long-term collaboration. At HACOY we are making individuals feel comfortable with the clothing they wear, but more importantly; with themselves. Focused on home office wear, our collection presents clothing pieces that combine comfort and classic business style. Tasks Creation of authentic content on your preferred social media channel(s) Product samples testing Representing the brand at events Modeling for photo shootings Requirements home & remote office enthusiast active on social media Benefits Selected clothing pieces Additional Payments based on performance In",
-      "posted_at": 1793561442,
+      "title": "Site Reliability Engineer (f/m/d)",
+      "company": "ecosio",
+      "location": "Austria, UK, Italy, Hungary, Croatia, Poland - Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/ecosio/remote-site-reliability-engineer-428574",
+      "description": "<div> <h2 class=\"title\">Company Description</h2> </div> <div class=\"wysiwyg\"> <p>ecosio is a fast-growing, innovative service company and a leading provider of B2B integration, specialising in electronic data interchange (EDI), Web EDI and e-invoicing. ecosio is part of Vertex, Inc., a leading global provider of indirect tax solutions listed on Nasdaq (VERX).<br><br>Our brand slogan is&nbsp;<em data-stringify-type=\"italic\">Connections That Work</em>&nbsp;as we believe strong connections are central to successful business relationships - both external and internal. At ecosio, we hire individuals from all backgrounds and are committed to creati",
+      "posted_at": 1793645721,
       "tags": [
-        "Remote",
-        "Marketing and Communication"
+        "Site Reliability Engineering"
       ],
-      "experience": "Check listing",
-      "score": 53,
-      "match_reason": "Relevant keywords: testing",
+      "experience": "Early career mentioned",
+      "score": 52,
+      "match_reason": "Relevant keywords: role-family match",
       "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
+      "remote": false
     },
     {
-      "title": "Sales Manager B2B (m/w/d) - (freiberuflich)",
-      "company": "COLMENA GmbH & Co. KG",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/colmena-gmbh-co-kg/sales-manager-b2b-freiberuflich-munich-232744",
-      "description": "COLMENA – Innovation und Positivität. Wir glauben an die Vorteile, die unsere moderne Arbeitsrealität für Arbeitnehmer und Arbeitgeber bietet und fördern diese mit innovativen Ideen und Technologien. Entsprechend ist das COLMENA Team offen, kreativ und vielschichtig. Die Kombination aus der Arbeit mit Menschen und dem Einsatz moderner Informations-technologie prägt COLMENA und mit der Balance beider Bereiche stärken wir Mitarbeiterinnen und Mitarbeiter und Unternehmen nachhaltig. Unter dem Motto “New Work is here to stay” streben wir einen Wandel im Denken an, bei dem alle Beteiligten mitwirken können und gehört werden. Als junges Softwareunt",
-      "posted_at": 1793610039,
+      "title": "Site Reliability Engineer (f/m/d)",
+      "company": "ecosio",
+      "location": "Austria, Germany, Italy, Hungary, Croatia, Poland - Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/ecosio/remote-site-reliability-engineer-473544",
+      "description": "<div> <h2 class=\"title\">Company Description</h2> </div> <div class=\"wysiwyg\"> <p>ecosio is a fast-growing, innovative service company and a leading provider of B2B integration, specialising in electronic data interchange (EDI), Web EDI and e-invoicing. ecosio is part of Vertex, Inc., a leading global provider of indirect tax solutions listed on Nasdaq (VERX).<br><br>Our brand slogan is&nbsp;<em data-stringify-type=\"italic\">Connections That Work</em>&nbsp;as we believe strong connections are central to successful business relationships - both external and internal. At ecosio, we hire individuals from all backgrounds and are committed to creati",
+      "posted_at": 1793645721,
       "tags": [
-        "Remote",
-        "Management",
-        "Team Leader"
+        "Site Reliability Engineering"
       ],
-      "experience": "Check listing",
-      "score": 53,
-      "match_reason": "Relevant keywords: sre",
+      "experience": "Early career mentioned",
+      "score": 52,
+      "match_reason": "Relevant keywords: role-family match",
       "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
+      "remote": false
     },
     {
-      "title": "Working Student – Quality & Data (m/f/d)",
-      "company": "JawBuddy",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/jawbuddy/working-student-quality-data-berlin-77350",
-      "description": "About JawBuddy JawBuddy helps people with jaw pain, teeth grinding and TMJ problems through a guided exercise app. Our app measures jaw movement through the phone camera using computer vision and AR, so users see their progress in real numbers. We are a small, funded health-tech team with paying customers in Germany. Next up: a B2B platform release in early 2027. The role You make sure our app and our numbers can be trusted, and you use AI to do it at a scale one person couldn't before. AI handles the repetitive checks; you handle what needs human judgment, like testing our camera features in the real world. You work directly with our CTO and",
-      "posted_at": 1793608242,
+      "title": "Account Executive, AI/HPC, Neo / Sovereign Cloud (EMEA)",
+      "company": "purestorage",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/purestorage/remote-account-executive-ai-hpc-neo-sovereign-cloud-emea-444126",
+      "description": "<div class=\"content-intro\"><p>Everpure (NYSE: P) has evolved from storage pioneer to data platform, closing fiscal 2026 with $3.7 billion in revenue, its first billion-dollar quarter, and accelerating growth into FY27. Our strategic agenda spans the companies defining the next era of technology - hyperscalers, AI labs, the AI hardware supply chain, data platform providers, and the broader AI ecosystem.</p> <p>This type of work—work that changes the world—is what the tech industry was founded on. So, if you're ready to seize the endless opportunities and leave your mark, come join us.</p></div><p><strong>THE ROLE</strong></p> <p>Join&nbsp;<str",
+      "posted_at": 1793645723,
       "tags": [
-        "Remote",
-        "Quality Management"
+        "Sales"
       ],
       "experience": "Check listing",
-      "score": 53,
-      "match_reason": "Relevant keywords: testing",
+      "score": 48,
+      "match_reason": "Relevant keywords: role-family match",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
@@ -72,6 +68,23 @@
       "experience": "Check listing",
       "score": 28,
       "match_reason": "Relevant keywords: aws",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Senior Spezialist (w/m/d) Gesamtbanksteuerung",
+      "company": "V-HEAL GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/v-heal-gmbh/senior-spezialist-gesamtbanksteuerung-berlin-280050",
+      "description": "Für unseren Mandanten, ein seit 50 Jahren expandierendes, modernes und überregional tätiges Spezialkreditinstitut, suchen wir zum nächstmöglichen Zeitpunkt einen Senior Spezialist (w/m/d) Gesamtbanksteuerung. Das erwartet Sie: Konzeption, Weiterentwicklung und Interpretation komplexer steuerungsrelevanter Analysen und Reports Ableitung fundierter Handlungsempfehlungen für das Management Mitwirkung bei der Erstellung und Weiterentwicklung des Gesamtrisikoprofils sowie Integration in die Gesamtbanksteuerung Mitarbeit in bereichsübergreifenden Projekten Weiterentwicklung von Methoden und Prozessen im Steuerungsumfeld Kritische Analyse und Validi",
+      "posted_at": 1793642451,
+      "tags": [
+        "Remote",
+        "Controlling"
+      ],
+      "experience": "Check listing",
+      "score": 28,
+      "match_reason": "Relevant keywords: sre",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
