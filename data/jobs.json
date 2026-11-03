@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-03T03:08:34.956291+00:00",
+  "updated_at": "2026-11-03T11:27:29.192515+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -8,20 +8,21 @@
   ],
   "jobs": [
     {
-      "title": "Site Reliability Engineer (f/m/d)",
-      "company": "ecosio",
-      "location": "Austria, UK, Italy, Hungary, Croatia, Poland - Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/ecosio/remote-site-reliability-engineer-428574",
-      "description": "<div> <h2 class=\"title\">Company Description</h2> </div> <div class=\"wysiwyg\"> <p>ecosio is a fast-growing, innovative service company and a leading provider of B2B integration, specialising in electronic data interchange (EDI), Web EDI and e-invoicing. ecosio is part of Vertex, Inc., a leading global provider of indirect tax solutions listed on Nasdaq (VERX).<br><br>Our brand slogan is&nbsp;<em data-stringify-type=\"italic\">Connections That Work</em>&nbsp;as we believe strong connections are central to successful business relationships - both external and internal. At ecosio, we hire individuals from all backgrounds and are committed to creati",
-      "posted_at": 1793645721,
+      "title": "DevOps Engineer - CIMAR",
+      "company": "DeepHealth",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deephealth/remote-devops-engineer-cimar-london-341410",
+      "description": "Company Overview CIMAR UK Ltd, now a part of DeepHealth, is a leading provider in the SaaS (Software-as-a-Service) healthcare sector, specialising in advanced cloud-based image management solutions. Our technology empowers healthcare organisations to optimise image management processes, enhance patient care, and streamline workflows through seamless integration and actionable data insights. Job Summary The DevOps Engineer is a hands-on engineering role within the Platform Engineering team, responsible for supporting and evolving DeepHealth's AWS-based infrastructure, Kubernetes platforms, CI/CD tooling, and operational processes. Working clos",
+      "posted_at": 1793677887,
       "tags": [
-        "Site Reliability Engineering"
+        "Business and Product",
+        "Remote"
       ],
-      "experience": "Early career mentioned",
-      "score": 52,
-      "match_reason": "Relevant keywords: role-family match",
+      "experience": "Check listing",
+      "score": 68,
+      "match_reason": "Relevant keywords: aws, ci/cd, support, devops",
       "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": false
+      "remote": true
     },
     {
       "title": "Full-Stack Developer",
@@ -36,23 +37,6 @@
       "experience": "Check listing",
       "score": 28,
       "match_reason": "Relevant keywords: aws",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Senior Spezialist (w/m/d) Gesamtbanksteuerung",
-      "company": "V-HEAL GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/v-heal-gmbh/senior-spezialist-gesamtbanksteuerung-berlin-280050",
-      "description": "Für unseren Mandanten, ein seit 50 Jahren expandierendes, modernes und überregional tätiges Spezialkreditinstitut, suchen wir zum nächstmöglichen Zeitpunkt einen Senior Spezialist (w/m/d) Gesamtbanksteuerung. Das erwartet Sie: Konzeption, Weiterentwicklung und Interpretation komplexer steuerungsrelevanter Analysen und Reports Ableitung fundierter Handlungsempfehlungen für das Management Mitwirkung bei der Erstellung und Weiterentwicklung des Gesamtrisikoprofils sowie Integration in die Gesamtbanksteuerung Mitarbeit in bereichsübergreifenden Projekten Weiterentwicklung von Methoden und Prozessen im Steuerungsumfeld Kritische Analyse und Validi",
-      "posted_at": 1793642451,
-      "tags": [
-        "Remote",
-        "Controlling"
-      ],
-      "experience": "Check listing",
-      "score": 28,
-      "match_reason": "Relevant keywords: sre",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
