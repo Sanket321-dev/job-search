@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-02T21:01:16.348534+00:00",
+  "updated_at": "2026-11-03T03:08:34.956291+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -22,38 +22,6 @@
       "match_reason": "Relevant keywords: role-family match",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": false
-    },
-    {
-      "title": "Site Reliability Engineer (f/m/d)",
-      "company": "ecosio",
-      "location": "Austria, Germany, Italy, Hungary, Croatia, Poland - Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/ecosio/remote-site-reliability-engineer-473544",
-      "description": "<div> <h2 class=\"title\">Company Description</h2> </div> <div class=\"wysiwyg\"> <p>ecosio is a fast-growing, innovative service company and a leading provider of B2B integration, specialising in electronic data interchange (EDI), Web EDI and e-invoicing. ecosio is part of Vertex, Inc., a leading global provider of indirect tax solutions listed on Nasdaq (VERX).<br><br>Our brand slogan is&nbsp;<em data-stringify-type=\"italic\">Connections That Work</em>&nbsp;as we believe strong connections are central to successful business relationships - both external and internal. At ecosio, we hire individuals from all backgrounds and are committed to creati",
-      "posted_at": 1793645721,
-      "tags": [
-        "Site Reliability Engineering"
-      ],
-      "experience": "Early career mentioned",
-      "score": 52,
-      "match_reason": "Relevant keywords: role-family match",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": false
-    },
-    {
-      "title": "Account Executive, AI/HPC, Neo / Sovereign Cloud (EMEA)",
-      "company": "purestorage",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/purestorage/remote-account-executive-ai-hpc-neo-sovereign-cloud-emea-444126",
-      "description": "<div class=\"content-intro\"><p>Everpure (NYSE: P) has evolved from storage pioneer to data platform, closing fiscal 2026 with $3.7 billion in revenue, its first billion-dollar quarter, and accelerating growth into FY27. Our strategic agenda spans the companies defining the next era of technology - hyperscalers, AI labs, the AI hardware supply chain, data platform providers, and the broader AI ecosystem.</p> <p>This type of work—work that changes the world—is what the tech industry was founded on. So, if you're ready to seize the endless opportunities and leave your mark, come join us.</p></div><p><strong>THE ROLE</strong></p> <p>Join&nbsp;<str",
-      "posted_at": 1793645723,
-      "tags": [
-        "Sales"
-      ],
-      "experience": "Check listing",
-      "score": 48,
-      "match_reason": "Relevant keywords: role-family match",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
     },
     {
       "title": "Full-Stack Developer",
