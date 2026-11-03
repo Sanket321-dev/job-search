@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-03T11:27:29.192515+00:00",
+  "updated_at": "2026-11-03T18:46:43.004780+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -8,19 +8,102 @@
   ],
   "jobs": [
     {
-      "title": "DevOps Engineer - CIMAR",
-      "company": "DeepHealth",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/deephealth/remote-devops-engineer-cimar-london-341410",
-      "description": "Company Overview CIMAR UK Ltd, now a part of DeepHealth, is a leading provider in the SaaS (Software-as-a-Service) healthcare sector, specialising in advanced cloud-based image management solutions. Our technology empowers healthcare organisations to optimise image management processes, enhance patient care, and streamline workflows through seamless integration and actionable data insights. Job Summary The DevOps Engineer is a hands-on engineering role within the Platform Engineering team, responsible for supporting and evolving DeepHealth's AWS-based infrastructure, Kubernetes platforms, CI/CD tooling, and operational processes. Working clos",
-      "posted_at": 1793677887,
+      "title": "Infrastructure / Platform Engineer",
+      "company": "Neuphonic",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/neuphonic/remote-infrastructure-platform-engineer-274392",
+      "description": "Location: Remote (Australia or New Zealand) Type: Full-time, remote About Neuphonic Neuphonic is building the next generation of voice AI, making natural, real-time speech accessible across devices, languages, and applications. Our technology enables ultra-low-latency text-to-speech, voice cloning, and multilingual speech generation. We're pushing the boundaries of what's possible with speech models, from high-performance cloud inference to running AI directly on everyday devices without expensive GPUs or an internet connection. We're a small, ambitious team of researchers and engineers building technology used by developers and businesses ar",
+      "posted_at": 1793720432,
       "tags": [
-        "Business and Product",
-        "Remote"
+        "Engineering"
+      ],
+      "experience": "Early career mentioned",
+      "score": 60,
+      "match_reason": "Relevant keywords: role-family match",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Business Innovation Manager (m/w/d) – AI, MarTech & Digital Solutions",
+      "company": "hurra.com",
+      "location": "Stuttgart",
+      "url": "https://www.arbeitnow.com/jobs/companies/hurracom/business-innovation-manager-ai-martech-digital-solutions-stuttgart-266724",
+      "description": "100% remote. Neue AI-Tools, autonome Agenten, Automatisierungen, neue Plattformen oder smartere Wege, digitales Marketing effizienter zu machen: Wenn Technologie auf Marketing trifft, wirst Du neugierig. Und noch besser: Du willst nicht nur darüber reden, sondern ausprobieren, bauen und umsetzen. Wir sind eine unabhängige Digital-Performance-Agentur aus Deutschland und verbinden über 25 Jahre Marketing-Erfahrung mit AI, First-Party Data, eigener Technologie und datengetriebenen Lösungen. Als Business Innovation Manager (m/w/d) arbeitest Du direkt mit unserem Director of Business Innovation und unserem Innovation-Team zusammen. Ihr identifizie",
+      "posted_at": 1793710879,
+      "tags": [
+        "Remote",
+        "Business Development"
       ],
       "experience": "Check listing",
-      "score": 68,
-      "match_reason": "Relevant keywords: aws, ci/cd, support, devops",
+      "score": 53,
+      "match_reason": "Relevant keywords: git",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "AI Platform Engineer (m/w/d) | AI Hub für 10+ Unternehmen",
+      "company": "CHAPTERS Group AG",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/chapters-group-ag/ai-platform-engineer-ai-hub-fur-10-unternehmen-berlin-43586",
+      "description": "Über CHAPTERS Group CHAPTERS Group ist eine börsennotierte deutsche Holding, die vertikale Softwareunternehmen erwirbt und hält. In den letzten fünf Jahren sind wir um das Zehnfache gewachsen und besitzen heute mehr als 60 Unternehmen. Jedes führt sein eigenes Geschäft, nah an seinen Kunden. Wir machen sie stärker, ohne ihnen das Steuer aus der Hand zu nehmen. KI ist eine der größten Chancen, die wir für sie sehen. Sie wirkt aber nur, wenn die Menschen in diesen Unternehmen sie auch nutzen. Die Rolle Du bist Teil des AI Core Teams im Office des CTO und arbeitest als Forward Deployed Engineer nah an den Unternehmen unserer Gruppe. Du betreibst",
+      "posted_at": 1793723466,
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "experience": "Check listing",
+      "score": 40,
+      "match_reason": "Relevant keywords: role-family match",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Site Reliability Engineer",
+      "company": "Hozah",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hozah/remote-site-reliability-engineer-427496",
+      "description": "Location: Fully remote within the UK, or our London office next to East Croydon Station Reports to: CTO About Us Hozah is a tech-led, award-winning company driving change in the parking industry and reimagining urban mobility. Our mission is simple but powerful: to transform parking into a seamless, automated experience, paving the way for smarter, more sustainable cities. With recent recognition as PayTech Company of the Year, a place among Deloitte’s Top 50 Fastest Growing Tech Companies in the UK, and significant VC/PE investment, we’re one of the fastest scaling companies in the country. Role Overview You will be Hozah’s first Site Reliab",
+      "posted_at": 1793720431,
+      "tags": [
+        "Engineering"
+      ],
+      "experience": "Check listing",
+      "score": 40,
+      "match_reason": "Relevant keywords: role-family match",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "AI CAD CAM IoT Engineer / Tinkerer CNC - Junior/Mid/Senior",
+      "company": "Imnoo AG",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.ch/jobs/companies/imnoo-ag/remote-ai-cad-cam-iot-engineer-tinkerer-cnc-junior-mid-senior-zurich-124576",
+      "description": "For over 10 years at Imnoo at Imnoo, we are bridging the gap between applied artificial intelligence and heavy industrial machinery. We aren't just riding the recent AI wave, we have been deeply rooted in machine learning and statistical analysis for 10 years, delivering real, measurable value to a stable, loyal client base of manufacturers. Imnoo is a leading SaaS platform built to analyze CNC parts, automate quoting and planning, and seamlessly connect the cloud with real manufacturers and shop-floor machines. We are looking for a unique hybrid—a CAD AI IoT Engineer / Tinkerer—who thrives at the intersection of software architecture and phy",
+      "posted_at": 1793709099,
+      "tags": [
+        "Software Department",
+        "Remote"
+      ],
+      "experience": "Early career mentioned",
+      "score": 35,
+      "match_reason": "Relevant keywords: role-family match",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Machine Learning / Computer Graphics Engineer (remote part/full time) - Junior/Mid/Senior",
+      "company": "Imnoo AG",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.ch/jobs/companies/imnoo-ag/machine-learning-computer-graphics-engineer-remote-part-full-time-junior-mid-senior-zurich-312397",
+      "description": "Geometry with consequences. Deep learning on 3D CAD data where correctness translates into steel and aluminum, not pixels. The ultimate tinkerer's playground. Physical machines, shop floors, and modern cloud architectures all in one stack. Tangible impact. Your work feeds the data pipelines that power our AI quoting and calculation engines. Factories operate differently because of what you ship. High autonomy. A fragmented industry full of unsolved problems, and the freedom to prototype, test, and deploy your own solutions end-to-end. What you'll do: Develop advanced feature-extraction and data-processing solutions for 3D CAD, 2D, and batch d",
+      "posted_at": 1793709099,
+      "tags": [
+        "Software Department",
+        "Remote"
+      ],
+      "experience": "Early career mentioned",
+      "score": 35,
+      "match_reason": "Relevant keywords: role-family match",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
@@ -37,6 +120,40 @@
       "experience": "Check listing",
       "score": 28,
       "match_reason": "Relevant keywords: aws",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Senior IT-Projectmanager (all genders): Microsoft-Großprojekte",
+      "company": "mi.ro Personalvermittlung",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/miro-personalvermittlung/senior-it-projectmanager-all-genders-microsoft-grossprojekte-berlin-259298",
+      "description": "Diese Position ist weit mehr als klassische Projektleitung. Hier übernehmen Sie die eigenständige Gesamtverantwortung für strategisch bedeutende Microsoft-Großprojekte. Mit Ihrer Erfahrung, ausgeprägten Führungskompetenz und einem souveränen Blick für das Wesentliche steuern Sie komplexe Vorhaben selbstbestimmt und konsequent zum Erfolg. Sie übernehmen, wenn andere nicht mehr weiterwissen im Microsoft Ökosystem. In dieser Rolle tragen Sie Verantwortung für strategisch wichtige Microsoft-Initiativen wie Azure-Migrationen, M365-Rollouts, Dynamics-Implementierungen oder hybride Cloud-Architekturen – genau dann, wenn sie ins Stocken geraten. Als ",
+      "posted_at": 1793725247,
+      "tags": [
+        "Remote",
+        "Project Management"
+      ],
+      "experience": "Check listing",
+      "score": 28,
+      "match_reason": "Relevant keywords: azure",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Senior Netwerk Consultant",
+      "company": "Centric",
+      "location": "Werken op afstand",
+      "url": "https://www.arbeitnow.nl/jobs/companies/centric/remote-senior-netwerk-consultant-gouda-474098",
+      "description": "Bouw mee aan de netwerken die Nederland draaiende houden Ben jij een ervaren Network Consultant die complexe netwerkomgevingen weet om te zetten in veilige, stabiele en toekomstbestendige oplossingen? Wil je werken aan uitdagende infrastructuren voor klanten in zowel de publieke als private sector? Dan is dit jouw kans om impact te maken bij Centric. Wat jij doet Als Network Consultant binnen Cloud & Dataservices (DC & Network Services) ben je verantwoordelijk voor het ontwerpen, implementeren en beheren van complexe netwerkinfrastructuren. Je werkt met moderne technologieën zoals routers, switches, firewalls, WAF's en load balancers binnen z",
+      "posted_at": 1793709103,
+      "tags": [
+        "Consultancy",
+        "Remote"
+      ],
+      "experience": "Check listing",
+      "score": 28,
+      "match_reason": "Relevant keywords: network",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
