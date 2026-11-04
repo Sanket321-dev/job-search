@@ -1,12 +1,28 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-04T03:49:53.590783+00:00",
+  "updated_at": "2026-11-04T11:43:16.411801+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
     "Remotive remote API"
   ],
   "jobs": [
+    {
+      "title": "Power Platform and Azure DevOps Expert - remote from EU",
+      "company": "AlmavivA de Belgique",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.nl/jobs/companies/almaviva-de-belgique/power-platform-and-azure-devops-expert-remote-from-eu-amsterdam-110494",
+      "description": "This is an experienced architect-level position. The appointed resource will be expected to serve as the Power Platform administrator, administering and supporting approximately 100 Power Platform environments. A significant part of the role will involve establishing guidelines and providing direction to approximately 150 developers across multiple teams and throughout the organization. At least 2 years of demonstrable experience is required for each of the following mandatory requirements. REQUIREMENTS Bachelor's or master's degree in Computer Science, Information Systems, Software Engineering or a related field. Proven experience as a Power",
+      "posted_at": 1793763088,
+      "tags": [
+        "Remote"
+      ],
+      "experience": "Check listing",
+      "score": 63,
+      "match_reason": "Relevant keywords: azure, support, devops",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
     {
       "title": "Software Test Engineer",
       "company": "SwissPeak Partners GmbH",
@@ -21,40 +37,6 @@
       "experience": "Check listing",
       "score": 53,
       "match_reason": "Relevant keywords: testing",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Head of Growth (m/w/d)",
-      "company": "Start To Finish Consulting GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/start-to-finish-consulting-gmbh/head-of-growth-berlin-342684",
-      "description": "Wir sind Start to Finish. Kein Unternehmen kann wachsen ohne das richtige Team. Aus diesem Grund unterstützen wir E-Commerce, SaaS und Mittelstand wie Snocks, Bears with Benefits, Memberspot, MBR-Skin, Cansativa Group und viele weitere dabei, ihre Schlüsselpositionen mit den richtigen Talenten zu besetzen. Mit über 100 zufriedenen Kunden sind wir die #1 Recruiting Boutique für E-Commerce im deutschsprachigen Raum. Unser Kunde sucht Dich! Für eine wachsende Premium-D2C-Brand aus dem Bereich Home & Kitchen suchen wir einen Head of Growth (m/w/d). Die Brand steht für hochwertige Produkte, echten Markenaufbau und ist auf dem Weg Richtung 20 Mio. ",
-      "posted_at": 1793728846,
-      "tags": [
-        "Remote",
-        "Business Development"
-      ],
-      "experience": "Check listing",
-      "score": 48,
-      "match_reason": "Relevant keywords: role-family match",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "AI Platform Engineer (m/w/d) | AI Hub für 10+ Unternehmen",
-      "company": "CHAPTERS Group AG",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/chapters-group-ag/ai-platform-engineer-ai-hub-fur-10-unternehmen-berlin-43586",
-      "description": "Über CHAPTERS Group CHAPTERS Group ist eine börsennotierte deutsche Holding, die vertikale Softwareunternehmen erwirbt und hält. In den letzten fünf Jahren sind wir um das Zehnfache gewachsen und besitzen heute mehr als 60 Unternehmen. Jedes führt sein eigenes Geschäft, nah an seinen Kunden. Wir machen sie stärker, ohne ihnen das Steuer aus der Hand zu nehmen. KI ist eine der größten Chancen, die wir für sie sehen. Sie wirkt aber nur, wenn die Menschen in diesen Unternehmen sie auch nutzen. Die Rolle Du bist Teil des AI Core Teams im Office des CTO und arbeitest als Forward Deployed Engineer nah an den Unternehmen unserer Gruppe. Du betreibst",
-      "posted_at": 1793723466,
-      "tags": [
-        "Remote",
-        "Software Development"
-      ],
-      "experience": "Check listing",
-      "score": 40,
-      "match_reason": "Relevant keywords: role-family match",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
@@ -75,37 +57,52 @@
       "remote": true
     },
     {
-      "title": "Senior IT-Projectmanager (all genders): Microsoft-Großprojekte",
-      "company": "mi.ro Personalvermittlung",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/miro-personalvermittlung/senior-it-projectmanager-all-genders-microsoft-grossprojekte-berlin-259298",
-      "description": "Diese Position ist weit mehr als klassische Projektleitung. Hier übernehmen Sie die eigenständige Gesamtverantwortung für strategisch bedeutende Microsoft-Großprojekte. Mit Ihrer Erfahrung, ausgeprägten Führungskompetenz und einem souveränen Blick für das Wesentliche steuern Sie komplexe Vorhaben selbstbestimmt und konsequent zum Erfolg. Sie übernehmen, wenn andere nicht mehr weiterwissen im Microsoft Ökosystem. In dieser Rolle tragen Sie Verantwortung für strategisch wichtige Microsoft-Initiativen wie Azure-Migrationen, M365-Rollouts, Dynamics-Implementierungen oder hybride Cloud-Architekturen – genau dann, wenn sie ins Stocken geraten. Als ",
-      "posted_at": 1793725247,
+      "title": "Principal ICT Security Operations Specialist (m/f/d)",
+      "company": "Cashlink Technologies GmbH",
+      "location": "Frankfurt am Main",
+      "url": "https://www.arbeitnow.com/jobs/companies/cashlink-technologies-gmbh/principal-ict-security-operations-specialist-frankfurt-am-main-32770",
+      "description": "Deine Aufgaben Du agierst als zentrale Anlaufstelle für alle 1st-Line Themen der Informationssicherheit und bist maßgeblich für die Erhöhung der Sicherheit und Resilienz unserer IKT-Systeme verantwortlich. Zu deinen Aufgaben gehören: Du steuerst die Anomalieerkennung in Zusammenarbeit mit einem externen Security Operations Center (SOC), analysierst und bewertest Incidents, koordinierst die Cyber Incident Response und steuerst die Behebung von Schwachstellen (Patch Management). Du bist verantwortlich für das Management und die operative Steuerung unserer Sicherheits-Tools (SIEM, EDR, DLP, VPN/SASE/CASB) sowie die Steuerung der sicherheitsrelev",
+      "posted_at": 1793782850,
       "tags": [
         "Remote",
-        "Project Management"
+        "Business Operations"
       ],
       "experience": "Check listing",
       "score": 28,
-      "match_reason": "Relevant keywords: azure",
+      "match_reason": "Relevant keywords: sre",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
     {
-      "title": "Team Lead E-Commerce Growth (m/w/d)",
-      "company": "Turnover Recruitment GmbH",
+      "title": "Senior DevOps Softwareentwickler:in mit Karriereambitionen - jetzt mit uns voll durchstarten!",
+      "company": "Auralis Group",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/turnover-recruitment-gmbh/team-lead-e-commerce-growth-berlin-436613",
-      "description": "Über Turnover Recruitment GmbH Turnover Recruitment ist eine spezialisierte Recruiting-Beratung für E-Commerce-Unternehmen, die Recruiting-Probleme dort löst, wo Standardlösungen nicht mehr funktionieren. Für einen Kunden aus dem D2C-Bereich suche ich eine Führungskraft, die ein E-Com-Team führt und selbst hands-on umsetzt: kein Head-of, sondern Leader und Growth Hacker in einer Person. Job Results: Daran wirst du gemessen Testing-Pipeline: Sie ist nie leer. Pro Monat gehen zweistellig viele Tests live, auch zu Angeboten und Pricing. Erfolgsquote: Der Anteil erfolgreicher Tests steigt innerhalb von 6 Monaten messbar. AOV: Durch Up- und Cross-",
-      "posted_at": 1793743237,
+      "url": "https://www.arbeitnow.com/jobs/companies/auralis-group/senior-devops-softwareentwicklerin-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-berlin-78196",
+      "description": "Wir sind ein IT Unternehmen, aktuell 90 MA, und suchen nun weiterhin Verstärkung, um große Cloud-Projekte durchzuführen. Aufgaben Du willst: arbeiten und verdienen wie ein Selbstständiger, aber risikofrei in Deutschland festangestellt sein? Deine Arbeitszeiten selbst bestimmen? von zuhause aus arbeiten (remote)? den nächsten Schritt in Deiner Karriere gehen und lernen, wie man Teams leitet und ein Unternehmen führt? einen Arbeitgeber, der Dich leistungs- und ergebnisorientiert bezahlt (Zielgehalt: 110.000 € - 180.000 €)? Qualifikation Du: bist seit 7-10 Jahren berufstätig im Bereich Softwareentwicklung/DevOps und hast große Teile Deiner Erfah",
+      "posted_at": 1793775648,
       "tags": [
         "Remote",
-        "Management",
-        "Team Leader"
+        "Engineering"
       ],
       "experience": "Check listing",
       "score": 28,
-      "match_reason": "Relevant keywords: testing",
+      "match_reason": "Relevant keywords: devops",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Senior QA Manager - Fully Remote",
+      "company": "SOFTGAMES",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/softgames/senior-qa-manager-fully-remote-berlin-156016",
+      "description": "We’re looking for a hands-on Senior QA Manager to join our talented and passionate team. You’ll play a key role in ensuring every release meets the highest quality standards, from early concept to global launch. As the quality owner for one of our largest mobile puzzle games, you’ll drive release quality, establish scalable QA processes, push test automation forward, and work closely with developers, product managers, and external QA partners to deliver a world-class player experience. *Qualified Candidates are expected to complete an Assignment *For this position the candidate should be based in European Union Your Role: Ensure high-quality ",
+      "posted_at": 1793763097,
+      "tags": [
+        "Remote"
+      ],
+      "experience": "Check listing",
+      "score": 28,
+      "match_reason": "Relevant keywords: qa",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
