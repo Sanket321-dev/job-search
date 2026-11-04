@@ -1,28 +1,12 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-03T23:46:42.249633+00:00",
+  "updated_at": "2026-11-04T03:49:53.590783+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
     "Remotive remote API"
   ],
   "jobs": [
-    {
-      "title": "Infrastructure / Platform Engineer",
-      "company": "Neuphonic",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/neuphonic/remote-infrastructure-platform-engineer-274392",
-      "description": "Location: Remote (Australia or New Zealand) Type: Full-time, remote About Neuphonic Neuphonic is building the next generation of voice AI, making natural, real-time speech accessible across devices, languages, and applications. Our technology enables ultra-low-latency text-to-speech, voice cloning, and multilingual speech generation. We're pushing the boundaries of what's possible with speech models, from high-performance cloud inference to running AI directly on everyday devices without expensive GPUs or an internet connection. We're a small, ambitious team of researchers and engineers building technology used by developers and businesses ar",
-      "posted_at": 1793720432,
-      "tags": [
-        "Engineering"
-      ],
-      "experience": "Early career mentioned",
-      "score": 60,
-      "match_reason": "Relevant keywords: role-family match",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
     {
       "title": "Software Test Engineer",
       "company": "SwissPeak Partners GmbH",
@@ -104,23 +88,6 @@
       "experience": "Check listing",
       "score": 28,
       "match_reason": "Relevant keywords: azure",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Senior Netwerk Consultant",
-      "company": "Centric",
-      "location": "Werken op afstand",
-      "url": "https://www.arbeitnow.nl/jobs/companies/centric/remote-senior-netwerk-consultant-gouda-474098",
-      "description": "Bouw mee aan de netwerken die Nederland draaiende houden Ben jij een ervaren Network Consultant die complexe netwerkomgevingen weet om te zetten in veilige, stabiele en toekomstbestendige oplossingen? Wil je werken aan uitdagende infrastructuren voor klanten in zowel de publieke als private sector? Dan is dit jouw kans om impact te maken bij Centric. Wat jij doet Als Network Consultant binnen Cloud & Dataservices (DC & Network Services) ben je verantwoordelijk voor het ontwerpen, implementeren en beheren van complexe netwerkinfrastructuren. Je werkt met moderne technologieën zoals routers, switches, firewalls, WAF's en load balancers binnen z",
-      "posted_at": 1793709103,
-      "tags": [
-        "Consultancy",
-        "Remote"
-      ],
-      "experience": "Check listing",
-      "score": 28,
-      "match_reason": "Relevant keywords: network",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
