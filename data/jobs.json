@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-04T11:43:16.411801+00:00",
+  "updated_at": "2026-11-04T19:01:56.700454+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -20,6 +20,40 @@
       "experience": "Check listing",
       "score": 63,
       "match_reason": "Relevant keywords: azure, support, devops",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Python / Django Entwickler (m/w/d) – Fullstack, REST, CI/CD",
+      "company": "Rockstardevelopers GmbH",
+      "location": "Stuttgart",
+      "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/python-django-entwickler-fullstack-rest-ci-cd-stuttgart-166406",
+      "description": "Wer wir sind Rockstardevelopers, gegründet 2015 in Mannheim, weitere Büros in Stuttgart und München. Wir sind ein Software- und IT-Dienstleister mit Erfahrung aus hunderten von Projekten für Enterprise- und Mittelstands-Kunden. Kurze Wege, ehrliches Feedback, keine politischen Spielchen. Keine Hierarchie-Ebenen zwischen dir und den Leuten, die Entscheidungen treffen. Deine Aufgaben Du arbeitest in einem agilen Scrum-Team bei einem großen Konzern. Das Team entwickelt und wartet eine Webanwendung auf Basis von Python und Django mit PostgreSQL, betrieben in der AWS-Cloud. Neue Funktionen in Python und Django umsetzen und bestehende weiterentwick",
+      "posted_at": 1793806258,
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "experience": "Check listing",
+      "score": 63,
+      "match_reason": "Relevant keywords: aws, ci/cd, sql",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
+      "company": "virtual7 GmbH",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-336464",
+      "description": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, die mit ihren Ideen, ihrem Können und Engagement etwas bewegen wollen. Fühlst du dich angesprochen? Dann gestalte Deine Welt zum Besseren und werde Teil unseres Customer Clusters Justice. DEINE MISSION Als Kubernetes Administrator/Private Cloud Engineer (m/w/d) stellst du sicher, dass unsere Container-Infrastruktur reibungslos läuft und zukunftsfähig bleibt. Deine Mission ist es, eine ho",
+      "posted_at": 1793795489,
+      "tags": [
+        "Customer Cluster Justice",
+        "Remote"
+      ],
+      "experience": "Check listing",
+      "score": 53,
+      "match_reason": "Relevant keywords: git",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
@@ -57,52 +91,35 @@
       "remote": true
     },
     {
-      "title": "Principal ICT Security Operations Specialist (m/f/d)",
-      "company": "Cashlink Technologies GmbH",
-      "location": "Frankfurt am Main",
-      "url": "https://www.arbeitnow.com/jobs/companies/cashlink-technologies-gmbh/principal-ict-security-operations-specialist-frankfurt-am-main-32770",
-      "description": "Deine Aufgaben Du agierst als zentrale Anlaufstelle für alle 1st-Line Themen der Informationssicherheit und bist maßgeblich für die Erhöhung der Sicherheit und Resilienz unserer IKT-Systeme verantwortlich. Zu deinen Aufgaben gehören: Du steuerst die Anomalieerkennung in Zusammenarbeit mit einem externen Security Operations Center (SOC), analysierst und bewertest Incidents, koordinierst die Cyber Incident Response und steuerst die Behebung von Schwachstellen (Patch Management). Du bist verantwortlich für das Management und die operative Steuerung unserer Sicherheits-Tools (SIEM, EDR, DLP, VPN/SASE/CASB) sowie die Steuerung der sicherheitsrelev",
-      "posted_at": 1793782850,
+      "title": "Senior Strategic Sales Manager (m/w/d)",
+      "company": "tecRacer Germany GmbH",
+      "location": "Hanover",
+      "url": "https://www.arbeitnow.com/jobs/companies/tecracer-germany-gmbh/senior-strategic-sales-manager-hanover-67727",
+      "description": "Jobbeschreibung Als Senior Strategic Sales Manager (m/w/d) gewinnst du neue strategische Kunden und entwickelst ausgewählte Bestandskunden im DACH-Raum gezielt weiter. Du verantwortest komplexe Verkaufsprozesse vom ersten Kontakt bis zum Abschluss und positionierst unser gesamtes Portfolio – von Cloud Consulting und Engineering über Managed Services und Managed Security bis hin zu AWS Reselling. Dein Ziel sind langfristige Kundenbeziehungen, strategisches Wachstum und der Aufbau wiederkehrender Umsätze . Opportunities in weiteren europäischen Märkten kannst du bei Bedarf ebenfalls entwickeln, der klare Schwerpunkt liegt jedoch auf DACH. Dein ",
+      "posted_at": 1793804454,
       "tags": [
         "Remote",
-        "Business Operations"
+        "IT"
       ],
       "experience": "Check listing",
       "score": 28,
-      "match_reason": "Relevant keywords: sre",
+      "match_reason": "Relevant keywords: aws",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
     {
-      "title": "Senior DevOps Softwareentwickler:in mit Karriereambitionen - jetzt mit uns voll durchstarten!",
-      "company": "Auralis Group",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/auralis-group/senior-devops-softwareentwicklerin-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-berlin-78196",
-      "description": "Wir sind ein IT Unternehmen, aktuell 90 MA, und suchen nun weiterhin Verstärkung, um große Cloud-Projekte durchzuführen. Aufgaben Du willst: arbeiten und verdienen wie ein Selbstständiger, aber risikofrei in Deutschland festangestellt sein? Deine Arbeitszeiten selbst bestimmen? von zuhause aus arbeiten (remote)? den nächsten Schritt in Deiner Karriere gehen und lernen, wie man Teams leitet und ein Unternehmen führt? einen Arbeitgeber, der Dich leistungs- und ergebnisorientiert bezahlt (Zielgehalt: 110.000 € - 180.000 €)? Qualifikation Du: bist seit 7-10 Jahren berufstätig im Bereich Softwareentwicklung/DevOps und hast große Teile Deiner Erfah",
-      "posted_at": 1793775648,
+      "title": "Senior PreSales Engineer, Civil Government and Commercial",
+      "company": "planetlabs",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/planetlabs/remote-senior-presales-engineer-civil-government-and-commercial-291818",
+      "description": "<div class=\"content-intro\"><p><strong>Welcome to Planet. We believe in using space to help life on Earth.</strong></p> <p>Planet designs, builds, and operates the largest constellation of imaging satellites in history. This constellation delivers an unprecedented dataset of empirical information via a revolutionary cloud-based platform to authoritative figures in commercial, environmental, and humanitarian sectors. We are both a space company and data company all rolled into one.</p> <p>Customers and users across the globe use Planet's data to develop new technologies, drive revenue, power research, and solve our world’s toughest obstacles.</",
+      "posted_at": 1793796925,
       "tags": [
-        "Remote",
-        "Engineering"
+        "Pre-Sales and Services"
       ],
       "experience": "Check listing",
-      "score": 28,
-      "match_reason": "Relevant keywords: devops",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Senior QA Manager - Fully Remote",
-      "company": "SOFTGAMES",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/softgames/senior-qa-manager-fully-remote-berlin-156016",
-      "description": "We’re looking for a hands-on Senior QA Manager to join our talented and passionate team. You’ll play a key role in ensuring every release meets the highest quality standards, from early concept to global launch. As the quality owner for one of our largest mobile puzzle games, you’ll drive release quality, establish scalable QA processes, push test automation forward, and work closely with developers, product managers, and external QA partners to deliver a world-class player experience. *Qualified Candidates are expected to complete an Assignment *For this position the candidate should be based in European Union Your Role: Ensure high-quality ",
-      "posted_at": 1793763097,
-      "tags": [
-        "Remote"
-      ],
-      "experience": "Check listing",
-      "score": 28,
-      "match_reason": "Relevant keywords: qa",
+      "score": 23,
+      "match_reason": "Relevant keywords: role-family match",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
