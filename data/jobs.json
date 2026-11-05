@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-05T07:31:07.880445+00:00",
+  "updated_at": "2026-11-05T15:55:13.433690+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -24,36 +24,21 @@
       "remote": true
     },
     {
-      "title": "Activation and Production Testing Specialist",
-      "company": "Hopae",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/hopae/remote-activation-and-production-testing-specialist-171647",
-      "description": "🌍 About Hopae At Hopae , we're building the world's most trusted digital identity platform — private, secure, and built for real life. We believe identity should be in your control — not locked behind outdated systems or centralized gatekeepers. Our product, Hopae Connect, lets businesses verify real people across borders through a single API — no need to build country-by-country integrations themselves. Our technology powers instant, privacy-first verification across fintech, credentials, supply chain, and gaming — for IDV providers, e-signature platforms, and enterprises who need identity to just work, everywhere. Backed by top global inves",
-      "posted_at": 1793839212,
+      "title": "Cybersecurity Engineer",
+      "company": "Haste",
+      "location": "Korntal-Münchingen",
+      "url": "https://www.arbeitnow.com/jobs/companies/haste/cybersecurity-engineer-korntal-munchingen-377140",
+      "description": "As a Cybersecurity Engineer, you bring deep expertise in incident response, detection engineering and forensics across Windows/Linux/cloud environments/network. You hold certifications like Certified Incident Handler, Certified Forensic Analyst, and Certified Cloud Forensics Responder and you are skilled in software development. You excel at building production-grade detection systems that catch sophisticated threats across hybrid infrastructure and turn forensic insights into real-time defenses. You will be one of Haste's first detection engineers pioneering lightning-fast threat analysis for HPC clusters, AI and quantum workloads. Find Jobs",
+      "posted_at": 1793887252,
       "tags": [
-        "Product"
+        "Remote",
+        "Software Development"
       ],
       "experience": "Check listing",
       "score": 58,
-      "match_reason": "Relevant keywords: git, testing",
+      "match_reason": "Relevant keywords: linux, network",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
-    },
-    {
-      "title": "Account Manager / Key Account Manager (m/w/d)",
-      "company": "Cosuno",
-      "location": "Berlin/Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/cosuno/account-manager-key-account-manager-berlin-49830",
-      "description": "Die Baubranche ist eine 14-Billionen-Euro-Industrie, die noch immer auf E-Mails, Excel-Tabellen und eingescannten PDFs läuft. Cosuno ersetzt das durch KI. Generalunternehmer schreiben ihre Projekte auf unserer Plattform an mehr als 250.000 Nachunternehmer aus, und unsere agentische KI findet die passenden Firmen, erkennt Auffälligkeiten in Angeboten und vergleicht jeden Preis mit 6,5 Millionen Datenpunkten aus über 136 Milliarden Euro verarbeitetem Angebotsvolumen. Jede Ausschreibung macht die KI klüger. Die Ergebnisse sind messbar: Generalunternehmer senken ihre Kosten um rund 6 %, Nachunternehmer gewinnen 22 % mehr Aufträge, und jeder neue ",
-      "posted_at": 1793839212,
-      "tags": [
-        "Customer Success I General Contractor"
-      ],
-      "experience": "Check listing",
-      "score": 48,
-      "match_reason": "Relevant keywords: role-family match",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": false
     },
     {
       "title": "Full-Stack Developer",
