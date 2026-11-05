@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-04T19:01:56.700454+00:00",
+  "updated_at": "2026-11-05T00:37:04.221343+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -26,10 +26,10 @@
     {
       "title": "Python / Django Entwickler (m/w/d) – Fullstack, REST, CI/CD",
       "company": "Rockstardevelopers GmbH",
-      "location": "Stuttgart",
+      "location": "Berlin",
       "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/python-django-entwickler-fullstack-rest-ci-cd-stuttgart-166406",
       "description": "Wer wir sind Rockstardevelopers, gegründet 2015 in Mannheim, weitere Büros in Stuttgart und München. Wir sind ein Software- und IT-Dienstleister mit Erfahrung aus hunderten von Projekten für Enterprise- und Mittelstands-Kunden. Kurze Wege, ehrliches Feedback, keine politischen Spielchen. Keine Hierarchie-Ebenen zwischen dir und den Leuten, die Entscheidungen treffen. Deine Aufgaben Du arbeitest in einem agilen Scrum-Team bei einem großen Konzern. Das Team entwickelt und wartet eine Webanwendung auf Basis von Python und Django mit PostgreSQL, betrieben in der AWS-Cloud. Neue Funktionen in Python und Django umsetzen und bestehende weiterentwick",
-      "posted_at": 1793806258,
+      "posted_at": 1793821666,
       "tags": [
         "Remote",
         "Software Development"
@@ -37,23 +37,6 @@
       "experience": "Check listing",
       "score": 63,
       "match_reason": "Relevant keywords: aws, ci/cd, sql",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
-      "company": "virtual7 GmbH",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-336464",
-      "description": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, die mit ihren Ideen, ihrem Können und Engagement etwas bewegen wollen. Fühlst du dich angesprochen? Dann gestalte Deine Welt zum Besseren und werde Teil unseres Customer Clusters Justice. DEINE MISSION Als Kubernetes Administrator/Private Cloud Engineer (m/w/d) stellst du sicher, dass unsere Container-Infrastruktur reibungslos läuft und zukunftsfähig bleibt. Deine Mission ist es, eine ho",
-      "posted_at": 1793795489,
-      "tags": [
-        "Customer Cluster Justice",
-        "Remote"
-      ],
-      "experience": "Check listing",
-      "score": 53,
-      "match_reason": "Relevant keywords: git",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
@@ -104,22 +87,6 @@
       "experience": "Check listing",
       "score": 28,
       "match_reason": "Relevant keywords: aws",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Senior PreSales Engineer, Civil Government and Commercial",
-      "company": "planetlabs",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/planetlabs/remote-senior-presales-engineer-civil-government-and-commercial-291818",
-      "description": "<div class=\"content-intro\"><p><strong>Welcome to Planet. We believe in using space to help life on Earth.</strong></p> <p>Planet designs, builds, and operates the largest constellation of imaging satellites in history. This constellation delivers an unprecedented dataset of empirical information via a revolutionary cloud-based platform to authoritative figures in commercial, environmental, and humanitarian sectors. We are both a space company and data company all rolled into one.</p> <p>Customers and users across the globe use Planet's data to develop new technologies, drive revenue, power research, and solve our world’s toughest obstacles.</",
-      "posted_at": 1793796925,
-      "tags": [
-        "Pre-Sales and Services"
-      ],
-      "experience": "Check listing",
-      "score": 23,
-      "match_reason": "Relevant keywords: role-family match",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
