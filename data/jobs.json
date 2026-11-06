@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-06T08:43:16.982584+00:00",
+  "updated_at": "2026-11-06T16:28:11.109401+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -8,35 +8,37 @@
   ],
   "jobs": [
     {
-      "title": "Senior Consultant - Digital Commerce (Retail & CPG) | DACH",
-      "company": "Avomind",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/avomind/remote-senior-consultant-digital-commerce-retail-cpg-dach-germany-249922",
-      "description": "About Our Client Our client is a global IT consulting and digital engineering company specializing in software development, cloud transformation, data and AI, and digital experience solutions. With an international presence and extensive engineering capabilities, the company supports enterprise clients across multiple industries in designing, developing, and implementing technology-driven business solutions. Our client is expanding its Retail & Consumer Packaged Goods (CPG) practice in the DACH region and is looking for a consultant with deep e-commerce knowledge, technical understanding, and client-facing advisory experience. The Role As a S",
-      "posted_at": 1793924419,
+      "title": "Quality Assurance Manager as Freelancer (.NET C#) (all genders)",
+      "company": "Vexcash AG",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/vexcash-ag/quality-assurance-manager-as-freelancer-net-c-all-genders-berlin-302572",
+      "description": "About Vexcash AG VEXCASH AG is Germany’s leading online provider of short-term loans. We offer our customers a quick and straightforward solution to tide them over until their next payday. More than 800,000 customers already trust our service. Thanks to our innovative approach, they can secure financial liquidity without having to commit to a long-term arrangement. Job Overview We are looking for an experienced QA Automation Tester to join our IT / Software Development team. The candidate must have strong hands-on experience with C# and .NET and be capable of developing, executing and maintaining automated UI and API testing solutions using M",
+      "posted_at": 1793975478,
       "tags": [
-        "Remote"
+        "Remote",
+        "Quality Assurance",
+        "Inspection"
       ],
-      "experience": "Early career mentioned",
-      "score": 45,
-      "match_reason": "Relevant keywords: git, support",
+      "experience": "Check listing",
+      "score": 58,
+      "match_reason": "Relevant keywords: qa, testing",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
     {
-      "title": "Senior Site Reliability Engineer (SRE) m/f/x",
-      "company": "Makersite GmbH",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-site-reliability-engineer-sre-berlin-110950",
-      "description": "Location: Germany/Berlin/Stuttgart (Remote) Who You’ll Work For : At Makersite, we're pioneering the future of sustainable product development and digital collaboration. As a leading platform for product lifecycle management (PLM), we empower companies to make smarter, more sustainable decisions across their entire supply chain. Our cutting-edge software enables teams to design, prototype, and manufacture with transparency, efficiency, and responsibility—reducing environmental impact while optimizing performance. We're a fast-growing, innovative company that thrives on creativity, collaboration, and continuous learning. If you're passionate a",
-      "posted_at": 1793935906,
+      "title": "Renewal Manager SaaS (m/w/d)",
+      "company": "Noerr Solutions | Digital Recruitment",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/noerr-solutions-digital-recruitment/renewal-manager-saas-berlin-337298",
+      "description": "Renewal Manager SaaS (m/w/d) / Customer Contract Manager SaaS (m/w/d) gesucht! Unser Kunde ist ein etabliertes Softwareunternehmen , das innovative Lösungen für Technische Dokumentation, After-Sales und Service entwickelt. Mit einem breiten Portfolio aus modernen Cloud- und bewährten On-Premises-Lösungen begleitet das Unternehmen zahlreiche Kunden bei der industriellen Digitalisierung. Im Zuge der strategischen Weiterentwicklung und der zunehmenden Umstellung auf SaaS- und Subscription-Modelle wird das Renewal Management gezielt ausgebaut. Zur Verstärkung des Bereichs Sales Development suchen wir daher ab sofort einen Renewal Manager SaaS (m/",
+      "posted_at": 1793966461,
       "tags": [
-        "Technology",
-        "Remote"
+        "Remote",
+        "Customer Service"
       ],
       "experience": "Check listing",
-      "score": 33,
-      "match_reason": "Relevant keywords: git, sre",
+      "score": 53,
+      "match_reason": "Relevant keywords: git",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
@@ -53,23 +55,6 @@
       "experience": "Check listing",
       "score": 28,
       "match_reason": "Relevant keywords: aws",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Senior Penetration Tester API, Web & Cloud – Contract (all genders)",
-      "company": "Distribusion Technologies",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-senior-penetration-tester-api-web-cloud-contract-all-genders-berlin-317957",
-      "description": "Distribusion is the world’s leading ground transportation marketplace and gives travellers seamless access to ground transportation online, from search to ticket purchase. We have built a cutting-edge B2B technology platform that connects bus, rail and ferry operators in 70+ countries with the biggest online retailers including Google Maps and Booking.com. We are shaping the future of travel and building the largest global network of transport providers and retailers. We are one of the fastest growing startups in travel, backed by leading venture capital investors including TQ Ventures, Lightrock, Creandum, and Northzone, and are headquartere",
-      "posted_at": 1793946679,
-      "tags": [
-        "Technology",
-        "Remote"
-      ],
-      "experience": "Check listing",
-      "score": 28,
-      "match_reason": "Relevant keywords: network",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
