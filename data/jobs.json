@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-06T01:53:58.889752+00:00",
+  "updated_at": "2026-11-06T08:43:16.982584+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -24,6 +24,23 @@
       "remote": true
     },
     {
+      "title": "Senior Site Reliability Engineer (SRE) m/f/x",
+      "company": "Makersite GmbH",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-site-reliability-engineer-sre-berlin-110950",
+      "description": "Location: Germany/Berlin/Stuttgart (Remote) Who You’ll Work For : At Makersite, we're pioneering the future of sustainable product development and digital collaboration. As a leading platform for product lifecycle management (PLM), we empower companies to make smarter, more sustainable decisions across their entire supply chain. Our cutting-edge software enables teams to design, prototype, and manufacture with transparency, efficiency, and responsibility—reducing environmental impact while optimizing performance. We're a fast-growing, innovative company that thrives on creativity, collaboration, and continuous learning. If you're passionate a",
+      "posted_at": 1793935906,
+      "tags": [
+        "Technology",
+        "Remote"
+      ],
+      "experience": "Check listing",
+      "score": 33,
+      "match_reason": "Relevant keywords: git, sre",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
       "title": "Full-Stack Developer",
       "company": "Fluence International, Inc.",
       "location": "Worldwide",
@@ -36,6 +53,23 @@
       "experience": "Check listing",
       "score": 28,
       "match_reason": "Relevant keywords: aws",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Senior Penetration Tester API, Web & Cloud – Contract (all genders)",
+      "company": "Distribusion Technologies",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-senior-penetration-tester-api-web-cloud-contract-all-genders-berlin-317957",
+      "description": "Distribusion is the world’s leading ground transportation marketplace and gives travellers seamless access to ground transportation online, from search to ticket purchase. We have built a cutting-edge B2B technology platform that connects bus, rail and ferry operators in 70+ countries with the biggest online retailers including Google Maps and Booking.com. We are shaping the future of travel and building the largest global network of transport providers and retailers. We are one of the fastest growing startups in travel, backed by leading venture capital investors including TQ Ventures, Lightrock, Creandum, and Northzone, and are headquartere",
+      "posted_at": 1793946679,
+      "tags": [
+        "Technology",
+        "Remote"
+      ],
+      "experience": "Check listing",
+      "score": 28,
+      "match_reason": "Relevant keywords: network",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
