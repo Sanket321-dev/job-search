@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-06T16:28:11.109401+00:00",
+  "updated_at": "2026-11-06T21:51:42.123349+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -8,37 +8,36 @@
   ],
   "jobs": [
     {
-      "title": "Quality Assurance Manager as Freelancer (.NET C#) (all genders)",
-      "company": "Vexcash AG",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/vexcash-ag/quality-assurance-manager-as-freelancer-net-c-all-genders-berlin-302572",
-      "description": "About Vexcash AG VEXCASH AG is Germany’s leading online provider of short-term loans. We offer our customers a quick and straightforward solution to tide them over until their next payday. More than 800,000 customers already trust our service. Thanks to our innovative approach, they can secure financial liquidity without having to commit to a long-term arrangement. Job Overview We are looking for an experienced QA Automation Tester to join our IT / Software Development team. The candidate must have strong hands-on experience with C# and .NET and be capable of developing, executing and maintaining automated UI and API testing solutions using M",
-      "posted_at": 1793975478,
+      "title": "Sales Director - UK (m/f/t)",
+      "company": "Zeotap",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/zeotap/remote-sales-director-uk-london-90169",
+      "description": "About Zeotap Founded in Berlin in 2014, Zeotap started with a mission to provide high-quality data to marketers. As we evolved, we recognized a greater challenge: helping brands create personalized, multi-channel experiences in a world that demands strict data privacy and compliance. This drive led to the launch of Zeotap’s Customer Data Platform (CDP) in 2020—a powerful, AI-native SaaS suite built on Google Cloud that empowers brands to unlock and activate customer data securely. Today, Zeotap is trusted by some of the world’s most innovative brands, including Virgin Media O2, Amazon, and Audi, to create engaging, data-driven customer experi",
+      "posted_at": 1793989880,
       "tags": [
-        "Remote",
-        "Quality Assurance",
-        "Inspection"
+        "Sales",
+        "Remote"
       ],
       "experience": "Check listing",
-      "score": 58,
-      "match_reason": "Relevant keywords: qa, testing",
+      "score": 48,
+      "match_reason": "Relevant keywords: role-family match",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
     {
-      "title": "Renewal Manager SaaS (m/w/d)",
-      "company": "Noerr Solutions | Digital Recruitment",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/noerr-solutions-digital-recruitment/renewal-manager-saas-berlin-337298",
-      "description": "Renewal Manager SaaS (m/w/d) / Customer Contract Manager SaaS (m/w/d) gesucht! Unser Kunde ist ein etabliertes Softwareunternehmen , das innovative Lösungen für Technische Dokumentation, After-Sales und Service entwickelt. Mit einem breiten Portfolio aus modernen Cloud- und bewährten On-Premises-Lösungen begleitet das Unternehmen zahlreiche Kunden bei der industriellen Digitalisierung. Im Zuge der strategischen Weiterentwicklung und der zunehmenden Umstellung auf SaaS- und Subscription-Modelle wird das Renewal Management gezielt ausgebaut. Zur Verstärkung des Bereichs Sales Development suchen wir daher ab sofort einen Renewal Manager SaaS (m/",
-      "posted_at": 1793966461,
+      "title": "Collaborateur.trice d'analyse SIB – Spécialisation Alimentation et Santé",
+      "company": "gaea21",
+      "location": "Geneva",
+      "url": "https://www.arbeitnow.ch/jobs/companies/gaea21/collaborateurtrice-danalyse-sib-specialisation-alimentation-et-sante-geneva-435089",
+      "description": "Description des tâches à faire GCBOAL02 Business Management & Développement Bac+5 0-1 an Télétravail Votre mission : Audit et Évaluation de terrain : Appliquer et tester sur le terrain les questionnaires d'enquête initiale pour déterminer l'empreinte chromatique des restaurants partenaires (sur les axes clés : santé, diététique, approvisionnement, gestion des déchets, etc.). Analyse et Amélioration continue : Analyser les premiers résultats des tests pratiques en con ditions réelles, identifier les limites des outils actuels et formuler des corrections/ajustements pour valider définitivement les questionnaires. Recherche et Modélisation : Eff",
+      "posted_at": 1793986257,
       "tags": [
         "Remote",
-        "Customer Service"
+        "Business Analyst"
       ],
       "experience": "Check listing",
-      "score": 53,
-      "match_reason": "Relevant keywords: git",
+      "score": 40,
+      "match_reason": "Relevant keywords: role-family match",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
