@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-07T14:39:12.137981+00:00",
+  "updated_at": "2026-11-07T19:10:56.237006+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -38,22 +38,6 @@
       "experience": "Check listing",
       "score": 40,
       "match_reason": "Relevant keywords: role-family match",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Middle/Senior/Staff Site Reliability Engineer (K8s)",
-      "company": "Npv",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/npv/remote-middle-senior-staff-site-reliability-engineer-k8s-1859",
-      "description": "tl;dr: Middle/Senior/Staff SRE; post-acquisition profitable US health/adtech; 10M+ rps k8s production infra; platform engineering; remote, ~up to 210k USD base, we can talk higher figures and EU/UK/US employment PulsePoint is a leading player in the US healthcare advertising market, helping brands and agencies connect digital signals with real-world health data to understand better and reach their audiences. We're a profitable, post-acquisition business with 300+ employees and a growing engineering organization. We're looking for Site Reliability Engineers to help us further improve and grow our Kubernetes platform, which powers our productio",
-      "posted_at": 1794022827,
-      "tags": [
-        "PulsePoint"
-      ],
-      "experience": "Check listing",
-      "score": 33,
-      "match_reason": "Relevant keywords: git, sre",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
