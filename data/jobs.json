@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-08T10:52:17.236511+00:00",
+  "updated_at": "2026-11-08T16:50:18.387281+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -8,54 +8,38 @@
   ],
   "jobs": [
     {
-      "title": "Software Engineer – AI-Assisted Development (m/w/d)",
-      "company": "DocCheck AG",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.ch/jobs/companies/doccheck-ag/remote-software-engineer-ai-assisted-development-basel-371528",
-      "description": "Hol' dir den Kick als DocCheck Software Engineer – AI-Assisted Development (m/w/d) Seit Jahrzehnten ist DocCheck im DACH-Raum und darüber hinaus eine bekannte Healthcare-Größe. Nun gehen wir technologisch den nächsten Schritt. DocCheck Schweiz realisiert das Entwicklungssetup der Zukunft, das Agentic Development konsequent nutzt. Als Developer legst du dafür einen der ersten technischen Grundsteine und entwickelst Lösungen für die vielfältigen Bereiche der gesamten DocCheck Gruppe . KI gehört bei uns längst zum Arbeitsalltag – jetzt gestaltest du mit, wie daraus noch schneller funktionierende Software wird. Egal ob in Basel vor Ort oder remot",
-      "posted_at": 1794000683,
+      "title": "Software Test Engineer",
+      "company": "SwissPeak Partners GmbH",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-255669",
+      "description": "Wir rekrutieren einen Software Test Engineer (m/w/d) für ein neu formiertes Team rund um ein Dynamics 365 Projekt. Das Testing wird von Grund auf neu aufgebaut, du bist also massgeblich an der Definition des Vorgehens beteiligt. Du testest im Sprint mit und verantwortest gleichzeitig die Teststrategie, das Testkonzept und die Testplanung. Du koordinierst die UAT mit dem Fachbereich und bringst Qualitätsstandards in ein Team, das seine Testing-Reife gerade aufbaut. Der Fokus liegt überwiegend auf manuellem Testing, mit der Möglichkeit, später in die Automatisierung hineinzuwachsen. Must-have Anforderungen Mehrjährige Erfahrung im Software-Test",
+      "posted_at": 1794141082,
       "tags": [
-        "IT",
+        "Software Engineering",
         "Remote"
       ],
       "experience": "Check listing",
-      "score": 48,
-      "match_reason": "Relevant keywords: role-family match",
+      "score": 53,
+      "match_reason": "Relevant keywords: testing",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
     {
-      "title": "Collaborateur.trice d'analyse SIB – Spécialisation Alimentation et Santé",
-      "company": "gaea21",
-      "location": "Geneva",
-      "url": "https://www.arbeitnow.ch/jobs/companies/gaea21/collaborateurtrice-danalyse-sib-specialisation-alimentation-et-sante-geneva-435089",
-      "description": "Description des tâches à faire GCBOAL02 Business Management & Développement Bac+5 0-1 an Télétravail Votre mission : Audit et Évaluation de terrain : Appliquer et tester sur le terrain les questionnaires d'enquête initiale pour déterminer l'empreinte chromatique des restaurants partenaires (sur les axes clés : santé, diététique, approvisionnement, gestion des déchets, etc.). Analyse et Amélioration continue : Analyser les premiers résultats des tests pratiques en con ditions réelles, identifier les limites des outils actuels et formuler des corrections/ajustements pour valider définitivement les questionnaires. Recherche et Modélisation : Eff",
-      "posted_at": 1793986257,
+      "title": "Senior Account Executive",
+      "company": "Bluecatnetworks",
+      "location": "UK - Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bluecatnetworks/remote-senior-account-executive-55098",
+      "description": "BlueCat and LiveAction offer complementary solutions to enhance network performance and security. LiveAction’s Network Intelligence platform transforms complex data into actionable insights, providing organizations with a comprehensive view of their network, from network and application performance to security. This enables enterprise teams to rapidly resolve network issues at scale, accelerate threat response, increase employee productivity, and reduce business risk. Meanwhile, BlueCat provides a suite of solutions that help network, security, applications, and cloud and DevOps teams optimize the IP environment, driving business outcomes for",
+      "posted_at": 1794139637,
       "tags": [
-        "Remote",
-        "Business Analyst"
+        "AE",
+        "Hybrid"
       ],
       "experience": "Check listing",
-      "score": 40,
-      "match_reason": "Relevant keywords: role-family match",
+      "score": 33,
+      "match_reason": "Relevant keywords: network, devops",
       "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Full-Stack Engineer (Backend Leaning) - Platform Engineering",
-      "company": "ElevenLabs",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-backend-leaning-platform-engineering-280315",
-      "description": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always. We have expanded from voice into three main platforms: ElevenAgents enables businesses to deliver seamless and intelligent ",
-      "posted_at": 1794098411,
-      "tags": [
-        "Engineering & Product"
-      ],
-      "experience": "Check listing",
-      "score": 40,
-      "match_reason": "Relevant keywords: role-family match",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
+      "remote": false
     },
     {
       "title": "Full-Stack Developer",
