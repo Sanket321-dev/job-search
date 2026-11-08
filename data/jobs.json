@@ -1,12 +1,29 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-08T16:50:18.387281+00:00",
+  "updated_at": "2026-11-08T20:52:03.263516+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
     "Remotive remote API"
   ],
   "jobs": [
+    {
+      "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
+      "company": "virtual7 GmbH",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-424126",
+      "description": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, die mit ihren Ideen, ihrem Können und Engagement etwas bewegen wollen. Fühlst du dich angesprochen? Dann gestalte Deine Welt zum Besseren und werde Teil unseres Customer Clusters Justice. DEINE MISSION Als Kubernetes Administrator/Private Cloud Engineer (m/w/d) stellst du sicher, dass unsere Container-Infrastruktur reibungslos läuft und zukunftsfähig bleibt. Deine Mission ist es, eine ho",
+      "posted_at": 1794162686,
+      "tags": [
+        "Customer Cluster Justice",
+        "Remote"
+      ],
+      "experience": "Check listing",
+      "score": 53,
+      "match_reason": "Relevant keywords: git",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
     {
       "title": "Software Test Engineer",
       "company": "SwissPeak Partners GmbH",
@@ -82,23 +99,6 @@
       "posted_at": "2026-10-27T12:56:13",
       "tags": [
         "Software Development"
-      ],
-      "experience": "Check listing",
-      "score": 15,
-      "match_reason": "Relevant keywords: role-family match",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Senior Forward Deployed Platform Engineer (m/w/d)",
-      "company": "Recare Deutschland GmbH",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-senior-forward-deployed-platform-engineer-berlin-228990",
-      "description": "As one of the leading German HealthTech companies, we are reshaping discharge management – technology-driven, patient-centered, and free from bureaucracy. In addition to our market-leading SaaS platform, we develop AI solutions that radically simplify processes in hospitals and for aftercare providers, relieve healthcare professionals, and refocus attention on patients. Today, we already connect two-thirds of all German hospitals with over 650 rehabilitation clinics and 25,000 nursing and homecare providers. With currently around 100 employees, we continue to grow – and we are looking for people with character who want to help us improve the ",
-      "posted_at": 1794108668,
-      "tags": [
-        "Engineering",
-        "Remote"
       ],
       "experience": "Check listing",
       "score": 15,
