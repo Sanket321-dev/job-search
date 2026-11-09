@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-09T07:24:26.509587+00:00",
+  "updated_at": "2026-11-09T17:57:12.954220+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -25,19 +25,19 @@
       "remote": true
     },
     {
-      "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
-      "company": "virtual7 GmbH",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-424126",
-      "description": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, die mit ihren Ideen, ihrem Können und Engagement etwas bewegen wollen. Fühlst du dich angesprochen? Dann gestalte Deine Welt zum Besseren und werde Teil unseres Customer Clusters Justice. DEINE MISSION Als Kubernetes Administrator/Private Cloud Engineer (m/w/d) stellst du sicher, dass unsere Container-Infrastruktur reibungslos läuft und zukunftsfähig bleibt. Deine Mission ist es, eine ho",
-      "posted_at": 1794162686,
+      "title": "Java Fullstack Software Engineer (Spring Boot / Angular)",
+      "company": "Coopers Group AG",
+      "location": "Bern",
+      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/java-fullstack-software-engineer-spring-boot-angular-bern-241500",
+      "description": "................ Für unseren Kunden aus der Logistikbranche in Bern , suchen wir eine:n erfahrene:n, motivierte:n und aufgeschlossene:n Java Fullstack Software Engineer (Spring Boot / Angular). In diesem Projekt arbeitest du an der Entwicklung einer modernen, skalierbaren Softwarelösung zur datenbasierten Routenplanung und Optimierung komplexer logistischer Prozesse. Gemeinsam mit einem interdisziplinären Scrum DevOps Team gestaltest du eine neue Systemlandschaft auf Basis einer Microservice-Architektur und setzt moderne Technologien sowie Machine Learning ein, um effiziente und zuverlässige Planungslösungen zu ermöglichen. Deine Aufgaben: En",
+      "posted_at": 1794222063,
       "tags": [
-        "Customer Cluster Justice",
-        "Remote"
+        "Remote",
+        "Software Development"
       ],
       "experience": "Check listing",
       "score": 53,
-      "match_reason": "Relevant keywords: git",
+      "match_reason": "Relevant keywords: devops",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
@@ -59,21 +59,39 @@
       "remote": true
     },
     {
-      "title": "Senior Account Executive",
-      "company": "Bluecatnetworks",
-      "location": "UK - Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/bluecatnetworks/remote-senior-account-executive-55098",
-      "description": "BlueCat and LiveAction offer complementary solutions to enhance network performance and security. LiveAction’s Network Intelligence platform transforms complex data into actionable insights, providing organizations with a comprehensive view of their network, from network and application performance to security. This enables enterprise teams to rapidly resolve network issues at scale, accelerate threat response, increase employee productivity, and reduce business risk. Meanwhile, BlueCat provides a suite of solutions that help network, security, applications, and cloud and DevOps teams optimize the IP environment, driving business outcomes for",
-      "posted_at": 1794139637,
+      "title": "MD-Expert:in (m/w/d) – Prüfmanagement",
+      "company": "Valova",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/valova/md-expertin-prufmanagement-berlin-310178",
+      "description": "Über Valova Wir entwickeln KI-Software für Krankenhäuser , die administrative Prozesse in Dokumentation, Kodierung und Abrechnung automatisiert. Damit entlasten wir Klinikteams, sichern Erlöse und schaffen mehr Zeit für Patient. Unser ambitioniertes Team aus Medizin, Technologie und Business arbeitet daran, die Krankenhausverwaltung nachhaltig zu verändern. Warum diese Rolle zählt In der MD-Prüfung werden Erlöse gesichert oder verloren. Jede verpasste Frist, jede fehlende Unterlage und jede schwache Begründung kostet Kliniken Geld, das sie längst erwirtschaftet haben, und ab 2027 steigen die Prüfquoten deutlich. Valova ist gebaut, um das zu ä",
+      "posted_at": 1794232854,
       "tags": [
-        "AE",
-        "Hybrid"
+        "Remote",
+        "Quality Assurance",
+        "Inspection"
       ],
       "experience": "Check listing",
-      "score": 33,
-      "match_reason": "Relevant keywords: network, devops",
+      "score": 48,
+      "match_reason": "Relevant keywords: role-family match",
       "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": false
+      "remote": true
+    },
+    {
+      "title": "Senior Cloud Engineer - Azure",
+      "company": "Coopers Group AG",
+      "location": "Basel",
+      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/senior-cloud-engineer-azure-basel-165209",
+      "description": "................ Für unseren Kunden in Basel Stadt suchen wir eine erfahrene Persönlichkeit im Bereich Cloud Engineering und DevOps , welche die Weiterentwicklung einer modernen Azure-Plattform vorantreibt. Der Fokus liegt auf Automatisierung, Infrastructure as Code, CI/CD, Self-Service-Plattformen sowie der Migration bestehender Entwicklungs- und Deployment-Tools auf eine zukunftsfähige DevOps-Landschaft. Deine Aufgaben: Weiterentwicklung und Betrieb der Azure-Plattform unter Einsatz von Terraform , einschliesslich moderner Test-, Staging- und Deployment-Ansätze Automatisierung wiederkehrender Prozesse sowie Ausbau von Self-Service-Angeboten",
+      "posted_at": 1794240069,
+      "tags": [
+        "Remote",
+        "IT"
+      ],
+      "experience": "Check listing",
+      "score": 43,
+      "match_reason": "Relevant keywords: azure, terraform, ci/cd, devops",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
     },
     {
       "title": "Full-Stack Developer",
