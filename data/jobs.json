@@ -1,12 +1,29 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-08T20:52:03.263516+00:00",
+  "updated_at": "2026-11-09T00:16:59.114633+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
     "Remotive remote API"
   ],
   "jobs": [
+    {
+      "title": "Freelance E-Commerce Operations & AI Manager - Right Hand to the CBO - 25 - 30h/week",
+      "company": "Time to hire",
+      "location": "Amsterdam",
+      "url": "https://www.arbeitnow.nl/jobs/companies/time-to-hire/freelance-e-commerce-operations-ai-manager-right-hand-to-the-cbo-25-30h-week-amsterdam-176895",
+      "description": "For my client, a DTC jewelry brand I'm looking for the CBO's right hand. You will take a large share of operational and admin work off her plate, keep projects moving and use AI to make the way they work faster. What you will do 👉Operations: check stock against launches and campaigns, track our manufacturing partner (delays, open orders, quality) and keep new designs on schedule from brief to first order 👉Website & CRO: keep product pages, FAQs and prices up to date, QA before go-live, brief our developers and suggest UX and conversion improvements 👉 Marketing: coordinate with performance marketing and our newsletter agency, support influence",
+      "posted_at": 1794175239,
+      "tags": [
+        "Remote",
+        "Business Operations"
+      ],
+      "experience": "Check listing",
+      "score": 58,
+      "match_reason": "Relevant keywords: qa, support",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
     {
       "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
       "company": "virtual7 GmbH",
