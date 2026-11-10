@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-10T16:41:40.417731+00:00",
+  "updated_at": "2026-11-10T22:01:41.944916+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -8,53 +8,20 @@
   ],
   "jobs": [
     {
-      "title": "App Testers wanted in Switzerland!",
-      "company": "Tester Work",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.ch/jobs/companies/tester-work/remote-app-testers-wanted-in-switzerland-switzerland-anywhere-475008",
-      "description": "Tester Work provides access to exciting and rewarding project-based opportunities for freelancers. Learn new skills and earn money by testing world-class apps and websites. 🌎 For this specific project, we are looking for QA testers and tech enthusiasts in Swizterland! Having joined our community, you will then have regular access to a range of other projects, with unique requirements and workflows: Test Case Executions : Perform a set of flows using specific instructions and compare the results observed with the expected/intended results provided. Functional Exploratory Test Cases : Explore the application or website’s functionality based on ",
-      "posted_at": 1794249080,
-      "tags": [
-        "QA Testing",
-        "Remote"
-      ],
-      "experience": "Check listing",
-      "score": 58,
-      "match_reason": "Relevant keywords: qa, testing",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Java Fullstack Software Engineer (Spring Boot / Angular)",
-      "company": "Coopers Group AG",
-      "location": "Bern",
-      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/java-fullstack-software-engineer-spring-boot-angular-bern-241500",
-      "description": "................ Für unseren Kunden aus der Logistikbranche in Bern , suchen wir eine:n erfahrene:n, motivierte:n und aufgeschlossene:n Java Fullstack Software Engineer (Spring Boot / Angular). In diesem Projekt arbeitest du an der Entwicklung einer modernen, skalierbaren Softwarelösung zur datenbasierten Routenplanung und Optimierung komplexer logistischer Prozesse. Gemeinsam mit einem interdisziplinären Scrum DevOps Team gestaltest du eine neue Systemlandschaft auf Basis einer Microservice-Architektur und setzt moderne Technologien sowie Machine Learning ein, um effiziente und zuverlässige Planungslösungen zu ermöglichen. Deine Aufgaben: En",
-      "posted_at": 1794222063,
+      "title": "Junior SAP EWM Berater & Testkoordinator (Freelance)",
+      "company": "Sidekick Network GmbH & Co. KG",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/sidekick-network-gmbh-co-kg/junior-sap-ewm-berater-testkoordinator-freelance-berlin-136075",
+      "description": "Für unseren internationalen Kunden aus der Diagnostikbranche suchen wir einen motivierten Junior SAP EWM Berater & Testkoordinator zur Unterstützung eines globalen Warehouse-Transformationsprojekts. Der Schwerpunkt liegt auf der Unterstützung bei SAP EWM-Anforderungen, der operativen Testkoordination und der Zusammenarbeit mit Fachanwendern und Lagerteams. Gesucht wird ein strukturierter, kommunikationsstarker Consultant mit gutem Verständnis für Logistikprozesse und einer ausgeprägten Hands-on-Mentalität. Rahmenbedingungen : Start : Noch offen Auslastung : Vollzeit (1 FTE geplant) Standort : DACH-Region (ausschließlich Bewerber aus Deutschla",
+      "posted_at": 1794343656,
       "tags": [
         "Remote",
-        "Software Development"
+        "SAP/ERP Consulting",
+        "Development"
       ],
-      "experience": "Check listing",
-      "score": 53,
-      "match_reason": "Relevant keywords: devops",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Senior Cloud Engineer - Azure",
-      "company": "Coopers Group AG",
-      "location": "Basel",
-      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/senior-cloud-engineer-azure-basel-165209",
-      "description": "................ Für unseren Kunden in Basel Stadt suchen wir eine erfahrene Persönlichkeit im Bereich Cloud Engineering und DevOps , welche die Weiterentwicklung einer modernen Azure-Plattform vorantreibt. Der Fokus liegt auf Automatisierung, Infrastructure as Code, CI/CD, Self-Service-Plattformen sowie der Migration bestehender Entwicklungs- und Deployment-Tools auf eine zukunftsfähige DevOps-Landschaft. Deine Aufgaben: Weiterentwicklung und Betrieb der Azure-Plattform unter Einsatz von Terraform , einschliesslich moderner Test-, Staging- und Deployment-Ansätze Automatisierung wiederkehrender Prozesse sowie Ausbau von Self-Service-Angeboten",
-      "posted_at": 1794240069,
-      "tags": [
-        "Remote",
-        "IT"
-      ],
-      "experience": "Check listing",
-      "score": 43,
-      "match_reason": "Relevant keywords: azure, terraform, ci/cd, devops",
+      "experience": "Early career mentioned",
+      "score": 65,
+      "match_reason": "Relevant keywords: network",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
@@ -72,6 +39,24 @@
       "experience": "Check listing",
       "score": 40,
       "match_reason": "Relevant keywords: role-family match",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Senior SAP EWM Berater & Test Lead (Freelance)",
+      "company": "Sidekick Network GmbH & Co. KG",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/sidekick-network-gmbh-co-kg/senior-sap-ewm-berater-test-lead-freelance-berlin-72500",
+      "description": "Für unseren internationalen Kunden aus der Diagnostikbranche suchen wir einen erfahrenen Senior SAP EWM Berater & Test Lead zur Unterstützung eines globalen Warehouse-Transformationsprojekts. Im Mittelpunkt stehen die fachliche Gestaltung und Optimierung von SAP EWM-Prozessen, die Koordination zwischen Fachbereichen und Entwicklungsteams sowie die Sicherstellung der Test- und Go-Live-Bereitschaft. Gesucht wird ein praxisorientierter Experte mit tiefgehendem SAP EWM-Know-how und einer ausgeprägten Hands-on-Mentalität, der auch direkt mit den operativen Lagerteams zusammenarbeitet. Rahmenbedingungen : Start : Noch offen Auslastung : Vollzeit (1",
+      "posted_at": 1794330051,
+      "tags": [
+        "Remote",
+        "SAP/ERP Consulting",
+        "Development"
+      ],
+      "experience": "Early career mentioned",
+      "score": 40,
+      "match_reason": "Relevant keywords: network",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
