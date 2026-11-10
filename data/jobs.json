@@ -1,12 +1,29 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-09T17:57:12.954220+00:00",
+  "updated_at": "2026-11-10T01:05:37.579232+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
     "Remotive remote API"
   ],
   "jobs": [
+    {
+      "title": "App Testers wanted in Switzerland!",
+      "company": "Tester Work",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.ch/jobs/companies/tester-work/remote-app-testers-wanted-in-switzerland-switzerland-anywhere-475008",
+      "description": "Tester Work provides access to exciting and rewarding project-based opportunities for freelancers. Learn new skills and earn money by testing world-class apps and websites. 🌎 For this specific project, we are looking for QA testers and tech enthusiasts in Swizterland! Having joined our community, you will then have regular access to a range of other projects, with unique requirements and workflows: Test Case Executions : Perform a set of flows using specific instructions and compare the results observed with the expected/intended results provided. Functional Exploratory Test Cases : Explore the application or website’s functionality based on ",
+      "posted_at": 1794249080,
+      "tags": [
+        "QA Testing",
+        "Remote"
+      ],
+      "experience": "Check listing",
+      "score": 58,
+      "match_reason": "Relevant keywords: qa, testing",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
     {
       "title": "Freelance E-Commerce Operations & AI Manager - Right Hand to the CBO - 25 - 30h/week",
       "company": "Time to hire",
@@ -59,24 +76,6 @@
       "remote": true
     },
     {
-      "title": "MD-Expert:in (m/w/d) – Prüfmanagement",
-      "company": "Valova",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/valova/md-expertin-prufmanagement-berlin-310178",
-      "description": "Über Valova Wir entwickeln KI-Software für Krankenhäuser , die administrative Prozesse in Dokumentation, Kodierung und Abrechnung automatisiert. Damit entlasten wir Klinikteams, sichern Erlöse und schaffen mehr Zeit für Patient. Unser ambitioniertes Team aus Medizin, Technologie und Business arbeitet daran, die Krankenhausverwaltung nachhaltig zu verändern. Warum diese Rolle zählt In der MD-Prüfung werden Erlöse gesichert oder verloren. Jede verpasste Frist, jede fehlende Unterlage und jede schwache Begründung kostet Kliniken Geld, das sie längst erwirtschaftet haben, und ab 2027 steigen die Prüfquoten deutlich. Valova ist gebaut, um das zu ä",
-      "posted_at": 1794232854,
-      "tags": [
-        "Remote",
-        "Quality Assurance",
-        "Inspection"
-      ],
-      "experience": "Check listing",
-      "score": 48,
-      "match_reason": "Relevant keywords: role-family match",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
       "title": "Senior Cloud Engineer - Azure",
       "company": "Coopers Group AG",
       "location": "Basel",
@@ -106,38 +105,6 @@
       "experience": "Check listing",
       "score": 28,
       "match_reason": "Relevant keywords: aws",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Principal GSI Partner Manager - Accenture (EMEA)",
-      "company": "Datadog",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/datadog/remote-principal-gsi-partner-manager-accenture-emea-268012",
-      "description": "<p>We are looking for an experienced Partner Sales Manager to ignite partnerships by identifying and recruiting new partners for long-term success and nurture ongoing relationships with key strategic Global Systems Integrator partners. Our ultimate goal is building channels and alliances that drive new customer adoption and revenue. This is a great opportunity for you to join a high-growth cloud software company and help blaze the path for our company's expansion.</p> <p><em>At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workpla",
-      "posted_at": 1794196514,
-      "tags": [
-        "Channels & Alliances"
-      ],
-      "experience": "Check listing",
-      "score": 23,
-      "match_reason": "Relevant keywords: role-family match",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "(Senior/Staff) Platform Engineer",
-      "company": "Duna",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.nl/jobs/companies/duna/remote-senior-staff-platform-engineer-382004",
-      "description": "At Duna, we see the company as the second product we're building and are continually working to create a transparent, ambitious culture. We want this to be the place where you do your best work. Our mission is to redefine identity for the global economy. We're backed by world-class investors including CapitalG and Index Ventures, as well as founders and executives from companies like Stripe, Adyen, Notion, Remote, Qonto, Framer, Anthropic, Mollie, OpenAI and Goldman Sachs. Duna's infrastructure is part of the product. Enterprise customers buy our reliability, security posture and auditability, not just our features. WHAT YOU'LL BE DOING IN TH",
-      "posted_at": 1794033631,
-      "tags": [
-        "Engineering"
-      ],
-      "experience": "Check listing",
-      "score": 15,
-      "match_reason": "Relevant keywords: role-family match",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
