@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-10T01:05:37.579232+00:00",
+  "updated_at": "2026-11-10T08:56:04.262660+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -89,6 +89,23 @@
       "experience": "Check listing",
       "score": 43,
       "match_reason": "Relevant keywords: azure, terraform, ci/cd, devops",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Software-Tester (m/w/d) – Testdesign & Abnahmetest, Mainframe IBM z/OS, ISTQB",
+      "company": "Rockstardevelopers GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/software-tester-testdesign-abnahmetest-mainframe-ibm-z-os-istqb-berlin-497198",
+      "description": "Wer wir sind Rockstardevelopers, gegründet 2015 in Mannheim, weitere Büros in Stuttgart und München. Wir sind ein Software- und IT-Dienstleister mit Erfahrung aus hunderten von Projekten für Enterprise- und Mittelstands-Kunden. Kurze Wege, ehrliches Feedback, keine politischen Spielchen. Keine Hierarchie-Ebenen zwischen dir und den Leuten, die Entscheidungen treffen. Deine Aufgaben Du arbeitest im Testteam eines großen Konzerns aus Transport und Logistik. Das Team plant und verantwortet den Gesamtintegrations- und Abnahmetest: Neue Systeme werden in eine gewachsene Anwendungslandschaft eingebunden, zu der auch Großrechner-Anwendungen auf IBM ",
+      "posted_at": 1794297643,
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "experience": "Check listing",
+      "score": 40,
+      "match_reason": "Relevant keywords: role-family match",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
