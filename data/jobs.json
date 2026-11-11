@@ -1,12 +1,47 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-11T17:43:38.543350+00:00",
+  "updated_at": "2026-11-11T23:49:19.831918+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
     "Remotive remote API"
   ],
   "jobs": [
+    {
+      "title": "Junior System Engineer",
+      "company": "The Trainee Company",
+      "location": "Werken op afstand",
+      "url": "https://www.arbeitnow.nl/jobs/companies/the-trainee-company/remote-junior-system-engineer-apeldoorn-481393",
+      "description": "Wil jij je ontwikkelen op het snijvlak van business en IT én direct impact maken binnen een van de belangrijkste organisaties van Nederland? Tijdens het Traineeship Business & IT bij The Trainee Company ga je aan de slag als systemengineer waar je meewerkt aan innovatieve en toekomstbestendige applicaties bij een overheidsorganisatie. Wat ga je doen? Het ontwikkelen en onderhouden van generieke Java-componenten Het verbeteren en automatiseren van CI/CD pipelines (build, test, deploy) Het integreren van kwaliteitscontroles en geautomatiseerde checks Het ondersteunen van DevOps teams bij tooling en automatisering Het signaleren en oplossen van ",
+      "posted_at": 1794421885,
+      "tags": [
+        "Business & ICT",
+        "Remote"
+      ],
+      "experience": "Early career mentioned",
+      "score": 70,
+      "match_reason": "Relevant keywords: ci/cd, devops",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "AI Solution Architect (m/w/d)",
+      "company": "virtual7 GmbH",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-99131",
+      "description": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, die mit ihren Ideen, ihrem Können und Engagement etwas bewegen wollen. Fühlst du dich angesprochen? Dann gestalte Deine Welt zum Besseren und werde Teil unseres Customer Cluster Environment, Transportation & Energy. DEINE MISSION Als AI Solution Architect (m/w/d) gestaltest Du die KI-/ML-Gesamtarchitektur für komplexe Enterprise-Umgebungen in der Cloud mit Schwerpunkt Microsoft Azure. Du",
+      "posted_at": 1794432673,
+      "tags": [
+        "Customer Cluster Environment",
+        "Transportation & Energy",
+        "Remote"
+      ],
+      "experience": "Check listing",
+      "score": 58,
+      "match_reason": "Relevant keywords: azure, git",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
     {
       "title": "App Testers wanted in Switzerland!",
       "company": "Tester Work",
@@ -42,6 +77,24 @@
       "remote": true
     },
     {
+      "title": "Mission Freelance - Expert DevOps Cloudflare One",
+      "company": "Brixio",
+      "location": "France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/brixio/remote-mission-freelance-expert-devops-cloudflare-one-france-236688",
+      "description": "Mission Freelance – Expert DevOps Cloudflare One Zero Trust | Security Engineering | Terraform | GitOps Contexte Pour le compte d'un grand groupe français du secteur de l'énergie, nous recherchons un Expert DevOps Cloudflare pour accompagner le déploiement et l'industrialisation d'une plateforme de sécurité Cloudflare à l'échelle de son système d'information. L'objectif est de concevoir, configurer et automatiser les solutions Cloudflare, d'accompagner leur mise en production et d'assurer leur transfert aux équipes internes. Principales responsabilités Zero Trust & ZTNA : déploiement de Cloudflare Access et WARP, migration progressive depuis ",
+      "posted_at": 1794417619,
+      "tags": [
+        "Information Technology",
+        "Information Technology and Services",
+        "Remote"
+      ],
+      "experience": "Early career mentioned",
+      "score": 50,
+      "match_reason": "Relevant keywords: terraform, git, devops",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
       "title": "Full-Stack Developer",
       "company": "Fluence International, Inc.",
       "location": "Worldwide",
@@ -54,6 +107,107 @@
       "experience": "Check listing",
       "score": 28,
       "match_reason": "Relevant keywords: aws",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Senior Network Engineer (m/w/d)",
+      "company": "virtual7 GmbH",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-network-engineer-bonn-247245",
+      "description": "Bei virtual7 verbinden wir unsere technologische Expertise mit einem tiefen Verständnis für die Bedürfnisse unserer Kunden. Durch maßgeschneiderte Lösungen schaffen wir einen echten Mehrwert für unsere Rahmenvertragspartner in der öffentlichen Verwaltung. Aktuell suchen wir für einen unserer Kunden einen Senior Network Engineer (m/w/d). Projektstandort: Bonn Zeitraum: 7. Dezember 2026 bis 30. Juni 2027 Arbeitsmix: 105 Tage Remote/ 20 Tage vor Ort (davon1-2 Tage Ausland) Wichtig: Remote Einsätze nur im Bundesgebiet möglich Prüfung: SÜ2 nach § 9 SÜG Geheim/Sabotageschutz DEINE MISSION Die Aufgaben im Detail: Unterstützung der Cloud für eine Ber",
+      "posted_at": 1794432673,
+      "tags": [
+        "Customer Cluster Defense & Public Security",
+        "Remote"
+      ],
+      "experience": "Check listing",
+      "score": 28,
+      "match_reason": "Relevant keywords: network",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Senior Oracle Data Engineer (m/w/d)",
+      "company": "virtual7 GmbH",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-oracle-data-engineer-karlsruhe-315161",
+      "description": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, die mit ihren Ideen, ihrem Können und Engagement etwas bewegen wollen. Fühlst du dich angesprochen? Dann gestalte Deine Welt zum Besseren und werde Teil unseres Customer Clusters Finance. DEINE MISSION Als Senior Oracle Data Engineer (m/w/d) übernimmst du fachliche Verantwortung für anspruchsvolle Datenbanklösungen und gestaltest performante, sichere Anwendungen auf Basis von Oracle-Tech",
+      "posted_at": 1794432673,
+      "tags": [
+        "Customer Cluster Finance",
+        "Remote"
+      ],
+      "experience": "Check listing",
+      "score": 28,
+      "match_reason": "Relevant keywords: git",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "(Senior) Account Manager - Existing Customers (all genders)",
+      "company": "Shiftmove",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/shiftmove/remote-senior-account-manager-existing-customers-all-genders-germany-241302",
+      "description": "Description In ganz Europa stehen Fuhrparks unter enormem Druck. Kraftstoffkosten steigen, regulatorische Anforderungen werden komplexer und der Umstieg auf emissionsärmere Fahrzeuge nimmt Fahrt auf. Gleichzeitig verwalten noch immer rund 70 % der europäischen Unternehmen ihre Flotten mit Excel-Tabellen, isolierten Tools und Prozessen, die für die heutigen Herausforderungen nie ausgelegt waren. Shiftmove macht genau das einfacher. Wir sind ein profitables B2B-SaaS-Unternehmen und die am schnellsten wachsende Flottenmanagement-Plattform Europas. Entstanden aus dem Zusammenschluss von Avrios und Vimcar, unterstützen wir heute zehntausende Gesch",
+      "posted_at": 1794421223,
+      "tags": [
+        "Sales",
+        "Computer Software",
+        "Remote"
+      ],
+      "experience": "Check listing",
+      "score": 23,
+      "match_reason": "Relevant keywords: role-family match",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Lead Architect & Platform Engineer (m/f/d)",
+      "company": "ANGEHEUERT GmbH",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-lead-architect-platform-engineer-frankfurt-am-main-365204",
+      "description": "Lead Architect & Platform Engineer Are you looking for an architecture role where you do not simply optimize existing structures within a decades old IT environment? As a Lead Architect & Platform Engineer , you will have the opportunity to build key parts of a modern cloud and platform architecture from the ground up while actively shaping standards, integration patterns, and technical guidelines. Apply now and help build the technological foundation for the company’s next stage of development. Your benefits as Lead Architect & Platform Engineer Creative Freedom: Help build modern cloud and platform architectures and influence which technolo",
+      "posted_at": 1794421880,
+      "tags": [
+        "Remote"
+      ],
+      "experience": "Check listing",
+      "score": 23,
+      "match_reason": "Relevant keywords: role-family match",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Lead Architekt & Platform Engineer (m/w/d)",
+      "company": "ANGEHEUERT GmbH",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-lead-architekt-platform-engineer-frankfurt-am-main-4203",
+      "description": "Lead Architekt & Platform Engineer Du suchst eine Architekturrolle, bei der du nicht in einem jahrzehntelang gewachsenen IT Umfeld nur bestehende Strukturen optimierst? Als Lead Architekt & Platform Engineer erhältst du die Möglichkeit, zentrale Teile einer modernen Cloud und Plattformarchitektur neu aufzubauen und dabei Standards, Integrationsmuster und technische Leitplanken selbst mitzugestalten. Bewirb dich jetzt und baue die technologische Grundlage für die nächste Entwicklungsstufe des Unternehmens mit auf. Deine Benefits als Lead Architekt & Platform Engineer Gestaltungsspielraum: Baue moderne Cloud und Plattformarchitekturen mit auf u",
+      "posted_at": 1794421880,
+      "tags": [
+        "Remote"
+      ],
+      "experience": "Check listing",
+      "score": 23,
+      "match_reason": "Relevant keywords: role-family match",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Senior Cloud Software Engineer (m/w/d)",
+      "company": "virtual7 GmbH",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-cloud-software-engineer-bonn-99896",
+      "description": "Bei virtual7 verbinden wir unsere technologische Expertise mit einem tiefen Verständnis für die Bedürfnisse unserer Kunden. Durch maßgeschneiderte Lösungen schaffen wir einen echten Mehrwert für unsere Rahmenvertragspartner in der öffentlichen Verwaltung. Aktuell suchen wir für einen unserer Kunden einen Senior Cloud Software Engineer (m/w/d). Projektstandort: Bonn/Nürnberg/Frankfurt Zeitraum: 7. Dezember 2026 bis 30. Juni 2026 Arbeitsmix: 105 Tage Remote/ 20 Tage vor Ort Wichtig: Remote Einsätze nur im Bundesgebiet möglich Prüfung: SÜ2 nach § 9 SÜG Geheim/Sabotageschutz DEINE MISSION Die Aufgaben im Detail: Applikationen auf die ODC Cloud üb",
+      "posted_at": 1794432673,
+      "tags": [
+        "Customer Cluster Defense & Public Security",
+        "Remote"
+      ],
+      "experience": "Check listing",
+      "score": 23,
+      "match_reason": "Relevant keywords: role-family match",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
