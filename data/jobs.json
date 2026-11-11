@@ -1,29 +1,12 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-11T02:22:02.054961+00:00",
+  "updated_at": "2026-11-11T09:59:03.080904+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
     "Remotive remote API"
   ],
   "jobs": [
-    {
-      "title": "Data & Platform Engineer",
-      "company": "Coopers Group AG",
-      "location": "Zürich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/data-platform-engineer-zurich-361577",
-      "description": "................ Für unseren Kunden in Zürich, suchen wir eine:n erfahrene:n und aufgeschlossene:n Data & Platform Engineer . In diesem Projekt unterstützt du den Aufbau und die Weiterentwicklung einer zentralen Datenplattform im Rahmen einer umfassenden IT-Transformation. Gemeinsam mit Data Scientists, Fachbereichen und Engineering-Teams entwickelst du skalierbare Datenprodukte auf einer modernen, modularen Plattformarchitektur und trägst dazu bei, eine zukunftsfähige Datenlandschaft zu etablieren. Deine Aufgaben: Entwicklung, Betrieb und Optimierung von Datenpipelines für moderne Data- und Analytics-Plattformen Implementierung und Weiterent",
-      "posted_at": 1794315652,
-      "tags": [
-        "Remote",
-        "IT"
-      ],
-      "experience": "Check listing",
-      "score": 40,
-      "match_reason": "Relevant keywords: role-family match",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
     {
       "title": "Full-Stack Developer",
       "company": "Fluence International, Inc.",
@@ -37,54 +20,6 @@
       "experience": "Check listing",
       "score": 28,
       "match_reason": "Relevant keywords: aws",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "📈 (Senior) New Business Manager (h/f/d) | Suisse Romande ⚡ SaaS & IoT",
-      "company": "ANGEHEUERT GmbH",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.ch/jobs/companies/angeheuert-gmbh/remote-senior-new-business-manager-suisse-romande-saas-iot-lausanne-54987",
-      "description": "Tu veux donner du sens à ton travail commercial et contribuer à une mission à fort impact ? Tu parles couramment français et allemand et tu aimes conquérir de nouveaux clients ? Rejoins nous et participe activement au développement du marché suisse. Notre client réinvente la gestion du stationnement grâce à la reconnaissance automatique des plaques d’immatriculation, à une solution cloud et à des solutions de paiement digitales. Déjà présent sur plus de 500 sites dans la région DACH , le système poursuit aujourd’hui son expansion en Suisse. En tant que (Senior) New Business Manager (h/f/d) , tu identifies de nouvelles opportunités commerciale",
-      "posted_at": 1794313883,
-      "tags": [
-        "Remote"
-      ],
-      "experience": "Check listing",
-      "score": 28,
-      "match_reason": "Relevant keywords: git",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "📈 (Senior) New Business Manager (h/f/d) | Suisse Romande ⚡ SaaS & IoT",
-      "company": "ANGEHEUERT GmbH",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.ch/jobs/companies/angeheuert-gmbh/remote-senior-new-business-manager-suisse-romande-saas-iot-genf-292037",
-      "description": "Tu veux donner du sens à ton travail commercial et contribuer à une mission à fort impact ? Tu parles couramment français et allemand et tu aimes conquérir de nouveaux clients ? Rejoins nous et participe activement au développement du marché suisse. Notre client réinvente la gestion du stationnement grâce à la reconnaissance automatique des plaques d’immatriculation, à une solution cloud et à des solutions de paiement digitales. Déjà présent sur plus de 500 sites dans la région DACH , le système poursuit aujourd’hui son expansion en Suisse. En tant que (Senior) New Business Manager (h/f/d) , tu identifies de nouvelles opportunités commerciale",
-      "posted_at": 1794313883,
-      "tags": [
-        "Remote"
-      ],
-      "experience": "Check listing",
-      "score": 28,
-      "match_reason": "Relevant keywords: git",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "📈 (Senior) New Business Manager (h/f/d) | Suisse Romande ⚡ SaaS & IoT",
-      "company": "ANGEHEUERT GmbH",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.ch/jobs/companies/angeheuert-gmbh/remote-senior-new-business-manager-suisse-romande-saas-iot-neuchatel-45711",
-      "description": "Tu veux donner du sens à ton travail commercial et contribuer à une mission à fort impact ? Tu parles couramment français et allemand et tu aimes conquérir de nouveaux clients ? Rejoins nous et participe activement au développement du marché suisse. Notre client réinvente la gestion du stationnement grâce à la reconnaissance automatique des plaques d’immatriculation, à une solution cloud et à des solutions de paiement digitales. Déjà présent sur plus de 500 sites dans la région DACH , le système poursuit aujourd’hui son expansion en Suisse. En tant que (Senior) New Business Manager (h/f/d) , tu identifies de nouvelles opportunités commerciale",
-      "posted_at": 1794313883,
-      "tags": [
-        "Remote"
-      ],
-      "experience": "Check listing",
-      "score": 28,
-      "match_reason": "Relevant keywords: git",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
