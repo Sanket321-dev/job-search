@@ -1,30 +1,12 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-10T22:01:41.944916+00:00",
+  "updated_at": "2026-11-11T02:22:02.054961+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
     "Remotive remote API"
   ],
   "jobs": [
-    {
-      "title": "Junior SAP EWM Berater & Testkoordinator (Freelance)",
-      "company": "Sidekick Network GmbH & Co. KG",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/sidekick-network-gmbh-co-kg/junior-sap-ewm-berater-testkoordinator-freelance-berlin-136075",
-      "description": "Für unseren internationalen Kunden aus der Diagnostikbranche suchen wir einen motivierten Junior SAP EWM Berater & Testkoordinator zur Unterstützung eines globalen Warehouse-Transformationsprojekts. Der Schwerpunkt liegt auf der Unterstützung bei SAP EWM-Anforderungen, der operativen Testkoordination und der Zusammenarbeit mit Fachanwendern und Lagerteams. Gesucht wird ein strukturierter, kommunikationsstarker Consultant mit gutem Verständnis für Logistikprozesse und einer ausgeprägten Hands-on-Mentalität. Rahmenbedingungen : Start : Noch offen Auslastung : Vollzeit (1 FTE geplant) Standort : DACH-Region (ausschließlich Bewerber aus Deutschla",
-      "posted_at": 1794343656,
-      "tags": [
-        "Remote",
-        "SAP/ERP Consulting",
-        "Development"
-      ],
-      "experience": "Early career mentioned",
-      "score": 65,
-      "match_reason": "Relevant keywords: network",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
     {
       "title": "Data & Platform Engineer",
       "company": "Coopers Group AG",
@@ -39,41 +21,6 @@
       "experience": "Check listing",
       "score": 40,
       "match_reason": "Relevant keywords: role-family match",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Senior SAP EWM Berater & Test Lead (Freelance)",
-      "company": "Sidekick Network GmbH & Co. KG",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/sidekick-network-gmbh-co-kg/senior-sap-ewm-berater-test-lead-freelance-berlin-72500",
-      "description": "Für unseren internationalen Kunden aus der Diagnostikbranche suchen wir einen erfahrenen Senior SAP EWM Berater & Test Lead zur Unterstützung eines globalen Warehouse-Transformationsprojekts. Im Mittelpunkt stehen die fachliche Gestaltung und Optimierung von SAP EWM-Prozessen, die Koordination zwischen Fachbereichen und Entwicklungsteams sowie die Sicherstellung der Test- und Go-Live-Bereitschaft. Gesucht wird ein praxisorientierter Experte mit tiefgehendem SAP EWM-Know-how und einer ausgeprägten Hands-on-Mentalität, der auch direkt mit den operativen Lagerteams zusammenarbeitet. Rahmenbedingungen : Start : Noch offen Auslastung : Vollzeit (1",
-      "posted_at": 1794330051,
-      "tags": [
-        "Remote",
-        "SAP/ERP Consulting",
-        "Development"
-      ],
-      "experience": "Early career mentioned",
-      "score": 40,
-      "match_reason": "Relevant keywords: network",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Senior Site Reliability Engineer (SRE) m/f/x",
-      "company": "Makersite GmbH",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-site-reliability-engineer-sre-berlin-319771",
-      "description": "Location: Germany/Berlin/Stuttgart (Remote) Who You’ll Work For : At Makersite, we're pioneering the future of sustainable product development and digital collaboration. As a leading platform for product lifecycle management (PLM), we empower companies to make smarter, more sustainable decisions across their entire supply chain. Our cutting-edge software enables teams to design, prototype, and manufacture with transparency, efficiency, and responsibility—reducing environmental impact while optimizing performance. We're a fast-growing, innovative company that thrives on creativity, collaboration, and continuous learning. If you're passionate a",
-      "posted_at": 1794324689,
-      "tags": [
-        "Technology",
-        "Remote"
-      ],
-      "experience": "Check listing",
-      "score": 33,
-      "match_reason": "Relevant keywords: git, sre",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
