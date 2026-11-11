@@ -1,12 +1,46 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-11T09:59:03.080904+00:00",
+  "updated_at": "2026-11-11T17:43:38.543350+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
     "Remotive remote API"
   ],
   "jobs": [
+    {
+      "title": "App Testers wanted in Switzerland!",
+      "company": "Tester Work",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.ch/jobs/companies/tester-work/remote-app-testers-wanted-in-switzerland-switzerland-anywhere-115014",
+      "description": "Tester Work provides access to exciting and rewarding project-based opportunities for freelancers. Learn new skills and earn money by testing world-class apps and websites. 🌎 For this specific project, we are looking for QA testers and tech enthusiasts in Switzerland! Having joined our community, you will then have regular access to a range of other projects, with unique requirements and workflows: Test Case Executions : Perform a set of flows using specific instructions and compare the results observed with the expected/intended results provided. Functional Exploratory Test Cases : Explore the application or website’s functionality based on ",
+      "posted_at": 1794411084,
+      "tags": [
+        "QA Testing",
+        "Remote"
+      ],
+      "experience": "Check listing",
+      "score": 58,
+      "match_reason": "Relevant keywords: qa, testing",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Sustainability Consultant – PCF/LCA / Climate Tech (w/m/d)",
+      "company": "Right Search",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/right-search/sustainability-consultant-pcf-lca-climate-tech-berlin-12238",
+      "description": "If you do not speak German at a minimum C1 level, please do not apply! Applying anyway is disrespectful and a waste of both your time and mine. This requirement is clearly stated for a reason. No fluent German, no chance. No exceptions! Unser Kunde Das Unternehmen ist ein Climate‑Tech‑Start‑up im Bereich Nachhaltigkeits‑Software und Consulting. Mit 11‑50 Mitarbeitenden, Hauptsitz in Berlin und einem remote‑first Team, bietet es eine KI‑gestützte Plattform für CO₂‑Footprinting, PCF‑ und LCA‑Berechnungen sowie CSRD‑Compliance. Es positioniert sich als schneller, produkt‑orientierter Anbieter, der Unternehmen bei der Reduktion ihrer Emissionen u",
+      "posted_at": 1794412867,
+      "tags": [
+        "Remote",
+        "Power Engineering and Environmental Engineering"
+      ],
+      "experience": "Check listing",
+      "score": 53,
+      "match_reason": "Relevant keywords: sre",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
     {
       "title": "Full-Stack Developer",
       "company": "Fluence International, Inc.",
@@ -20,24 +54,6 @@
       "experience": "Check listing",
       "score": 28,
       "match_reason": "Relevant keywords: aws",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Senior Data Engineer - Datenplattform",
-      "company": "Coopers Group AG",
-      "location": "Zürich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/senior-data-engineer-datenplattform-zurich-278207",
-      "description": "................ Für unseren Kunden in Luzern suchen wir eine:n erfahrene:n Senior Data Engineer - Datenplattform zur Verstärkung des Teams. Deine Aufgaben: Weiterentwicklung und Betrieb einer modernen Datenplattform auf Databricks Entwicklung, Optimierung und Wartung skalierbarer Datenpipelines und Datenprodukte Umsetzung von Datenmodellen nach Data Vault 2.0 Entwicklung von Daten-Transformationen sowie Datenqualitäts- und Validierungsprozessen mit dbt Core Sicherstellung eines stabilen, performanten und wirtschaftlichen Betriebs von Datenlösungen im Azure-Umfeld Mitarbeit in agilen Projekt- und Produktteams Unterstützung bei der Automatisie",
-      "posted_at": 1794319277,
-      "tags": [
-        "Remote",
-        "Data Processing",
-        "Data Engineer"
-      ],
-      "experience": "Check listing",
-      "score": 20,
-      "match_reason": "Relevant keywords: azure",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
