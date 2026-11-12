@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-11T23:49:19.831918+00:00",
+  "updated_at": "2026-11-12T04:49:12.259677+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -60,41 +60,6 @@
       "remote": true
     },
     {
-      "title": "Sustainability Consultant – PCF/LCA / Climate Tech (w/m/d)",
-      "company": "Right Search",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/right-search/sustainability-consultant-pcf-lca-climate-tech-berlin-12238",
-      "description": "If you do not speak German at a minimum C1 level, please do not apply! Applying anyway is disrespectful and a waste of both your time and mine. This requirement is clearly stated for a reason. No fluent German, no chance. No exceptions! Unser Kunde Das Unternehmen ist ein Climate‑Tech‑Start‑up im Bereich Nachhaltigkeits‑Software und Consulting. Mit 11‑50 Mitarbeitenden, Hauptsitz in Berlin und einem remote‑first Team, bietet es eine KI‑gestützte Plattform für CO₂‑Footprinting, PCF‑ und LCA‑Berechnungen sowie CSRD‑Compliance. Es positioniert sich als schneller, produkt‑orientierter Anbieter, der Unternehmen bei der Reduktion ihrer Emissionen u",
-      "posted_at": 1794412867,
-      "tags": [
-        "Remote",
-        "Power Engineering and Environmental Engineering"
-      ],
-      "experience": "Check listing",
-      "score": 53,
-      "match_reason": "Relevant keywords: sre",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Mission Freelance - Expert DevOps Cloudflare One",
-      "company": "Brixio",
-      "location": "France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/brixio/remote-mission-freelance-expert-devops-cloudflare-one-france-236688",
-      "description": "Mission Freelance – Expert DevOps Cloudflare One Zero Trust | Security Engineering | Terraform | GitOps Contexte Pour le compte d'un grand groupe français du secteur de l'énergie, nous recherchons un Expert DevOps Cloudflare pour accompagner le déploiement et l'industrialisation d'une plateforme de sécurité Cloudflare à l'échelle de son système d'information. L'objectif est de concevoir, configurer et automatiser les solutions Cloudflare, d'accompagner leur mise en production et d'assurer leur transfert aux équipes internes. Principales responsabilités Zero Trust & ZTNA : déploiement de Cloudflare Access et WARP, migration progressive depuis ",
-      "posted_at": 1794417619,
-      "tags": [
-        "Information Technology",
-        "Information Technology and Services",
-        "Remote"
-      ],
-      "experience": "Early career mentioned",
-      "score": 50,
-      "match_reason": "Relevant keywords: terraform, git, devops",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
       "title": "Full-Stack Developer",
       "company": "Fluence International, Inc.",
       "location": "Worldwide",
@@ -141,56 +106,6 @@
       "experience": "Check listing",
       "score": 28,
       "match_reason": "Relevant keywords: git",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "(Senior) Account Manager - Existing Customers (all genders)",
-      "company": "Shiftmove",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/shiftmove/remote-senior-account-manager-existing-customers-all-genders-germany-241302",
-      "description": "Description In ganz Europa stehen Fuhrparks unter enormem Druck. Kraftstoffkosten steigen, regulatorische Anforderungen werden komplexer und der Umstieg auf emissionsärmere Fahrzeuge nimmt Fahrt auf. Gleichzeitig verwalten noch immer rund 70 % der europäischen Unternehmen ihre Flotten mit Excel-Tabellen, isolierten Tools und Prozessen, die für die heutigen Herausforderungen nie ausgelegt waren. Shiftmove macht genau das einfacher. Wir sind ein profitables B2B-SaaS-Unternehmen und die am schnellsten wachsende Flottenmanagement-Plattform Europas. Entstanden aus dem Zusammenschluss von Avrios und Vimcar, unterstützen wir heute zehntausende Gesch",
-      "posted_at": 1794421223,
-      "tags": [
-        "Sales",
-        "Computer Software",
-        "Remote"
-      ],
-      "experience": "Check listing",
-      "score": 23,
-      "match_reason": "Relevant keywords: role-family match",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Lead Architect & Platform Engineer (m/f/d)",
-      "company": "ANGEHEUERT GmbH",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-lead-architect-platform-engineer-frankfurt-am-main-365204",
-      "description": "Lead Architect & Platform Engineer Are you looking for an architecture role where you do not simply optimize existing structures within a decades old IT environment? As a Lead Architect & Platform Engineer , you will have the opportunity to build key parts of a modern cloud and platform architecture from the ground up while actively shaping standards, integration patterns, and technical guidelines. Apply now and help build the technological foundation for the company’s next stage of development. Your benefits as Lead Architect & Platform Engineer Creative Freedom: Help build modern cloud and platform architectures and influence which technolo",
-      "posted_at": 1794421880,
-      "tags": [
-        "Remote"
-      ],
-      "experience": "Check listing",
-      "score": 23,
-      "match_reason": "Relevant keywords: role-family match",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Lead Architekt & Platform Engineer (m/w/d)",
-      "company": "ANGEHEUERT GmbH",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-lead-architekt-platform-engineer-frankfurt-am-main-4203",
-      "description": "Lead Architekt & Platform Engineer Du suchst eine Architekturrolle, bei der du nicht in einem jahrzehntelang gewachsenen IT Umfeld nur bestehende Strukturen optimierst? Als Lead Architekt & Platform Engineer erhältst du die Möglichkeit, zentrale Teile einer modernen Cloud und Plattformarchitektur neu aufzubauen und dabei Standards, Integrationsmuster und technische Leitplanken selbst mitzugestalten. Bewirb dich jetzt und baue die technologische Grundlage für die nächste Entwicklungsstufe des Unternehmens mit auf. Deine Benefits als Lead Architekt & Platform Engineer Gestaltungsspielraum: Baue moderne Cloud und Plattformarchitekturen mit auf u",
-      "posted_at": 1794421880,
-      "tags": [
-        "Remote"
-      ],
-      "experience": "Check listing",
-      "score": 23,
-      "match_reason": "Relevant keywords: role-family match",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
