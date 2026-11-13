@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-13T10:18:07.610328+00:00",
+  "updated_at": "2026-11-13T18:16:42.185542+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -8,18 +8,54 @@
   ],
   "jobs": [
     {
-      "title": "Senior QA Manager Automation & AI - Fully Remote",
-      "company": "SOFTGAMES",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/softgames/senior-qa-manager-automation-ai-fully-remote-berlin-71172",
-      "description": "We’re looking for a hands-on, AI-driven Senior QA Manager to transform QA across our mobile, web, and instant games portfolio. Your mission is to build an AI-first QA environment, developing and orchestrating AI agents, automating testing workflows, and continuously reducing manual effort while improving quality and release speed. You’ll own QA automation across multiple games and platforms, combining technical execution, smart prioritization, and a strong drive for efficiency. Qualified candidates are expected to complete an assignment. Candidates must be based in the European Union. Your Role: Drive AI-first QA: Introduce AI tools, agents, ",
-      "posted_at": 1794519100,
+      "title": "Werkstudent:in Softwareentwicklung Node.js (m/w/d)",
+      "company": "refundrebel",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/refundrebel/werkstudentin-softwareentwicklung-nodejs-berlin-348304",
+      "description": "Wir sind refundrebel, ein aufstrebendes Mobility-Tech-KMU, das an Bahnreisen als die Zukunft unserer nachhaltigen Mobilität glaubt. Durch digitale Technologien wollen wir nachhaltiges Reisen für Unternehmen und Geschäftsreisende attraktiver machen. Wir unterstützen namhafte Unternehmen wie adesso, KfW oder REWE dabei, ihr Bahnreise-Management zu optimieren, Aufwände zu minimieren, Kosten zu senken und Flug- auf Bahnreisen zu verlagern. Dabei arbeiten wir nicht nur, um Geld zu verdienen. Wir arbeiten, weil wir daran glauben, die (Mobilitäts-) Welt ein Stück besser machen zu können. Wir arbeiten, weil wir Spaß am Miteinander haben. Und weil wir",
+      "posted_at": 1794576668,
       "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "experience": "Check listing",
+      "score": 58,
+      "match_reason": "Relevant keywords: git, sre",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Software Test Engineer",
+      "company": "SwissPeak Partners GmbH",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-98324",
+      "description": "Wir rekrutieren einen Software Test Engineer (m/w/d) für ein neu formiertes Team rund um ein Dynamics 365 Projekt. Das Testing wird von Grund auf neu aufgebaut, du bist also massgeblich an der Definition des Vorgehens beteiligt. Du testest im Sprint mit und verantwortest gleichzeitig die Teststrategie, das Testkonzept und die Testplanung. Du koordinierst die UAT mit dem Fachbereich und bringst Qualitätsstandards in ein Team, das seine Testing-Reife gerade aufbaut. Der Fokus liegt überwiegend auf manuellem Testing, mit der Möglichkeit, später in die Automatisierung hineinzuwachsen. Must-have Anforderungen Mehrjährige Erfahrung im Software-Test",
+      "posted_at": 1794562296,
+      "tags": [
+        "Software Engineering",
         "Remote"
       ],
       "experience": "Check listing",
-      "score": 33,
-      "match_reason": "Relevant keywords: qa, testing",
+      "score": 53,
+      "match_reason": "Relevant keywords: testing",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Account Manager WhatsApp & CRM Marketing (m/w/d)",
+      "company": "chatmarks GmbH",
+      "location": "Gronau",
+      "url": "https://www.arbeitnow.com/jobs/companies/chatmarks-gmbh/account-manager-whatsapp-crm-marketing-gronau-373528",
+      "description": "Über chatmarks Bei uns arbeitest du dort, wo der Markt erst noch hinkommt. Als einer der ersten Anbieter für WhatsApp Marketing im DACH-Raum haben wir den Kanal für Marken wie Jack Wolfskin und Marc O’Polo mitgeprägt. Heute sind wir absolute Experten auf diesem Gebiet. Mit unserem CORE Framework gehen wir den nächsten Schritt und verändern, wie Marken Subscriber für ihr CRM gewinnen. Für dich heißt das: Du lernst Ansätze, die die meisten Agenturen noch gar nicht kennen. Und du arbeitest trotzdem in einem klaren, fokussierten Feld statt in wechselnden Experimenten. Wir sind kein Fließband. Wir betreuen bewusst wenige Kunden, dafür eng und mit ",
+      "posted_at": 1794582106,
+      "tags": [
+        "Remote",
+        "CRM",
+        "Direct Marketing"
+      ],
+      "experience": "Check listing",
+      "score": 48,
+      "match_reason": "Relevant keywords: role-family match",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
@@ -40,6 +76,23 @@
       "remote": true
     },
     {
+      "title": "Senior Cloud Engineer",
+      "company": "Luscii",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.nl/jobs/companies/luscii/remote-senior-cloud-engineer-utrecht-183144",
+      "description": "At Luscii, we're creating space for care by developing and improving digital healthcare applications that make a real difference in people's lives through several applications. From Luscii Thuismeten, which helps healthcare professionals monitor patients remotely, to OMRON Connect, connecting millions of people with their health data through OMRON devices, and other applications that expand the possibilities of digital healthcare. Together with healthcare professionals and partners around the world, we're working towards a future where people receive the right care in the right place. As our Senior Cloud Engineer, you'll help shape and modern",
+      "posted_at": 1794562293,
+      "tags": [
+        "Software Development",
+        "Remote"
+      ],
+      "experience": "Check listing",
+      "score": 28,
+      "match_reason": "Relevant keywords: git",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
       "title": "Senior Back-end Developer",
       "company": "Lemon.io",
       "location": "Europe, USA, Canada, Australia, Singapore, Mexico, Saudi Arabia",
@@ -54,38 +107,6 @@
       "match_reason": "Relevant keywords: role-family match",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
-    },
-    {
-      "title": "Senior/Staff Platform Engineer - Rust (d/f/m)",
-      "company": "Luminovo GmbH",
-      "location": "🇪🇺 Germany (remote)",
-      "url": "https://www.arbeitnow.com/jobs/companies/luminovo-gmbh/remote-senior-staff-platform-engineer-rust-228633",
-      "description": "🤓 About Luminovo At Luminovo , we’re building the infrastructure that turns the electronics supply chain into something software can read and act on. Our customers use it to quote PCBAs faster, find cost savings and act on risks in their supply chain. We serve 300+ customers, from Europe’s largest EMS to category-leading OEMs, with around 100 Luminerds across Munich, Berlin, New York and Austin. We’re backed by Chalfen Ventures, Cherry Ventures and General Catalyst. With data centers and robotics driving demand for electronics, someone needs to manage that supply chain, and they’ll need good software to do it. ( Here’s why we care so much abo",
-      "posted_at": 1794530410,
-      "tags": [
-        "Engineering"
-      ],
-      "experience": "Check listing",
-      "score": 15,
-      "match_reason": "Relevant keywords: role-family match",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": false
-    },
-    {
-      "title": "Senior/Staff Platform Engineer - Rust (d/f/m)",
-      "company": "Luminovo GmbH",
-      "location": "🇪🇺 Germany (remote)",
-      "url": "https://www.arbeitnow.com/jobs/companies/luminovo-gmbh/remote-senior-staff-platform-engineer-rust-426496",
-      "description": "🤓 About Luminovo At Luminovo , we’re building the infrastructure that turns the electronics supply chain into something software can read and act on. Our customers use it to quote PCBAs faster, find cost savings and act on risks in their supply chain. We serve 300+ customers, from Europe’s largest EMS to category-leading OEMs, with around 100 Luminerds across Munich, Berlin, New York and Austin. We’re backed by Chalfen Ventures, Cherry Ventures and General Catalyst. With data centers and robotics driving demand for electronics, someone needs to manage that supply chain, and they’ll need good software to do it. ( Here’s why we care so much abo",
-      "posted_at": 1794530410,
-      "tags": [
-        "Engineering"
-      ],
-      "experience": "Check listing",
-      "score": 15,
-      "match_reason": "Relevant keywords: role-family match",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": false
     }
   ],
   "note": "Availability is not guaranteed; confirm each opening on its source page."
