@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-14T00:01:46.172589+00:00",
+  "updated_at": "2026-11-14T07:09:52.980924+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -8,19 +8,19 @@
   ],
   "jobs": [
     {
-      "title": "Account Manager | Legal Tech | SaaS (x/w/m) - Remote",
-      "company": "Hopkins Rechtsanwaltsgesellschaft mbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/hopkins-rechtsanwaltsgesellschaft-mbh/account-manager-legal-tech-saas-remote-berlin-419076",
-      "description": "Hopkins ist ein 2019 gegründetes Technologieunternehmen, das die Rechtsbranche digitalisiert. Unsere cloudbasierte Kanzleisoftware caseflow vereint KI, Workflow-Automatisierung und durchdachte Mandatssteuerung in einer ganzheitlichen Plattform, entwickelt für den realen Kanzleialltag. Mehr über caseflow erfährst Du auf www.caseflow.de Deine Rolle Als Account Manager begleitest Du unsere Kunden ab dem ersten Kickoff und im laufenden Kanzleialltag. Du sorgst dafür, dass caseflow reibungslos eingeführt wird, Teams sicher damit arbeiten und unsere Kunden langfristig zufrieden bleiben. Aufgaben Mission: Du bist Teil der Mission, die Arbeit von Kan",
-      "posted_at": 1794598241,
+      "title": "HR Manager (m/w/d) – Personalmanagement & HR Operations",
+      "company": "Nature Heart GmbH & Co KG",
+      "location": "Nidderau",
+      "url": "https://www.arbeitnow.com/jobs/companies/nature-heart-gmbh-co-kg/hr-manager-personalmanagement-hr-operations-nidderau-333827",
+      "description": "HR Manager (m/w/d) – Personalmanagement & HR Operations Gemeinsam für natürliche Gesundheit – von Herz zu Herz Bei Nature Heart glauben wir an die Kraft der Natur und daran, dass Qualität bei Nahrungsergänzung keine Kompromisse zulässt. Nature Heart wächst – und wir möchten unseren HR-Bereich gezielt weiter ausbauen und professionalisieren. Dafür suchen wir ab sofort einen HR Manager (m/w/d) – Personalmanagement & HR Operations , der unsere Personalprozesse eigenständig betreut, unsere Mitarbeitenden und Führungskräfte im HR-Alltag unterstützt und unsere internen Strukturen und Abläufe kontinuierlich weiterentwickelt. Deine Aufgaben Arbeitsre",
+      "posted_at": 1794616238,
       "tags": [
         "Remote",
-        "Customer Service"
+        "Personnel Specialist"
       ],
-      "experience": "Check listing",
-      "score": 53,
-      "match_reason": "Relevant keywords: git",
+      "experience": "Early career mentioned",
+      "score": 65,
+      "match_reason": "Relevant keywords: sre",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
