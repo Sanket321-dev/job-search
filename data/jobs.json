@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-14T19:34:28.362526+00:00",
+  "updated_at": "2026-11-14T23:29:09.479038+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -8,19 +8,34 @@
   ],
   "jobs": [
     {
-      "title": "SAP Finance (FI/CO) Migration Architect (m/w/d)",
-      "company": "Natuvion GmbH",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-sap-finance-fi-co-migration-architect-berlin-208083",
-      "description": "Möchtest du die Zukunft unserer Kunden aktiv mitgestalten und dabei sowohl fachlich als auch technisch Verantwortung übernehmen? Dann bist du bei uns genau richtig! Wir suchen einen Migration Architect SAP FI/CO (m/w/d) der unsere nationalen und internationalen Kunden in anspruchsvollen Transformations- und Datenmigrationsprojekten begleitet. Dich erwartet ein dynamisches Team, abwechslungsreiche Projekte und maximaler Gestaltungsspielraum. Deine Aufgaben: Eigenverantwortliche Umsetzung von SAP Transformations und Datenmigrationsprojekten im SAP Finance Umfeld – von der Analyse über die Konzeption bis zur technischen Realisierung im SAP-Syste",
-      "posted_at": 1794637891,
+      "title": "Account Executive - Mid Market (Evergreen)",
+      "company": "Karbon",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/karbon/remote-account-executive-mid-market-evergreen-352662",
+      "description": "<div class=\"content-intro\"><p><strong>About Karbon</strong></p> <p style=\"text-align: left;\">Karbon is the global leader in AI-powered practice management software for accounting firms. We provide an award-winning cloud platform that helps tens of thousands of accounting professionals work more efficiently and collaboratively every day. With customers in 40 countries, we have grown into a globally distributed team across the US, Australia, New Zealand, Canada, the United Kingdom, and the Philippines. We are well-funded, ranked #1 on G2, growing rapidly, and have a people-first culture that is recognized with Great Place To Work® certification",
+      "posted_at": 1794693314,
       "tags": [
-        "Technical Migration",
-        "Remote"
+        "Sales"
       ],
-      "experience": "Early career mentioned",
-      "score": 65,
-      "match_reason": "Relevant keywords: sre",
+      "experience": "Check listing",
+      "score": 48,
+      "match_reason": "Relevant keywords: role-family match",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Account Executive, SMB",
+      "company": "Karbon",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/karbon/remote-account-executive-smb-374470",
+      "description": "<div class=\"content-intro\"><p><strong>About Karbon</strong></p> <p style=\"text-align: left;\">Karbon is the global leader in AI-powered practice management software for accounting firms. We provide an award-winning cloud platform that helps tens of thousands of accounting professionals work more efficiently and collaboratively every day. With customers in 40 countries, we have grown into a globally distributed team across the US, Australia, New Zealand, Canada, the United Kingdom, and the Philippines. We are well-funded, ranked #1 on G2, growing rapidly, and have a people-first culture that is recognized with Great Place To Work® certification",
+      "posted_at": 1794693314,
+      "tags": [
+        "Sales"
+      ],
+      "experience": "Check listing",
+      "score": 48,
+      "match_reason": "Relevant keywords: role-family match",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
@@ -38,6 +53,23 @@
       "experience": "Early career mentioned",
       "score": 35,
       "match_reason": "Relevant keywords: role-family match",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Senior Site Reliability Engineer (SRE) m/f/x",
+      "company": "Makersite GmbH",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-site-reliability-engineer-sre-berlin-312709",
+      "description": "Location: Germany/Berlin/Stuttgart (Remote) Who You’ll Work For : At Makersite, we're pioneering the future of sustainable product development and digital collaboration. As a leading platform for product lifecycle management (PLM), we empower companies to make smarter, more sustainable decisions across their entire supply chain. Our cutting-edge software enables teams to design, prototype, and manufacture with transparency, efficiency, and responsibility—reducing environmental impact while optimizing performance. We're a fast-growing, innovative company that thrives on creativity, collaboration, and continuous learning. If you're passionate a",
+      "posted_at": 1794691891,
+      "tags": [
+        "Technology",
+        "Remote"
+      ],
+      "experience": "Check listing",
+      "score": 33,
+      "match_reason": "Relevant keywords: git, sre",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
