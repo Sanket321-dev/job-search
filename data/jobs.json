@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-14T14:37:12.675880+00:00",
+  "updated_at": "2026-11-14T19:34:28.362526+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -56,22 +56,6 @@
       "match_reason": "Relevant keywords: aws",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
-    },
-    {
-      "title": "Senior Software Engineer (AppSec)",
-      "company": "Triggerdev",
-      "location": "Remote or Hybrid UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/triggerdev/remote-senior-software-engineer-appsec-175070",
-      "description": "About us Trigger.dev is the platform for running reliable AI agents and workflows. Developers use it to build, deploy, and scale production systems with built-in tools for orchestration, scheduling, monitoring, and debugging. Our Cloud product is a managed service where we deploy our users’ code and auto-scale from zero to millions of executions. Today, we serve thousands of teams building AI apps and agents, handling hundreds of millions of executions per month. About the role You’ll own security at Trigger.dev: our infrastructure, our app, the runtime that runs our users’ code, and the secrets they trust us with. Some of our customers let t",
-      "posted_at": 1794649222,
-      "tags": [
-        "Engineering"
-      ],
-      "experience": "Check listing",
-      "score": 23,
-      "match_reason": "Relevant keywords: role-family match",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": false
     },
     {
       "title": "Senior Back-end Developer",
