@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-13T18:16:42.185542+00:00",
+  "updated_at": "2026-11-14T00:01:46.172589+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -8,19 +8,19 @@
   ],
   "jobs": [
     {
-      "title": "Werkstudent:in Softwareentwicklung Node.js (m/w/d)",
-      "company": "refundrebel",
+      "title": "Account Manager | Legal Tech | SaaS (x/w/m) - Remote",
+      "company": "Hopkins Rechtsanwaltsgesellschaft mbH",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/refundrebel/werkstudentin-softwareentwicklung-nodejs-berlin-348304",
-      "description": "Wir sind refundrebel, ein aufstrebendes Mobility-Tech-KMU, das an Bahnreisen als die Zukunft unserer nachhaltigen Mobilität glaubt. Durch digitale Technologien wollen wir nachhaltiges Reisen für Unternehmen und Geschäftsreisende attraktiver machen. Wir unterstützen namhafte Unternehmen wie adesso, KfW oder REWE dabei, ihr Bahnreise-Management zu optimieren, Aufwände zu minimieren, Kosten zu senken und Flug- auf Bahnreisen zu verlagern. Dabei arbeiten wir nicht nur, um Geld zu verdienen. Wir arbeiten, weil wir daran glauben, die (Mobilitäts-) Welt ein Stück besser machen zu können. Wir arbeiten, weil wir Spaß am Miteinander haben. Und weil wir",
-      "posted_at": 1794576668,
+      "url": "https://www.arbeitnow.com/jobs/companies/hopkins-rechtsanwaltsgesellschaft-mbh/account-manager-legal-tech-saas-remote-berlin-419076",
+      "description": "Hopkins ist ein 2019 gegründetes Technologieunternehmen, das die Rechtsbranche digitalisiert. Unsere cloudbasierte Kanzleisoftware caseflow vereint KI, Workflow-Automatisierung und durchdachte Mandatssteuerung in einer ganzheitlichen Plattform, entwickelt für den realen Kanzleialltag. Mehr über caseflow erfährst Du auf www.caseflow.de Deine Rolle Als Account Manager begleitest Du unsere Kunden ab dem ersten Kickoff und im laufenden Kanzleialltag. Du sorgst dafür, dass caseflow reibungslos eingeführt wird, Teams sicher damit arbeiten und unsere Kunden langfristig zufrieden bleiben. Aufgaben Mission: Du bist Teil der Mission, die Arbeit von Kan",
+      "posted_at": 1794598241,
       "tags": [
         "Remote",
-        "Software Development"
+        "Customer Service"
       ],
       "experience": "Check listing",
-      "score": 58,
-      "match_reason": "Relevant keywords: git, sre",
+      "score": 53,
+      "match_reason": "Relevant keywords: git",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
@@ -38,24 +38,6 @@
       "experience": "Check listing",
       "score": 53,
       "match_reason": "Relevant keywords: testing",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Account Manager WhatsApp & CRM Marketing (m/w/d)",
-      "company": "chatmarks GmbH",
-      "location": "Gronau",
-      "url": "https://www.arbeitnow.com/jobs/companies/chatmarks-gmbh/account-manager-whatsapp-crm-marketing-gronau-373528",
-      "description": "Über chatmarks Bei uns arbeitest du dort, wo der Markt erst noch hinkommt. Als einer der ersten Anbieter für WhatsApp Marketing im DACH-Raum haben wir den Kanal für Marken wie Jack Wolfskin und Marc O’Polo mitgeprägt. Heute sind wir absolute Experten auf diesem Gebiet. Mit unserem CORE Framework gehen wir den nächsten Schritt und verändern, wie Marken Subscriber für ihr CRM gewinnen. Für dich heißt das: Du lernst Ansätze, die die meisten Agenturen noch gar nicht kennen. Und du arbeitest trotzdem in einem klaren, fokussierten Feld statt in wechselnden Experimenten. Wir sind kein Fließband. Wir betreuen bewusst wenige Kunden, dafür eng und mit ",
-      "posted_at": 1794582106,
-      "tags": [
-        "Remote",
-        "CRM",
-        "Direct Marketing"
-      ],
-      "experience": "Check listing",
-      "score": 48,
-      "match_reason": "Relevant keywords: role-family match",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
