@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-15T03:42:39.809664+00:00",
+  "updated_at": "2026-11-15T11:37:42.803547+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -8,34 +8,35 @@
   ],
   "jobs": [
     {
-      "title": "Account Executive - Mid Market (Evergreen)",
-      "company": "Karbon",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/karbon/remote-account-executive-mid-market-evergreen-352662",
-      "description": "<div class=\"content-intro\"><p><strong>About Karbon</strong></p> <p style=\"text-align: left;\">Karbon is the global leader in AI-powered practice management software for accounting firms. We provide an award-winning cloud platform that helps tens of thousands of accounting professionals work more efficiently and collaboratively every day. With customers in 40 countries, we have grown into a globally distributed team across the US, Australia, New Zealand, Canada, the United Kingdom, and the Philippines. We are well-funded, ranked #1 on G2, growing rapidly, and have a people-first culture that is recognized with Great Place To Work® certification",
-      "posted_at": 1794693314,
+      "title": "Platform Engineer",
+      "company": "Finmid.com",
+      "location": "Berlin / Greece / Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/finmidcom/remote-platform-engineer-34275",
+      "description": "About finmid At finmid, we’re building infrastructure that integrates access to capital for SMEs directly into the platforms they use daily. We leverage technology, data, and strategic partnerships to deliver financing solutions that significantly outperform traditional financial services - offering SMEs faster, simpler, and more transparent access to funding. As we expand across Europe, our Latvian subsidiary, licensed as a European Crowdfunding Service Provider by the Bank of Latvia, plays a critical role. Our stack combines regulated financial infrastructure with modern software engineering. The gap between those two things is exactly wher",
+      "posted_at": 1794735617,
       "tags": [
-        "Sales"
+        "Engineering"
       ],
       "experience": "Check listing",
-      "score": 48,
+      "score": 40,
       "match_reason": "Relevant keywords: role-family match",
       "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
+      "remote": false
     },
     {
-      "title": "Account Executive, SMB",
-      "company": "Karbon",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/karbon/remote-account-executive-smb-374470",
-      "description": "<div class=\"content-intro\"><p><strong>About Karbon</strong></p> <p style=\"text-align: left;\">Karbon is the global leader in AI-powered practice management software for accounting firms. We provide an award-winning cloud platform that helps tens of thousands of accounting professionals work more efficiently and collaboratively every day. With customers in 40 countries, we have grown into a globally distributed team across the US, Australia, New Zealand, Canada, the United Kingdom, and the Philippines. We are well-funded, ranked #1 on G2, growing rapidly, and have a people-first culture that is recognized with Great Place To Work® certification",
-      "posted_at": 1794693314,
+      "title": "Senior Data Engineer & Consultant (all genders) – Microsoft Fabric",
+      "company": "teccle group GmbH",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/teccle-group-gmbh/remote-senior-data-engineer-consultant-all-genders-microsoft-fabric-berlin-222668",
+      "description": "Mit über 650 Kolleg:innen an 19 Standorten in ganz Deutschland gestalten wir bei teccle die Zukunft der IT. Seit 2020 bringen wir starke IT-Unternehmen mit unterschiedlichsten Schwerpunkten unter einem Dach zusammen - und entwickeln uns so zu einem der führenden IT-Dienstleister im Land. Unser Ziel: IT-Lösungen schaffen, die wirklich weiterhelfen - verständlich, flexibel und zukunftsfähig. Für unsere Kund:innen und gemeinsam mit einem Team, das Technik genauso liebt wie neue Ideen. Als Teil der teccle group steht die teccle wave für ganzheitliche Cloud-Lösungen und digitale Transformation im deutschen Mittelstand. Zur Verstärkung unseres eige",
+      "posted_at": 1794713473,
       "tags": [
-        "Sales"
+        "Professional",
+        "Remote"
       ],
       "experience": "Check listing",
-      "score": 48,
-      "match_reason": "Relevant keywords: role-family match",
+      "score": 33,
+      "match_reason": "Relevant keywords: git, rhel",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
