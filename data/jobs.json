@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-14T23:29:09.479038+00:00",
+  "updated_at": "2026-11-15T03:42:39.809664+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -35,23 +35,6 @@
       ],
       "experience": "Check listing",
       "score": 48,
-      "match_reason": "Relevant keywords: role-family match",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Team Lead SAP ABAP Development – Data Migration (m/w/d)",
-      "company": "Natuvion GmbH",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-team-lead-sap-abap-development-data-migration-berlin-98262",
-      "description": "Du findest ABAP-Entwicklungen und technische Beratung im SAP-Umfeld spannend, bist spezialisiert an Themen der Datenmigration und bringst erste Führungserfahrung und Leidenschaft für die Entwicklung deiner Mitarbeitenden mit? Du hast Lust in agilen und internationalen Teams Lösungen für komplexe technische Themen zu erarbeiten, möchtest noch technisch hands-on arbeiten, aber gleichzeitig auch deine Führungsstärke entwickeln? Dann suchen wir Dich zur Erweiterung unseres Transformation Teams als Team Lead SAP ABAP Development – Data Migration (m/w/d) – bundesweit. Deine Aufgaben: Du übernimmst die Projekt- und Budgetverantwortung für technische",
-      "posted_at": 1794637891,
-      "tags": [
-        "Technical Migration",
-        "Remote"
-      ],
-      "experience": "Early career mentioned",
-      "score": 35,
       "match_reason": "Relevant keywords: role-family match",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
