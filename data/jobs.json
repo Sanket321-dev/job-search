@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-15T23:14:39.059464+00:00",
+  "updated_at": "2026-11-16T12:13:02.408034+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -8,69 +8,70 @@
   ],
   "jobs": [
     {
-      "title": "Google Ads Media Buyer (m/w/d) | 100 % Remote | Hohes Fixgehalt + Provision",
-      "company": "Just Hiring",
+      "title": "Hardware-Entwickler / Elektronikentwickler (m/w/d)",
+      "company": "Hypertrics GmbH",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/hypertrics-gmbh/remote-hardware-entwickler-elektronikentwickler-berlin-374450",
+      "description": "Hardware-Entwickler / Elektronikentwickler (m/w/d) Standort: Berlin | Vollzeit | Unbefristet Für unseren Mandanten, ein seit über 80 Jahren international führendes, familiengeführtes Unternehmen im Bereich elektronischer Mess- und Regelungstechnik – mit einem klaren Fokus auf Innovation, Präzision und technologische Spitzenleistung – suchen wir im exklusiven Auftrag zum nächstmöglichen Zeitpunkt einen Hardware-Entwickler (m/w/d) . Das Unternehmen bietet Ihnen eine technisch anspruchsvolle Entwicklerposition mit echter Produktverantwortung – von der ersten Idee bis zur Fertigungsreife – in einem kollegialen Team, das Qualität und Innovationsge",
+      "posted_at": 1794810681,
+      "tags": [
+        "Remote"
+      ],
+      "experience": "Early career mentioned",
+      "score": 65,
+      "match_reason": "Relevant keywords: sre",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "AI Solution Architect (m/w/d)",
+      "company": "virtual7 GmbH",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-266424",
+      "description": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, die mit ihren Ideen, ihrem Können und Engagement etwas bewegen wollen. Fühlst du dich angesprochen? Dann gestalte Deine Welt zum Besseren und werde Teil unseres Customer Cluster Environment, Transportation & Energy. DEINE MISSION Als AI Solution Architect (m/w/d) gestaltest Du die KI-/ML-Gesamtarchitektur für komplexe Enterprise-Umgebungen in der Cloud mit Schwerpunkt Microsoft Azure. Du",
+      "posted_at": 1794810682,
+      "tags": [
+        "Customer Cluster Environment",
+        "Transportation & Energy",
+        "Remote"
+      ],
+      "experience": "Check listing",
+      "score": 58,
+      "match_reason": "Relevant keywords: azure, git",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Cloud Engineer (m/w/d) mit Karriereambitionen!",
+      "company": "Auralis Group",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/just-hiring/google-ads-media-buyer-100-remote-hohes-fixgehalt-provision-berlin-113291",
-      "description": "Du skalierst Google-Kampagnen, aber vom Ergebnis siehst du selbst nichts auf deinem Konto? Und statt einen Account wirklich groß zu machen, verwaltest du nebenbei noch acht andere? Dann ist das hier interessant für dich. Für eine der erfolgreichsten Supplement-Brands aus den USA suchen wir einen absoluten A-Player als Google Ads Media Buyer. Du kümmerst dich um eine Brand, verantwortest den Google-Kanal und verdienst über eine Provision an deiner Performance mit. Du kannst aus den USA oder aus Europa arbeiten. Deine Aufgaben Die Kampagnenstrategie für Google entwickeln Search-Kampagnen im Tagesgeschäft führen Performance Max steuern Budgets u",
-      "posted_at": 1794749453,
+      "url": "https://www.arbeitnow.com/jobs/companies/auralis-group/cloud-engineer-mit-karriereambitionen-berlin-158278",
+      "description": "Wir sind ein fast zwei Jahre altes IT Unternehmen, aktuell 90 MA, und suchen nun weiterhin Verstärkung, um Cloud-Projekte bei unseren Kunden durchzuführen. Aufgaben Du willst: Deine Arbeitszeiten selbst bestimmen? von zuhause aus arbeiten (remote)? den nächsten Schritt in Deiner Karriere gehen und lernen, wie man Teams leitet und ein Unternehmen führt? einen Arbeitgeber, der Dich leistungs- und ergebnisorientiert bezahlt? Qualifikation Du: bist seit 5 Jahren in Vollzeit berufstätig im Bereich Softwareentwicklung/DevOps und hast große Teile Deiner Erfahrung in Cloud-Infrastrukturen und Deployment-Prozessen gesammelt? bringst Erfahrung in einem",
+      "posted_at": 1794814241,
       "tags": [
         "Remote",
-        "Online Marketing"
+        "System and Network Administration"
+      ],
+      "experience": "Check listing",
+      "score": 58,
+      "match_reason": "Relevant keywords: network, devops",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Product Engineer KI-first (m/w/d) - Full Stack, 100 % remote",
+      "company": "Fundloop",
+      "location": "Düsseldorf",
+      "url": "https://www.arbeitnow.com/jobs/companies/fundloop/product-engineer-ki-first-full-stack-100-remote-dusseldorf-320845",
+      "description": "In unserem Portal bereiten mittelständische Unternehmen ihren Antrag bei der Bescheinigungsstelle Forschungszulage vor. Sie erfassen dort Projektzeiten und Kosten, laden ihre Unterlagen hoch und arbeiten mit unseren Beratern aus ihrer Entwicklungsarbeit ein förderfähiges Vorhaben heraus. Das Portal läuft, Mandanten arbeiten damit, und es hat noch viel vor sich. Dafür suchen wir die Person, die es verantwortet. Sie haben schon einmal eine produktive Anwendung weitgehend allein getragen und wollen das wieder tun. Sie entscheiden mit, was als Nächstes entsteht, und Sie bauen es: Funktionen, Antragsprozess, Oberfläche, Server und Sicherheitsarchi",
+      "posted_at": 1794825052,
+      "tags": [
+        "Remote",
+        "Software Development"
       ],
       "experience": "Check listing",
       "score": 48,
       "match_reason": "Relevant keywords: role-family match",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Platform Engineer",
-      "company": "Finmid.com",
-      "location": "Berlin / Greece / Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/finmidcom/remote-platform-engineer-34275",
-      "description": "About finmid At finmid, we’re building infrastructure that integrates access to capital for SMEs directly into the platforms they use daily. We leverage technology, data, and strategic partnerships to deliver financing solutions that significantly outperform traditional financial services - offering SMEs faster, simpler, and more transparent access to funding. As we expand across Europe, our Latvian subsidiary, licensed as a European Crowdfunding Service Provider by the Bank of Latvia, plays a critical role. Our stack combines regulated financial infrastructure with modern software engineering. The gap between those two things is exactly wher",
-      "posted_at": 1794735617,
-      "tags": [
-        "Engineering"
-      ],
-      "experience": "Check listing",
-      "score": 40,
-      "match_reason": "Relevant keywords: role-family match",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": false
-    },
-    {
-      "title": "Senior Data Engineer & Consultant (all genders) – Microsoft Fabric",
-      "company": "teccle group GmbH",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/teccle-group-gmbh/remote-senior-data-engineer-consultant-all-genders-microsoft-fabric-berlin-222668",
-      "description": "Mit über 650 Kolleg:innen an 19 Standorten in ganz Deutschland gestalten wir bei teccle die Zukunft der IT. Seit 2020 bringen wir starke IT-Unternehmen mit unterschiedlichsten Schwerpunkten unter einem Dach zusammen - und entwickeln uns so zu einem der führenden IT-Dienstleister im Land. Unser Ziel: IT-Lösungen schaffen, die wirklich weiterhelfen - verständlich, flexibel und zukunftsfähig. Für unsere Kund:innen und gemeinsam mit einem Team, das Technik genauso liebt wie neue Ideen. Als Teil der teccle group steht die teccle wave für ganzheitliche Cloud-Lösungen und digitale Transformation im deutschen Mittelstand. Zur Verstärkung unseres eige",
-      "posted_at": 1794713473,
-      "tags": [
-        "Professional",
-        "Remote"
-      ],
-      "experience": "Check listing",
-      "score": 33,
-      "match_reason": "Relevant keywords: git, rhel",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Senior Site Reliability Engineer (SRE) m/f/x",
-      "company": "Makersite GmbH",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-site-reliability-engineer-sre-berlin-312709",
-      "description": "Location: Germany/Berlin/Stuttgart (Remote) Who You’ll Work For : At Makersite, we're pioneering the future of sustainable product development and digital collaboration. As a leading platform for product lifecycle management (PLM), we empower companies to make smarter, more sustainable decisions across their entire supply chain. Our cutting-edge software enables teams to design, prototype, and manufacture with transparency, efficiency, and responsibility—reducing environmental impact while optimizing performance. We're a fast-growing, innovative company that thrives on creativity, collaboration, and continuous learning. If you're passionate a",
-      "posted_at": 1794691891,
-      "tags": [
-        "Technology",
-        "Remote"
-      ],
-      "experience": "Check listing",
-      "score": 33,
-      "match_reason": "Relevant keywords: git, sre",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
@@ -91,14 +92,49 @@
       "remote": true
     },
     {
-      "title": "Senior Infrastructure Solutions Engineer",
-      "company": "planetlabs",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/planetlabs/remote-senior-infrastructure-solutions-engineer-316487",
-      "description": "<div class=\"content-intro\"><p><strong>Welcome to Planet. We believe in using space to help life on Earth.</strong></p> <p>Planet designs, builds, and operates the largest constellation of imaging satellites in history. This constellation delivers an unprecedented dataset of empirical information via a revolutionary cloud-based platform to authoritative figures in commercial, environmental, and humanitarian sectors. We are both a space company and data company all rolled into one.</p> <p>Customers and users across the globe use Planet's data to develop new technologies, drive revenue, power research, and solve our world’s toughest obstacles.</",
-      "posted_at": 1794779728,
+      "title": "Senior Network Engineer (m/w/d)",
+      "company": "virtual7 GmbH",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-network-engineer-bonn-492989",
+      "description": "Bei virtual7 verbinden wir unsere technologische Expertise mit einem tiefen Verständnis für die Bedürfnisse unserer Kunden. Durch maßgeschneiderte Lösungen schaffen wir einen echten Mehrwert für unsere Rahmenvertragspartner in der öffentlichen Verwaltung. Aktuell suchen wir für einen unserer Kunden einen Senior Network Engineer (m/w/d). Projektstandort: Bonn Zeitraum: 7. Dezember 2026 bis 30. Juni 2027 Arbeitsmix: 105 Tage Remote/ 20 Tage vor Ort (davon1-2 Tage Ausland) Wichtig: Remote Einsätze nur im Bundesgebiet möglich Prüfung: SÜ2 nach § 9 SÜG Geheim/Sabotageschutz DEINE MISSION Die Aufgaben im Detail: Unterstützung der Cloud für eine Ber",
+      "posted_at": 1794810682,
       "tags": [
-        "Infrastructure and Operations"
+        "Customer Cluster Defense & Public Security",
+        "Remote"
+      ],
+      "experience": "Check listing",
+      "score": 28,
+      "match_reason": "Relevant keywords: network",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Senior Oracle Data Engineer (m/w/d)",
+      "company": "virtual7 GmbH",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-oracle-data-engineer-karlsruhe-137868",
+      "description": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, die mit ihren Ideen, ihrem Können und Engagement etwas bewegen wollen. Fühlst du dich angesprochen? Dann gestalte Deine Welt zum Besseren und werde Teil unseres Customer Clusters Finance. DEINE MISSION Als Senior Oracle Data Engineer (m/w/d) übernimmst du fachliche Verantwortung für anspruchsvolle Datenbanklösungen und gestaltest performante, sichere Anwendungen auf Basis von Oracle-Tech",
+      "posted_at": 1794810682,
+      "tags": [
+        "Customer Cluster Finance",
+        "Remote"
+      ],
+      "experience": "Check listing",
+      "score": 28,
+      "match_reason": "Relevant keywords: git",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Senior Cloud Software Engineer (m/w/d)",
+      "company": "virtual7 GmbH",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-cloud-software-engineer-bonn-405530",
+      "description": "Bei virtual7 verbinden wir unsere technologische Expertise mit einem tiefen Verständnis für die Bedürfnisse unserer Kunden. Durch maßgeschneiderte Lösungen schaffen wir einen echten Mehrwert für unsere Rahmenvertragspartner in der öffentlichen Verwaltung. Aktuell suchen wir für einen unserer Kunden einen Senior Cloud Software Engineer (m/w/d). Projektstandort: Bonn/Nürnberg/Frankfurt Zeitraum: 7. Dezember 2026 bis 30. Juni 2026 Arbeitsmix: 105 Tage Remote/ 20 Tage vor Ort Wichtig: Remote Einsätze nur im Bundesgebiet möglich Prüfung: SÜ2 nach § 9 SÜG Geheim/Sabotageschutz DEINE MISSION Die Aufgaben im Detail: Applikationen auf die ODC Cloud üb",
+      "posted_at": 1794810682,
+      "tags": [
+        "Customer Cluster Defense & Public Security",
+        "Remote"
       ],
       "experience": "Check listing",
       "score": 23,
