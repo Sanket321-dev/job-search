@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-16T12:13:02.408034+00:00",
+  "updated_at": "2026-11-16T22:37:24.350909+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -8,66 +8,32 @@
   ],
   "jobs": [
     {
-      "title": "Hardware-Entwickler / Elektronikentwickler (m/w/d)",
-      "company": "Hypertrics GmbH",
+      "title": "Freelancer - Group Fitness Instructor (m/w/d)",
+      "company": "PureGym AG",
       "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/hypertrics-gmbh/remote-hardware-entwickler-elektronikentwickler-berlin-374450",
-      "description": "Hardware-Entwickler / Elektronikentwickler (m/w/d) Standort: Berlin | Vollzeit | Unbefristet Für unseren Mandanten, ein seit über 80 Jahren international führendes, familiengeführtes Unternehmen im Bereich elektronischer Mess- und Regelungstechnik – mit einem klaren Fokus auf Innovation, Präzision und technologische Spitzenleistung – suchen wir im exklusiven Auftrag zum nächstmöglichen Zeitpunkt einen Hardware-Entwickler (m/w/d) . Das Unternehmen bietet Ihnen eine technisch anspruchsvolle Entwicklerposition mit echter Produktverantwortung – von der ersten Idee bis zur Fertigungsreife – in einem kollegialen Team, das Qualität und Innovationsge",
-      "posted_at": 1794810681,
+      "url": "https://www.arbeitnow.ch/jobs/companies/puregym-ag/remote-freelancer-group-fitness-instructor-bachenbulach-265361",
+      "description": "Als Mitglied der internationalen PureGym Gruppe mit mehr als 2 Millionen Mitgliedern gehören wir zu den drei größten Fitnessketten in Europa und sind damit bestens aufgestellt, um unsere ehrgeizigen Ziele weiter zu verfolgen und zu realisieren. So können wir in Zukunft einen noch grösseren und wichtigeren Beitrag zur Fitness und Gesundheit der Schweizer Bevölkerung leisten. Für unser motiviertes Group Fitness Team suchen wir ab sofort eine leidenschaftliche und sportbegeisterte Person als Group Fitness Instructor (m/w/d) auf Freelancer Basis für unseren Club in Bachenbülach unter anderem für die folgenden Kurse: LesMills BODYPUMP, M.A.X., RID",
+      "posted_at": 1794843079,
       "tags": [
+        "Live Group Fitness",
         "Remote"
       ],
       "experience": "Early career mentioned",
-      "score": 65,
-      "match_reason": "Relevant keywords: sre",
+      "score": 60,
+      "match_reason": "Relevant keywords: role-family match",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
     {
-      "title": "AI Solution Architect (m/w/d)",
-      "company": "virtual7 GmbH",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-266424",
-      "description": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, die mit ihren Ideen, ihrem Können und Engagement etwas bewegen wollen. Fühlst du dich angesprochen? Dann gestalte Deine Welt zum Besseren und werde Teil unseres Customer Cluster Environment, Transportation & Energy. DEINE MISSION Als AI Solution Architect (m/w/d) gestaltest Du die KI-/ML-Gesamtarchitektur für komplexe Enterprise-Umgebungen in der Cloud mit Schwerpunkt Microsoft Azure. Du",
-      "posted_at": 1794810682,
-      "tags": [
-        "Customer Cluster Environment",
-        "Transportation & Energy",
-        "Remote"
-      ],
-      "experience": "Check listing",
-      "score": 58,
-      "match_reason": "Relevant keywords: azure, git",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Cloud Engineer (m/w/d) mit Karriereambitionen!",
-      "company": "Auralis Group",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/auralis-group/cloud-engineer-mit-karriereambitionen-berlin-158278",
-      "description": "Wir sind ein fast zwei Jahre altes IT Unternehmen, aktuell 90 MA, und suchen nun weiterhin Verstärkung, um Cloud-Projekte bei unseren Kunden durchzuführen. Aufgaben Du willst: Deine Arbeitszeiten selbst bestimmen? von zuhause aus arbeiten (remote)? den nächsten Schritt in Deiner Karriere gehen und lernen, wie man Teams leitet und ein Unternehmen führt? einen Arbeitgeber, der Dich leistungs- und ergebnisorientiert bezahlt? Qualifikation Du: bist seit 5 Jahren in Vollzeit berufstätig im Bereich Softwareentwicklung/DevOps und hast große Teile Deiner Erfahrung in Cloud-Infrastrukturen und Deployment-Prozessen gesammelt? bringst Erfahrung in einem",
-      "posted_at": 1794814241,
+      "title": "Attraktiver Nebenjob (auch als Quereinstieg!)",
+      "company": "Allfinanz AG Deutsche Vermögensberatung Christian Schmid",
+      "location": "Nürtingen",
+      "url": "https://www.arbeitnow.com/jobs/companies/allfinanz-ag-deutsche-vermogensberatung-christian-schmid/attraktiver-nebenjob-auch-als-quereinstieg-nurtingen-440714",
+      "description": "Sie möchten zu Ihrem jetzigen Job etwas dazuverdienen? Wir suchen Menschen die bereit sind jede Woche ein paar Stunden Zeit zu investieren und nebenher 300,400 oder 500 Euro im Monat dazuverdienen möchten. Wie soll das gehen? Ganz einfach, indem Du die Vorteile des Finanzcoachings selbst erlebst, weiterempfiehlst und dafür belohnt wirst. Aufgaben Und das mit einer Tätigkeit, die leicht zu erlernen ist, bei der eine freie Zeiteinteilung möglich ist, die sich dadurch bestens mit einem normalen Job verbinden lässt und darüber hinaus auch noch Spaß macht. Ihre Aufgabe? Denkbar einfach. Unterstütze mich als Finanzcoach bei der Kundenberatung indem",
+      "posted_at": 1794861040,
       "tags": [
         "Remote",
-        "System and Network Administration"
-      ],
-      "experience": "Check listing",
-      "score": 58,
-      "match_reason": "Relevant keywords: network, devops",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Product Engineer KI-first (m/w/d) - Full Stack, 100 % remote",
-      "company": "Fundloop",
-      "location": "Düsseldorf",
-      "url": "https://www.arbeitnow.com/jobs/companies/fundloop/product-engineer-ki-first-full-stack-100-remote-dusseldorf-320845",
-      "description": "In unserem Portal bereiten mittelständische Unternehmen ihren Antrag bei der Bescheinigungsstelle Forschungszulage vor. Sie erfassen dort Projektzeiten und Kosten, laden ihre Unterlagen hoch und arbeiten mit unseren Beratern aus ihrer Entwicklungsarbeit ein förderfähiges Vorhaben heraus. Das Portal läuft, Mandanten arbeiten damit, und es hat noch viel vor sich. Dafür suchen wir die Person, die es verantwortet. Sie haben schon einmal eine produktive Anwendung weitgehend allein getragen und wollen das wieder tun. Sie entscheiden mit, was als Nächstes entsteht, und Sie bauen es: Funktionen, Antragsprozess, Oberfläche, Server und Sicherheitsarchi",
-      "posted_at": 1794825052,
-      "tags": [
-        "Remote",
-        "Software Development"
+        "Private Banking"
       ],
       "experience": "Check listing",
       "score": 48,
@@ -88,57 +54,6 @@
       "experience": "Check listing",
       "score": 28,
       "match_reason": "Relevant keywords: aws",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Senior Network Engineer (m/w/d)",
-      "company": "virtual7 GmbH",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-network-engineer-bonn-492989",
-      "description": "Bei virtual7 verbinden wir unsere technologische Expertise mit einem tiefen Verständnis für die Bedürfnisse unserer Kunden. Durch maßgeschneiderte Lösungen schaffen wir einen echten Mehrwert für unsere Rahmenvertragspartner in der öffentlichen Verwaltung. Aktuell suchen wir für einen unserer Kunden einen Senior Network Engineer (m/w/d). Projektstandort: Bonn Zeitraum: 7. Dezember 2026 bis 30. Juni 2027 Arbeitsmix: 105 Tage Remote/ 20 Tage vor Ort (davon1-2 Tage Ausland) Wichtig: Remote Einsätze nur im Bundesgebiet möglich Prüfung: SÜ2 nach § 9 SÜG Geheim/Sabotageschutz DEINE MISSION Die Aufgaben im Detail: Unterstützung der Cloud für eine Ber",
-      "posted_at": 1794810682,
-      "tags": [
-        "Customer Cluster Defense & Public Security",
-        "Remote"
-      ],
-      "experience": "Check listing",
-      "score": 28,
-      "match_reason": "Relevant keywords: network",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Senior Oracle Data Engineer (m/w/d)",
-      "company": "virtual7 GmbH",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-oracle-data-engineer-karlsruhe-137868",
-      "description": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, die mit ihren Ideen, ihrem Können und Engagement etwas bewegen wollen. Fühlst du dich angesprochen? Dann gestalte Deine Welt zum Besseren und werde Teil unseres Customer Clusters Finance. DEINE MISSION Als Senior Oracle Data Engineer (m/w/d) übernimmst du fachliche Verantwortung für anspruchsvolle Datenbanklösungen und gestaltest performante, sichere Anwendungen auf Basis von Oracle-Tech",
-      "posted_at": 1794810682,
-      "tags": [
-        "Customer Cluster Finance",
-        "Remote"
-      ],
-      "experience": "Check listing",
-      "score": 28,
-      "match_reason": "Relevant keywords: git",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Senior Cloud Software Engineer (m/w/d)",
-      "company": "virtual7 GmbH",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-cloud-software-engineer-bonn-405530",
-      "description": "Bei virtual7 verbinden wir unsere technologische Expertise mit einem tiefen Verständnis für die Bedürfnisse unserer Kunden. Durch maßgeschneiderte Lösungen schaffen wir einen echten Mehrwert für unsere Rahmenvertragspartner in der öffentlichen Verwaltung. Aktuell suchen wir für einen unserer Kunden einen Senior Cloud Software Engineer (m/w/d). Projektstandort: Bonn/Nürnberg/Frankfurt Zeitraum: 7. Dezember 2026 bis 30. Juni 2026 Arbeitsmix: 105 Tage Remote/ 20 Tage vor Ort Wichtig: Remote Einsätze nur im Bundesgebiet möglich Prüfung: SÜ2 nach § 9 SÜG Geheim/Sabotageschutz DEINE MISSION Die Aufgaben im Detail: Applikationen auf die ODC Cloud üb",
-      "posted_at": 1794810682,
-      "tags": [
-        "Customer Cluster Defense & Public Security",
-        "Remote"
-      ],
-      "experience": "Check listing",
-      "score": 23,
-      "match_reason": "Relevant keywords: role-family match",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
