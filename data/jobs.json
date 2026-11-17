@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-16T22:37:24.350909+00:00",
+  "updated_at": "2026-11-17T04:51:32.631543+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -40,6 +40,22 @@
       "match_reason": "Relevant keywords: role-family match",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
+    },
+    {
+      "title": "Cloud Security Go To Market Specialist--Wiz/Google Cloud-London",
+      "company": "Tenex",
+      "location": "Remote-United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/tenex/remote-cloud-security-go-to-market-specialist-wiz-google-cloud-london-238946",
+      "description": "Location: London Reports to: VP Alliances EMEA Type: Full-time, quota-carrying About Tenex TENEX is an AI-native, automation-first, built-for-scale Managed Detection and Response (MDR) provider. We are a force multiplier for defenders, helping organizations enhance their cybersecurity posture through advanced threat detection, rapid response, and continuous protection. Our team is composed of industry experts with deep experience in cybersecurity, automation and AI-driven solutions. Backed by leading investors, we are rapidly growing and seeking top talent to join our mission of revolutionizing the AI-Native MDR landscape. We’re a fast growin",
+      "posted_at": 1794887249,
+      "tags": [
+        "EMEA"
+      ],
+      "experience": "Check listing",
+      "score": 48,
+      "match_reason": "Relevant keywords: role-family match",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": false
     },
     {
       "title": "Full-Stack Developer",
