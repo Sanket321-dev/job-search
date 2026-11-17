@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-17T04:51:32.631543+00:00",
+  "updated_at": "2026-11-17T13:57:50.967002+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -8,54 +8,23 @@
   ],
   "jobs": [
     {
-      "title": "Freelancer - Group Fitness Instructor (m/w/d)",
-      "company": "PureGym AG",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.ch/jobs/companies/puregym-ag/remote-freelancer-group-fitness-instructor-bachenbulach-265361",
-      "description": "Als Mitglied der internationalen PureGym Gruppe mit mehr als 2 Millionen Mitgliedern gehören wir zu den drei größten Fitnessketten in Europa und sind damit bestens aufgestellt, um unsere ehrgeizigen Ziele weiter zu verfolgen und zu realisieren. So können wir in Zukunft einen noch grösseren und wichtigeren Beitrag zur Fitness und Gesundheit der Schweizer Bevölkerung leisten. Für unser motiviertes Group Fitness Team suchen wir ab sofort eine leidenschaftliche und sportbegeisterte Person als Group Fitness Instructor (m/w/d) auf Freelancer Basis für unseren Club in Bachenbülach unter anderem für die folgenden Kurse: LesMills BODYPUMP, M.A.X., RID",
-      "posted_at": 1794843079,
+      "title": "German Speaking Technical Support Customer Experts - Work Remote In Greece",
+      "company": "Patrique Mercier Recruitment Fr",
+      "location": "France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/patrique-mercier-recruitment-fr/german-speaking-technical-support-customer-experts-work-remote-in-greece-france-473465",
+      "description": "German Speaking Technical Support Customer Experts About Mercier Consultancy Group Mercier Consultancy Group is a premier international staffing firm, recognized for bridging top-tier talent with world-leading organizations in the customer support services sector. As a leader in European talent acquisition, we pride ourselves on delivering bespoke recruitment solutions that empower professionals to advance their careers on a global scale. Job Overview We are currently seeking dedicated professionals for the German Speaking Technical Support Customer Experts position in Greece, designed for individuals looking to excel within the vibrant custo",
+      "posted_at": 1794914423,
       "tags": [
-        "Live Group Fitness",
+        "Customer Service",
+        "Consumer Electronics",
+        "Greece",
         "Remote"
       ],
       "experience": "Early career mentioned",
-      "score": 60,
-      "match_reason": "Relevant keywords: role-family match",
+      "score": 65,
+      "match_reason": "Relevant keywords: support",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
-    },
-    {
-      "title": "Attraktiver Nebenjob (auch als Quereinstieg!)",
-      "company": "Allfinanz AG Deutsche Vermögensberatung Christian Schmid",
-      "location": "Nürtingen",
-      "url": "https://www.arbeitnow.com/jobs/companies/allfinanz-ag-deutsche-vermogensberatung-christian-schmid/attraktiver-nebenjob-auch-als-quereinstieg-nurtingen-440714",
-      "description": "Sie möchten zu Ihrem jetzigen Job etwas dazuverdienen? Wir suchen Menschen die bereit sind jede Woche ein paar Stunden Zeit zu investieren und nebenher 300,400 oder 500 Euro im Monat dazuverdienen möchten. Wie soll das gehen? Ganz einfach, indem Du die Vorteile des Finanzcoachings selbst erlebst, weiterempfiehlst und dafür belohnt wirst. Aufgaben Und das mit einer Tätigkeit, die leicht zu erlernen ist, bei der eine freie Zeiteinteilung möglich ist, die sich dadurch bestens mit einem normalen Job verbinden lässt und darüber hinaus auch noch Spaß macht. Ihre Aufgabe? Denkbar einfach. Unterstütze mich als Finanzcoach bei der Kundenberatung indem",
-      "posted_at": 1794861040,
-      "tags": [
-        "Remote",
-        "Private Banking"
-      ],
-      "experience": "Check listing",
-      "score": 48,
-      "match_reason": "Relevant keywords: role-family match",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Cloud Security Go To Market Specialist--Wiz/Google Cloud-London",
-      "company": "Tenex",
-      "location": "Remote-United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/tenex/remote-cloud-security-go-to-market-specialist-wiz-google-cloud-london-238946",
-      "description": "Location: London Reports to: VP Alliances EMEA Type: Full-time, quota-carrying About Tenex TENEX is an AI-native, automation-first, built-for-scale Managed Detection and Response (MDR) provider. We are a force multiplier for defenders, helping organizations enhance their cybersecurity posture through advanced threat detection, rapid response, and continuous protection. Our team is composed of industry experts with deep experience in cybersecurity, automation and AI-driven solutions. Backed by leading investors, we are rapidly growing and seeking top talent to join our mission of revolutionizing the AI-Native MDR landscape. We’re a fast growin",
-      "posted_at": 1794887249,
-      "tags": [
-        "EMEA"
-      ],
-      "experience": "Check listing",
-      "score": 48,
-      "match_reason": "Relevant keywords: role-family match",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": false
     },
     {
       "title": "Full-Stack Developer",
