@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-18T03:23:17.447865+00:00",
+  "updated_at": "2026-11-18T12:26:58.265459+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -8,50 +8,35 @@
   ],
   "jobs": [
     {
-      "title": "Hands-on Engineering Manager DevOps (GCP/Kubernetes)",
-      "company": "Miaplaza",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/miaplaza/remote-hands-on-engineering-manager-devops-gcp-kubernetes-302151",
-      "description": "Location : 100% remote (EMEA) Classification : Full-time Pay Range : 82.000€ to 140.000€ - determined by several factors, including location Miaplaza is dedicated to making education engaging and accessible through innovative online learning platforms. We develop personalized learning experiences for students, helping them grow in a supportive and interactive environment. Our vision is to elevate online learning by applying the most successful approaches in virtual education to create an accessible and inclusive education curriculum platform where all students can be successful! As an engineering manager at Miaplaza, your team will build tech",
-      "posted_at": 1794963094,
+      "title": "SRE Platform Manager",
+      "company": "Yubo",
+      "location": "Paris - Full Remote",
+      "url": "https://www.arbeitnow.fr/jobs/companies/yubo/sre-platform-manager-paris-167482",
+      "description": "Who we are Yubo is the instantly social, social app: the leading real-time social discovery platform where you can meet new people for friendship, crushes and community. Our mission is to help young adults find community - whoever they are, wherever they are and whenever they feel social. That's why we’re building a more spontaneous and human social world, one based on interaction, exploration and possibility. We've pioneered a new way for Gen Z to socialize online, and with millions of active users, our goal is to redefine how we connect today and tomorrow. Our team is international, multicultural and deeply committed to its mission. As the ",
+      "posted_at": 1794984014,
       "tags": [
+        "Platform Engineering"
+      ],
+      "experience": "Early career mentioned",
+      "score": 65,
+      "match_reason": "Relevant keywords: sre",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": false
+    },
+    {
+      "title": "Software Test Engineer",
+      "company": "SwissPeak Partners GmbH",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-271000",
+      "description": "Wir rekrutieren einen Software Test Engineer (m/w/d) für ein neu formiertes Team rund um ein Dynamics 365 Projekt. Das Testing wird von Grund auf neu aufgebaut, du bist also massgeblich an der Definition des Vorgehens beteiligt. Du testest im Sprint mit und verantwortest gleichzeitig die Teststrategie, das Testkonzept und die Testplanung. Du koordinierst die UAT mit dem Fachbereich und bringst Qualitätsstandards in ein Team, das seine Testing-Reife gerade aufbaut. Der Fokus liegt überwiegend auf manuellem Testing, mit der Möglichkeit, später in die Automatisierung hineinzuwachsen. Must-have Anforderungen Mehrjährige Erfahrung im Software-Test",
+      "posted_at": 1794972678,
+      "tags": [
+        "Software Engineering",
         "Remote"
       ],
       "experience": "Check listing",
-      "score": 58,
-      "match_reason": "Relevant keywords: support, devops",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Cloud Native Architect, Strategic Accounts (EMEA)",
-      "company": "purestorage",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/purestorage/remote-cloud-native-architect-strategic-accounts-emea-398967",
-      "description": "<div class=\"content-intro\"><p>Everpure (NYSE: P) has evolved from storage pioneer to data platform, closing fiscal 2026 with $3.7 billion in revenue, its first billion-dollar quarter, and accelerating growth into FY27. Our strategic agenda spans the companies defining the next era of technology - hyperscalers, AI labs, the AI hardware supply chain, data platform providers, and the broader AI ecosystem.</p> <p>This type of work—work that changes the world—is what the tech industry was founded on. So, if you're ready to seize the endless opportunities and leave your mark, come join us.</p></div><h3><strong>Position Overview</strong></h3> <p>As ",
-      "posted_at": 1794963324,
-      "tags": [
-        "Sales"
-      ],
-      "experience": "Check listing",
-      "score": 48,
-      "match_reason": "Relevant keywords: role-family match",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Cloud Native Architect, Strategic Accounts (EMEA)",
-      "company": "purestorage",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/purestorage/remote-cloud-native-architect-strategic-accounts-emea-347131",
-      "description": "<div class=\"content-intro\"><p>Everpure (NYSE: P) has evolved from storage pioneer to data platform, closing fiscal 2026 with $3.7 billion in revenue, its first billion-dollar quarter, and accelerating growth into FY27. Our strategic agenda spans the companies defining the next era of technology - hyperscalers, AI labs, the AI hardware supply chain, data platform providers, and the broader AI ecosystem.</p> <p>This type of work—work that changes the world—is what the tech industry was founded on. So, if you're ready to seize the endless opportunities and leave your mark, come join us.</p></div><h3><strong>Position Overview</strong></h3> <p>As ",
-      "posted_at": 1794963326,
-      "tags": [
-        "Sales"
-      ],
-      "experience": "Check listing",
-      "score": 48,
-      "match_reason": "Relevant keywords: role-family match",
+      "score": 53,
+      "match_reason": "Relevant keywords: testing",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
@@ -88,18 +73,18 @@
       "remote": true
     },
     {
-      "title": "Senior Staff SRE, Architecture Engineering: Hosted Runners",
-      "company": "gitlab",
+      "title": "Full-Stack Engineer (Backend Leaning) - Platform Engineering",
+      "company": "ElevenLabs",
       "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-staff-sre-architecture-engineering-hosted-runners-94405",
-      "description": "<div class=\"content-intro\"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.</p> <p>The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and",
-      "posted_at": 1794952531,
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-backend-leaning-platform-engineering-8063",
+      "description": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always. We have expanded from voice into three main platforms: ElevenAgents enables businesses to deliver seamless and intelligent ",
+      "posted_at": 1794984010,
       "tags": [
-        "Architecture Engineering"
+        "Engineering & Product"
       ],
       "experience": "Check listing",
-      "score": 33,
-      "match_reason": "Relevant keywords: git, sre",
+      "score": 40,
+      "match_reason": "Relevant keywords: role-family match",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
