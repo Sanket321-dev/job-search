@@ -1,12 +1,108 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-17T22:00:03.264361+00:00",
+  "updated_at": "2026-11-18T03:23:17.447865+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
     "Remotive remote API"
   ],
   "jobs": [
+    {
+      "title": "Hands-on Engineering Manager DevOps (GCP/Kubernetes)",
+      "company": "Miaplaza",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/miaplaza/remote-hands-on-engineering-manager-devops-gcp-kubernetes-302151",
+      "description": "Location : 100% remote (EMEA) Classification : Full-time Pay Range : 82.000€ to 140.000€ - determined by several factors, including location Miaplaza is dedicated to making education engaging and accessible through innovative online learning platforms. We develop personalized learning experiences for students, helping them grow in a supportive and interactive environment. Our vision is to elevate online learning by applying the most successful approaches in virtual education to create an accessible and inclusive education curriculum platform where all students can be successful! As an engineering manager at Miaplaza, your team will build tech",
+      "posted_at": 1794963094,
+      "tags": [
+        "Remote"
+      ],
+      "experience": "Check listing",
+      "score": 58,
+      "match_reason": "Relevant keywords: support, devops",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Cloud Native Architect, Strategic Accounts (EMEA)",
+      "company": "purestorage",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/purestorage/remote-cloud-native-architect-strategic-accounts-emea-398967",
+      "description": "<div class=\"content-intro\"><p>Everpure (NYSE: P) has evolved from storage pioneer to data platform, closing fiscal 2026 with $3.7 billion in revenue, its first billion-dollar quarter, and accelerating growth into FY27. Our strategic agenda spans the companies defining the next era of technology - hyperscalers, AI labs, the AI hardware supply chain, data platform providers, and the broader AI ecosystem.</p> <p>This type of work—work that changes the world—is what the tech industry was founded on. So, if you're ready to seize the endless opportunities and leave your mark, come join us.</p></div><h3><strong>Position Overview</strong></h3> <p>As ",
+      "posted_at": 1794963324,
+      "tags": [
+        "Sales"
+      ],
+      "experience": "Check listing",
+      "score": 48,
+      "match_reason": "Relevant keywords: role-family match",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Cloud Native Architect, Strategic Accounts (EMEA)",
+      "company": "purestorage",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/purestorage/remote-cloud-native-architect-strategic-accounts-emea-347131",
+      "description": "<div class=\"content-intro\"><p>Everpure (NYSE: P) has evolved from storage pioneer to data platform, closing fiscal 2026 with $3.7 billion in revenue, its first billion-dollar quarter, and accelerating growth into FY27. Our strategic agenda spans the companies defining the next era of technology - hyperscalers, AI labs, the AI hardware supply chain, data platform providers, and the broader AI ecosystem.</p> <p>This type of work—work that changes the world—is what the tech industry was founded on. So, if you're ready to seize the endless opportunities and leave your mark, come join us.</p></div><h3><strong>Position Overview</strong></h3> <p>As ",
+      "posted_at": 1794963326,
+      "tags": [
+        "Sales"
+      ],
+      "experience": "Check listing",
+      "score": 48,
+      "match_reason": "Relevant keywords: role-family match",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Cloud Native Architect, Strategic Accounts (EMEA)",
+      "company": "purestorage",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.fr/jobs/companies/purestorage/remote-cloud-native-architect-strategic-accounts-emea-418277",
+      "description": "<div class=\"content-intro\"><p>Everpure (NYSE: P) has evolved from storage pioneer to data platform, closing fiscal 2026 with $3.7 billion in revenue, its first billion-dollar quarter, and accelerating growth into FY27. Our strategic agenda spans the companies defining the next era of technology - hyperscalers, AI labs, the AI hardware supply chain, data platform providers, and the broader AI ecosystem.</p> <p>This type of work—work that changes the world—is what the tech industry was founded on. So, if you're ready to seize the endless opportunities and leave your mark, come join us.</p></div><h3><strong>Position Overview</strong></h3> <p>As ",
+      "posted_at": 1794963326,
+      "tags": [
+        "Sales"
+      ],
+      "experience": "Check listing",
+      "score": 48,
+      "match_reason": "Relevant keywords: role-family match",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Cloud Native Architect, Strategic Accounts (EMEA)",
+      "company": "purestorage",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.nl/jobs/companies/purestorage/remote-cloud-native-architect-strategic-accounts-emea-33240",
+      "description": "<div class=\"content-intro\"><p>Everpure (NYSE: P) has evolved from storage pioneer to data platform, closing fiscal 2026 with $3.7 billion in revenue, its first billion-dollar quarter, and accelerating growth into FY27. Our strategic agenda spans the companies defining the next era of technology - hyperscalers, AI labs, the AI hardware supply chain, data platform providers, and the broader AI ecosystem.</p> <p>This type of work—work that changes the world—is what the tech industry was founded on. So, if you're ready to seize the endless opportunities and leave your mark, come join us.</p></div><h3><strong>Position Overview</strong></h3> <p>As ",
+      "posted_at": 1794963326,
+      "tags": [
+        "Sales"
+      ],
+      "experience": "Check listing",
+      "score": 48,
+      "match_reason": "Relevant keywords: role-family match",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Senior Staff SRE, Architecture Engineering: Hosted Runners",
+      "company": "gitlab",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-staff-sre-architecture-engineering-hosted-runners-94405",
+      "description": "<div class=\"content-intro\"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.</p> <p>The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and",
+      "posted_at": 1794952531,
+      "tags": [
+        "Architecture Engineering"
+      ],
+      "experience": "Check listing",
+      "score": 33,
+      "match_reason": "Relevant keywords: git, sre",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
     {
       "title": "Full-Stack Developer",
       "company": "Fluence International, Inc.",
