@@ -1,12 +1,64 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-18T12:26:58.265459+00:00",
+  "updated_at": "2026-11-18T20:58:28.251354+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
     "Remotive remote API"
   ],
   "jobs": [
+    {
+      "title": "Working Student Data Engineer – Python, SQL & Cloud Platforms",
+      "company": "AgentixLake GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/agentixlake-gmbh/working-student-data-engineer-python-sql-cloud-platforms-berlin-454463",
+      "description": "IMPORTANT Application note Please apply only through this job portal. Kindly do not send applications or recruitment messages by email or LinkedIn. Only applications submitted through the portal will be considered. Thank you. About AgentixLake AgentixLake GmbH is a Data and AI engineering consultancy based in Hamburg, Germany. We design, build and operate production-grade data platforms and AI systems in our customers’ cloud accounts or on-premises environments. We are an AWS Services Partner and a Certified Services Partner in Anthropic’s Claude Partner Network. Our commercial focus is DACH and the Gulf region, alongside selected internation",
+      "posted_at": 1795021245,
+      "tags": [
+        "Remote",
+        "Data Processing",
+        "Data Engineer"
+      ],
+      "experience": "Early career mentioned",
+      "score": 75,
+      "match_reason": "Relevant keywords: aws, sql, network",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Working Student AI Engineer – LLMs, RAG & AI Agents",
+      "company": "AgentixLake GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/agentixlake-gmbh/working-student-ai-engineer-llms-rag-ai-agents-berlin-402834",
+      "description": "IMPORTANT Application note Please apply only through this job portal. Kindly do not send applications or recruitment messages by email or LinkedIn. Only applications submitted through the portal will be considered. Thank you. About AgentixLake AgentixLake GmbH is a Data and AI engineering consultancy based in Hamburg, Germany. We design, build and operate production-grade data platforms and AI systems in our customers’ cloud accounts or on-premises environments. We are an AWS Services Partner and a Certified Services Partner in Anthropic’s Claude Partner Network. Our commercial focus is DACH and the Gulf region, alongside selected internation",
+      "posted_at": 1795021246,
+      "tags": [
+        "Remote",
+        "Data Scientist"
+      ],
+      "experience": "Early career mentioned",
+      "score": 70,
+      "match_reason": "Relevant keywords: aws, network",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Working Student AI Solutions Architect – Generative AI & Data Platforms",
+      "company": "AgentixLake GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/agentixlake-gmbh/working-student-ai-solutions-architect-generative-ai-data-platforms-berlin-292864",
+      "description": "IMPORTANT Application note Please apply only through this job portal. Kindly do not send applications or recruitment messages by email or LinkedIn. Only applications submitted through the portal will be considered. Thank you. About AgentixLake AgentixLake GmbH is a Data and AI engineering consultancy based in Hamburg, Germany. We design, build and operate production-grade data platforms and AI systems in our customers’ cloud accounts or on-premises environments. We are an AWS Services Partner and a Certified Services Partner in Anthropic’s Claude Partner Network. Our commercial focus is DACH and the Gulf region, alongside selected internation",
+      "posted_at": 1795021245,
+      "tags": [
+        "Remote",
+        "Data Scientist"
+      ],
+      "experience": "Early career mentioned",
+      "score": 70,
+      "match_reason": "Relevant keywords: aws, network",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
     {
       "title": "SRE Platform Manager",
       "company": "Yubo",
@@ -22,6 +74,23 @@
       "match_reason": "Relevant keywords: sre",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": false
+    },
+    {
+      "title": "Social Media Manager (m/w/d) – Schwerpunkt Meta Ads & Performance Marketing",
+      "company": "Horn Druck & Verlag KG",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/horn-druck-verlag-kg/social-media-manager-schwerpunkt-meta-ads-performance-marketing-berlin-365267",
+      "description": "Über die Horn Druck & Verlag KG Die Horn Druck & Verlag KG ist ein traditionsreiches, seit 1986 bestehendes Unternehmen mit Fokussierung auf die Fitness- und Gesundheitsbranche. Wir beraten unsere Kunden innovativ, kreativ und individuell mit maßgeschneiderten Marketinglösungen. Deine Aufgaben im Bereich Performance Marketing Wichtig: Wir suchen ausdrücklich einen echten Meta-Ads-Profi – keinen Einsteiger. Du weißt, wie erfolgreiche Facebook- und Instagram-Kampagnen funktionieren, kannst Budgets strategisch einsetzen und holst durch kontinuierliche Optimierung das Maximum aus Werbeanzeigen heraus. In dieser Position übernimmst du die eigenstä",
+      "posted_at": 1795008663,
+      "tags": [
+        "Remote",
+        "Online Marketing"
+      ],
+      "experience": "Check listing",
+      "score": 53,
+      "match_reason": "Relevant keywords: sre",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
     },
     {
       "title": "Software Test Engineer",
@@ -41,14 +110,15 @@
       "remote": true
     },
     {
-      "title": "Cloud Native Architect, Strategic Accounts (EMEA)",
-      "company": "purestorage",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/purestorage/remote-cloud-native-architect-strategic-accounts-emea-418277",
-      "description": "<div class=\"content-intro\"><p>Everpure (NYSE: P) has evolved from storage pioneer to data platform, closing fiscal 2026 with $3.7 billion in revenue, its first billion-dollar quarter, and accelerating growth into FY27. Our strategic agenda spans the companies defining the next era of technology - hyperscalers, AI labs, the AI hardware supply chain, data platform providers, and the broader AI ecosystem.</p> <p>This type of work—work that changes the world—is what the tech industry was founded on. So, if you're ready to seize the endless opportunities and leave your mark, come join us.</p></div><h3><strong>Position Overview</strong></h3> <p>As ",
-      "posted_at": 1794963326,
+      "title": "Channel Marketing Manager",
+      "company": "Nextcloud",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/nextcloud/channel-marketing-manager-berlin-422871",
+      "description": "About Nextcloud At Nextcloud we help our users achieve a safe home for all their data. Secure, under your control and developed in an open, transparent and trustworthy way. Our team of 170 is distributed in 30 countries worldwide. We work remotely and our work culture is shaped by mutual trust, enthusiasm and a strong belief in the principles of open source. We are looking for a Channel Marketing Manager who will plan and run marketing activities that help Nextcloud grow through its channel partner ecosystem. You will work closely with the sales and marketing teams to activate partners such as resellers and service providers, develop partner ",
+      "posted_at": 1795014090,
       "tags": [
-        "Sales"
+        "Remote",
+        "Trade Marketing"
       ],
       "experience": "Check listing",
       "score": 48,
@@ -73,18 +143,36 @@
       "remote": true
     },
     {
-      "title": "Full-Stack Engineer (Backend Leaning) - Platform Engineering",
-      "company": "ElevenLabs",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-backend-leaning-platform-engineering-8063",
-      "description": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always. We have expanded from voice into three main platforms: ElevenAgents enables businesses to deliver seamless and intelligent ",
-      "posted_at": 1794984010,
+      "title": "Performance Marketing Manager - Fokus SEA (m/w/d)",
+      "company": "anocus GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/anocus-gmbh/performance-marketing-manager-fokus-sea-berlin-261813",
+      "description": "Wir möchten die Anlaufstelle für Google Ads & Web Analytics für E-Commerce Unternehmen mit großem Produktsortiment im DACH-Raum werden. Wir sind davon überzeugt, dass viele Online-Shops noch nicht ihr volles Potenzial aufgrund von schlechter Betreuung ausschöpfen. Wir wollen das ändern. Dabei legen wir bei uns einen großen Wert auf persönliche Entwicklung, operative und strategische Erstklassigkeit sowie Transparenz. Wir wollen, dass sich alle unsere Teammitglieder fachlich als auch menschlich weiterentwickeln und so für außergewöhnlich gute Kundenergebnisse sorgen. Über uns Wir sitzen im wunderschönen Hamburg direkt am Jungfernstieg und unse",
+      "posted_at": 1795021245,
       "tags": [
-        "Engineering & Product"
+        "Remote",
+        "Online Marketing"
       ],
       "experience": "Check listing",
-      "score": 40,
+      "score": 48,
       "match_reason": "Relevant keywords: role-family match",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Senior Infrastructure Engineer – Azure, Active Directory & Hybrid Infrastructure (m/f/d)",
+      "company": "KD Pharma",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/kd-pharma/senior-infrastructure-engineer-azure-active-directory-hybrid-infrastructure-berlin-498065",
+      "description": "Salary: €60,000–80,000 gross per year, depending on experience | Permanent | Immediate start | Remote within Germany or Switzerland (proximity to our Bexbach site is a plus) You want full ownership of a group's Azure and hybrid environment: not just tickets, but the architecture, the governance, and the direction it takes? Then help shape the infrastructure behind an international niche world leader in Omega-3 technology. Why join us? 🎯 Real ownership: You shape our Azure and hybrid infrastructure, drive technical decisions and take responsibility for its future development. 🌍 Remote-first: Work remotely from Germany or Switzerland, with occa",
+      "posted_at": 1795019480,
+      "tags": [
+        "Remote",
+        "System and Network Administration"
+      ],
+      "experience": "Early career mentioned",
+      "score": 37,
+      "match_reason": "Relevant keywords: azure, network",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
@@ -100,6 +188,40 @@
       ],
       "experience": "Check listing",
       "score": 28,
+      "match_reason": "Relevant keywords: aws",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Senior Java Backend Developer – Spring Boot, PostgreSQL, Kubernetes (m/w/d) – Festanstellung",
+      "company": "Rockstardevelopers GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/senior-java-backend-developer-spring-boot-postgresql-kubernetes-festanstellung-berlin-198423",
+      "description": "Wer wir sind Rockstardevelopers, gegründet 2015 in Mannheim, weitere Büros in Stuttgart und München. Wir sind ein Software-Entwickler mit Erfahrung aus hunderten von individuellen Projekten für Enterprise- und Mittelstands-Kunden. Kurze Wege, ehrliches Feedback, keine politischen Spielchen. Keine Hierarchie-Ebenen zwischen dir und den Leuten, die Entscheidungen treffen. Deine Aufgaben Du arbeitest in einem agilen Release Train nach SAFe bei einem großen Mobilitätsunternehmen. Es geht um Fahrplan-, Vertriebs- und Abrechnungssysteme auf einer Cloud-Native-Plattform mit Kubernetes. Du arbeitest mit mindestens zwei weiteren Teams zusammen, die vo",
+      "posted_at": 1795017657,
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "experience": "Check listing",
+      "score": 28,
+      "match_reason": "Relevant keywords: sql",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Senior Fullstack Developer Angular / Kotlin – Spring Boot, AWS (m/w/d)",
+      "company": "Rockstardevelopers GmbH",
+      "location": "Stuttgart",
+      "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/senior-fullstack-developer-angular-kotlin-spring-boot-aws-stuttgart-368767",
+      "description": "Wer wir sind Rockstardevelopers, gegründet 2015 in Mannheim, weitere Büros in Stuttgart und München. Wir sind ein Software-Entwickler mit Erfahrung aus hunderten von individuellen Projekten für Enterprise- und Mittelstands-Kunden. Kurze Wege, ehrliches Feedback, keine politischen Spielchen. Keine Hierarchie-Ebenen zwischen dir und den Leuten, die Entscheidungen treffen. Deine Aufgaben Du arbeitest im Projektteam eines großen Mobilitätsunternehmens an einer Webanwendung für die Fahrplanplanung. Das Team umfasst rund zehn Leute und arbeitet nach Scrum in Zwei-Wochen-Sprints. Projektsprache und Dokumentation sind Deutsch. Konzeption und Umsetzun",
+      "posted_at": 1795017657,
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "experience": "Check listing",
+      "score": 20,
       "match_reason": "Relevant keywords: aws",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
