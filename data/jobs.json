@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-19T10:53:31.087585+00:00",
+  "updated_at": "2026-11-19T19:14:45.798485+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -8,12 +8,12 @@
   ],
   "jobs": [
     {
-      "title": "QA Testers Needed",
+      "title": "QA Tester (Remote): Test Real Apps, Flexible Hours",
       "company": "Global App Testing",
       "location": "Zürich",
       "url": "https://www.arbeitnow.ch/jobs/companies/global-app-testing/qa-testers-needed-zurich-313813",
       "description": "Global App Testing Global App Testing provides on-demand crowdtesting by combining automation and intelligent crowdsourcing with over 60,000 professional testers across 150+ countries. Leading brands rely on this approach for fast and accurate test results with an impact-first quality focus. What you will do Execute test cases on various applications and platforms. Identify, log, and track bugs and software defects efficiently. Verify fixes and report test results accurately. What the role requires Experience in quality assurance and software testing is essential for this independent contractor role. You should be detail-oriented and able to ",
-      "posted_at": 1795075262,
+      "posted_at": 1795105953,
       "tags": [
         "Remote",
         "Quality Assurance",
@@ -26,32 +26,15 @@
       "remote": true
     },
     {
-      "title": "Cloud Engineer (m/w/x) – Cloud-Betrieb von SaaS-Lösungen",
-      "company": "VertiGIS GmbH",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/vertigis-gmbh/remote-cloud-engineer-cloud-betrieb-von-saas-losungen-berlin-315547",
-      "description": "Die VertiGIS Unternehmensgruppe entwickelt Softwarelösungen für Geografische Informationssysteme (GIS). Wir sind führender Lösungsanbieter in den Bereichen Energieversorgung, Wasserwirtschaft, Landmanagement, Behörden, Infrastruktur, Facility Management und Telekommunikation. Unsere Produkte helfen Unternehmen, Netze, Anlagen und Prozesse effizient zu planen, zu verwalten und zu optimieren – weltweit im täglichen Einsatz. Als Cloud Engineer betreiben und entwickeln Sie Azure-basierte Cloud-Infrastrukturen und SaaS-Lösungen für unsere Kunden weiter. Der Schwerpunkt liegt auf Monitoring, Log-Analyse, Störungsbehebung und der Umsetzung von Änder",
-      "posted_at": 1795080688,
-      "tags": [
-        "SaaS",
-        "Remote"
-      ],
-      "experience": "Check listing",
-      "score": 53,
-      "match_reason": "Relevant keywords: azure",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Online Marketing Manager im Projektmanagement/Consulting (m/w/d)",
-      "company": "squadt GmbH",
+      "title": "Finance Operations Manager (m/w/d)",
+      "company": "Start To Finish Consulting GmbH",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/squadt-gmbh/online-marketing-manager-im-projektmanagement-consulting-berlin-481074",
-      "description": "Werde ein wichtiger Teil von squadt! 💙 Aus Gründen der besseren Lesbarkeit verwenden wir in unserer Stellenanzeige das generische Maskulinum. Weibliche und anderweitige Geschlechteridentitäten werden dabei ausdrücklich mitgemeint. Wir sind immer auf der Suche nach Talenten, die unser Experten-Team unterstützen möchten. Du bist fit im Bereich Projektmanagement und Consulting ? Du versuchst immer die beste Performance aus deinen Projekten herauszukitzeln? Dann solltest du über eine Bewerbung bei uns nachdenken. Unsere Passion ist es, für unsere Kunden aus dem E-Commerce im Online Marketing stetig noch mehr herauszuholen. Das klingt nach etwas, ",
-      "posted_at": 1795078885,
+      "url": "https://www.arbeitnow.com/jobs/companies/start-to-finish-consulting-gmbh/finance-operations-manager-berlin-175833",
+      "description": "Wir sind Start to Finish. Kein Startup kann wachsen ohne das richtige Team. Aus diesem Grund unterstützen wir aufstrebende Startups und Growth Companies wie Snocks, SellerX, Formary, Schema M und viele weitere dabei, ihre Schlüsselpositionen mit den richtigen Talenten zu besetzen. Mit über 100 zufriedenen Kunden sind wir die #1 Recruiting Boutique für E-Commerce Startups im deutschsprachigen Raum. Unser Kunde sucht Dich! Einer der bekanntesten Online-Händler für KFZ-Ersatzteile in Deutschland – gewachsen ohne externe Investoren, dafür mit klarem Fokus auf Service, Qualität und schlanke Prozesse. Über 150.000 Artikel von Premium-Herstellern, p",
+      "posted_at": 1795091458,
       "tags": [
         "Remote",
-        "Online Marketing"
+        "Accounts Receivable"
       ],
       "experience": "Check listing",
       "score": 48,
@@ -74,6 +57,22 @@
       "match_reason": "Relevant keywords: aws",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
+    },
+    {
+      "title": "HPC Infrastructure Site Reliability Engineer",
+      "company": "Radiant",
+      "location": "United Kingdom - Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/radiant/remote-hpc-infrastructure-site-reliability-engineer-392841",
+      "description": "About Us We’re a fast-growing GPU-as-a-Service provider, delivering scalable, high-performance compute infrastructure purpose-built for AI and HPC workloads. Operating across global data centres, we run mission-critical environments where uptime, throughput, and ultra-low latency are non-negotiable. Role Overview We are looking for a senior Infrastructure Site Reliability Engineer with deep experience operating large-scale distributed systems and recent hands-on expertise in high-performance computing (HPC) and AI infrastructure. This is an operations-first SRE role, working in a 24/7/365 on-call environment, responsible for ensuring reliabil",
+      "posted_at": 1795102813,
+      "tags": [
+        "Infrastructure Operations"
+      ],
+      "experience": "Check listing",
+      "score": 28,
+      "match_reason": "Relevant keywords: sre",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": false
     },
     {
       "title": "Senior Back-end Developer",
