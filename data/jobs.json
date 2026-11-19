@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-18T20:58:28.251354+00:00",
+  "updated_at": "2026-11-19T02:16:05.424111+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -22,6 +22,23 @@
       "experience": "Early career mentioned",
       "score": 75,
       "match_reason": "Relevant keywords: aws, sql, network",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Cloud Infrastructure Engineer - AWS (m/w/d)",
+      "company": "shopware AG",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/shopware-ag/remote-cloud-infrastructure-engineer-aws-schoppingen-150808",
+      "description": "Shopware ist ein führendes E-Commerce-System, das es Unternehmen weltweit ermöglicht, im digitalen Handel schnell und effizient zu skalieren. Als zukunftsweisende Open-Source-Lösung wird Shopware bereits von einigen der größten europäischen Marken, Einzelhändlern und Herstellern im B2C- und B2B-Bereich eingesetzt. Über die Position Du wirst Teil des Teams IT Infrastructure innerhalb des Bereichs IT Operations , das die interne IT-Infrastruktur der shopware AG betreut. Als Cloud Infrastructure Engineer - AWS (m/w/d) sorgst du für den stabilen Betrieb, die Automatisierung und die Weiterentwicklung unserer AWS-Umgebungen und Netzwerkarchitektur ",
+      "posted_at": 1795038695,
+      "tags": [
+        "Operations",
+        "Remote"
+      ],
+      "experience": "Early career mentioned",
+      "score": 70,
+      "match_reason": "Relevant keywords: aws, git",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
@@ -60,35 +77,74 @@
       "remote": true
     },
     {
-      "title": "SRE Platform Manager",
-      "company": "Yubo",
-      "location": "Paris - Full Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/yubo/sre-platform-manager-paris-167482",
-      "description": "Who we are Yubo is the instantly social, social app: the leading real-time social discovery platform where you can meet new people for friendship, crushes and community. Our mission is to help young adults find community - whoever they are, wherever they are and whenever they feel social. That's why we’re building a more spontaneous and human social world, one based on interaction, exploration and possibility. We've pioneered a new way for Gen Z to socialize online, and with millions of active users, our goal is to redefine how we connect today and tomorrow. Our team is international, multicultural and deeply committed to its mission. As the ",
-      "posted_at": 1794984014,
+      "title": "Business Analyst/ Product Owner Meldeverfahren (m/w/d) | Full Remote",
+      "company": "Kooku",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/kooku/business-analyst-product-owner-meldeverfahren-full-remote-germany-370925",
+      "description": "Die Gesellschaft für innovative Personalwirtschaftssysteme mbH ist ein führender Softwarehersteller von integrierten HR Management-Anwendungen für staatliche, öffentliche und soziale Arbeitgeber in Deutschland. Unser Produkt KIDICAP® ist seit 40 Jahren auf dem Markt und wird heute von rund 25.000 Organisationen als Cloud Service genutzt. KIDICAP® bildet eine moderne Web-APP-Plattform für alle Bereiche des Human Capital Managements und alle Unternehmensgrößen. Das Unternehmen beschäftigt rund 200 Mitarbeiter:innen, mit wachsender Tendenz. Zur Verstärkung des Entwicklungs-Teams suchen wir ab sofort einen: Business Analyst/ Product Owner Meldeve",
+      "posted_at": 1795047609,
       "tags": [
-        "Platform Engineering"
+        "Internet",
+        "Gesellschaft für innovative Personalwirtschaftssysteme mbH",
+        "Remote"
       ],
       "experience": "Early career mentioned",
-      "score": 65,
-      "match_reason": "Relevant keywords: sre",
+      "score": 60,
+      "match_reason": "Relevant keywords: role-family match",
       "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": false
+      "remote": true
     },
     {
-      "title": "Social Media Manager (m/w/d) – Schwerpunkt Meta Ads & Performance Marketing",
-      "company": "Horn Druck & Verlag KG",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/horn-druck-verlag-kg/social-media-manager-schwerpunkt-meta-ads-performance-marketing-berlin-365267",
-      "description": "Über die Horn Druck & Verlag KG Die Horn Druck & Verlag KG ist ein traditionsreiches, seit 1986 bestehendes Unternehmen mit Fokussierung auf die Fitness- und Gesundheitsbranche. Wir beraten unsere Kunden innovativ, kreativ und individuell mit maßgeschneiderten Marketinglösungen. Deine Aufgaben im Bereich Performance Marketing Wichtig: Wir suchen ausdrücklich einen echten Meta-Ads-Profi – keinen Einsteiger. Du weißt, wie erfolgreiche Facebook- und Instagram-Kampagnen funktionieren, kannst Budgets strategisch einsetzen und holst durch kontinuierliche Optimierung das Maximum aus Werbeanzeigen heraus. In dieser Position übernimmst du die eigenstä",
-      "posted_at": 1795008663,
+      "title": "Business Analyst/ Product Owner Meldeverfahren (m/w/d) | Full Remote",
+      "company": "Kooku",
+      "location": "Berlin, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/kooku/business-analyst-product-owner-meldeverfahren-full-remote-berlin-20931",
+      "description": "Die Gesellschaft für innovative Personalwirtschaftssysteme mbH ist ein führender Softwarehersteller von integrierten HR Management-Anwendungen für staatliche, öffentliche und soziale Arbeitgeber in Deutschland. Unser Produkt KIDICAP® ist seit 40 Jahren auf dem Markt und wird heute von rund 25.000 Organisationen als Cloud Service genutzt. KIDICAP® bildet eine moderne Web-APP-Plattform für alle Bereiche des Human Capital Managements und alle Unternehmensgrößen. Das Unternehmen beschäftigt rund 200 Mitarbeiter:innen, mit wachsender Tendenz. Zur Verstärkung des Entwicklungs-Teams suchen wir ab sofort einen: Business Analyst/ Product Owner Meldeve",
+      "posted_at": 1795047609,
       "tags": [
-        "Remote",
-        "Online Marketing"
+        "Internet",
+        "Gesellschaft für innovative Personalwirtschaftssysteme mbH",
+        "Remote"
       ],
-      "experience": "Check listing",
-      "score": 53,
-      "match_reason": "Relevant keywords: sre",
+      "experience": "Early career mentioned",
+      "score": 60,
+      "match_reason": "Relevant keywords: role-family match",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Business Analyst/ Product Owner Meldeverfahren (m/w/d) | Full Remote",
+      "company": "Kooku",
+      "location": "Leipzig, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/kooku/business-analyst-product-owner-meldeverfahren-full-remote-leipzig-396649",
+      "description": "Die Gesellschaft für innovative Personalwirtschaftssysteme mbH ist ein führender Softwarehersteller von integrierten HR Management-Anwendungen für staatliche, öffentliche und soziale Arbeitgeber in Deutschland. Unser Produkt KIDICAP® ist seit 40 Jahren auf dem Markt und wird heute von rund 25.000 Organisationen als Cloud Service genutzt. KIDICAP® bildet eine moderne Web-APP-Plattform für alle Bereiche des Human Capital Managements und alle Unternehmensgrößen. Das Unternehmen beschäftigt rund 200 Mitarbeiter:innen, mit wachsender Tendenz. Zur Verstärkung des Entwicklungs-Teams suchen wir ab sofort einen: Business Analyst/ Product Owner Meldeve",
+      "posted_at": 1795047609,
+      "tags": [
+        "Internet",
+        "Gesellschaft für innovative Personalwirtschaftssysteme mbH",
+        "Remote"
+      ],
+      "experience": "Early career mentioned",
+      "score": 60,
+      "match_reason": "Relevant keywords: role-family match",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Business Analyst/ Product Owner Meldeverfahren (m/w/d) | Full Remote",
+      "company": "Kooku",
+      "location": "Offenbach, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/kooku/business-analyst-product-owner-meldeverfahren-full-remote-offenbach-2043",
+      "description": "Die Gesellschaft für innovative Personalwirtschaftssysteme mbH ist ein führender Softwarehersteller von integrierten HR Management-Anwendungen für staatliche, öffentliche und soziale Arbeitgeber in Deutschland. Unser Produkt KIDICAP® ist seit 40 Jahren auf dem Markt und wird heute von rund 25.000 Organisationen als Cloud Service genutzt. KIDICAP® bildet eine moderne Web-APP-Plattform für alle Bereiche des Human Capital Managements und alle Unternehmensgrößen. Das Unternehmen beschäftigt rund 200 Mitarbeiter:innen, mit wachsender Tendenz. Zur Verstärkung des Entwicklungs-Teams suchen wir ab sofort einen: Business Analyst/ Product Owner Meldeve",
+      "posted_at": 1795047609,
+      "tags": [
+        "Internet",
+        "Gesellschaft für innovative Personalwirtschaftssysteme mbH",
+        "Remote"
+      ],
+      "experience": "Early career mentioned",
+      "score": 60,
+      "match_reason": "Relevant keywords: role-family match",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
@@ -106,39 +162,6 @@
       "experience": "Check listing",
       "score": 53,
       "match_reason": "Relevant keywords: testing",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Channel Marketing Manager",
-      "company": "Nextcloud",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/nextcloud/channel-marketing-manager-berlin-422871",
-      "description": "About Nextcloud At Nextcloud we help our users achieve a safe home for all their data. Secure, under your control and developed in an open, transparent and trustworthy way. Our team of 170 is distributed in 30 countries worldwide. We work remotely and our work culture is shaped by mutual trust, enthusiasm and a strong belief in the principles of open source. We are looking for a Channel Marketing Manager who will plan and run marketing activities that help Nextcloud grow through its channel partner ecosystem. You will work closely with the sales and marketing teams to activate partners such as resellers and service providers, develop partner ",
-      "posted_at": 1795014090,
-      "tags": [
-        "Remote",
-        "Trade Marketing"
-      ],
-      "experience": "Check listing",
-      "score": 48,
-      "match_reason": "Relevant keywords: role-family match",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Cloud Native Architect, Strategic Accounts (EMEA)",
-      "company": "purestorage",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.nl/jobs/companies/purestorage/remote-cloud-native-architect-strategic-accounts-emea-33240",
-      "description": "<div class=\"content-intro\"><p>Everpure (NYSE: P) has evolved from storage pioneer to data platform, closing fiscal 2026 with $3.7 billion in revenue, its first billion-dollar quarter, and accelerating growth into FY27. Our strategic agenda spans the companies defining the next era of technology - hyperscalers, AI labs, the AI hardware supply chain, data platform providers, and the broader AI ecosystem.</p> <p>This type of work—work that changes the world—is what the tech industry was founded on. So, if you're ready to seize the endless opportunities and leave your mark, come join us.</p></div><h3><strong>Position Overview</strong></h3> <p>As ",
-      "posted_at": 1794963326,
-      "tags": [
-        "Sales"
-      ],
-      "experience": "Check listing",
-      "score": 48,
-      "match_reason": "Relevant keywords: role-family match",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
@@ -188,40 +211,6 @@
       ],
       "experience": "Check listing",
       "score": 28,
-      "match_reason": "Relevant keywords: aws",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Senior Java Backend Developer – Spring Boot, PostgreSQL, Kubernetes (m/w/d) – Festanstellung",
-      "company": "Rockstardevelopers GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/senior-java-backend-developer-spring-boot-postgresql-kubernetes-festanstellung-berlin-198423",
-      "description": "Wer wir sind Rockstardevelopers, gegründet 2015 in Mannheim, weitere Büros in Stuttgart und München. Wir sind ein Software-Entwickler mit Erfahrung aus hunderten von individuellen Projekten für Enterprise- und Mittelstands-Kunden. Kurze Wege, ehrliches Feedback, keine politischen Spielchen. Keine Hierarchie-Ebenen zwischen dir und den Leuten, die Entscheidungen treffen. Deine Aufgaben Du arbeitest in einem agilen Release Train nach SAFe bei einem großen Mobilitätsunternehmen. Es geht um Fahrplan-, Vertriebs- und Abrechnungssysteme auf einer Cloud-Native-Plattform mit Kubernetes. Du arbeitest mit mindestens zwei weiteren Teams zusammen, die vo",
-      "posted_at": 1795017657,
-      "tags": [
-        "Remote",
-        "Software Development"
-      ],
-      "experience": "Check listing",
-      "score": 28,
-      "match_reason": "Relevant keywords: sql",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Senior Fullstack Developer Angular / Kotlin – Spring Boot, AWS (m/w/d)",
-      "company": "Rockstardevelopers GmbH",
-      "location": "Stuttgart",
-      "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/senior-fullstack-developer-angular-kotlin-spring-boot-aws-stuttgart-368767",
-      "description": "Wer wir sind Rockstardevelopers, gegründet 2015 in Mannheim, weitere Büros in Stuttgart und München. Wir sind ein Software-Entwickler mit Erfahrung aus hunderten von individuellen Projekten für Enterprise- und Mittelstands-Kunden. Kurze Wege, ehrliches Feedback, keine politischen Spielchen. Keine Hierarchie-Ebenen zwischen dir und den Leuten, die Entscheidungen treffen. Deine Aufgaben Du arbeitest im Projektteam eines großen Mobilitätsunternehmens an einer Webanwendung für die Fahrplanplanung. Das Team umfasst rund zehn Leute und arbeitet nach Scrum in Zwei-Wochen-Sprints. Projektsprache und Dokumentation sind Deutsch. Konzeption und Umsetzun",
-      "posted_at": 1795017657,
-      "tags": [
-        "Remote",
-        "Software Development"
-      ],
-      "experience": "Check listing",
-      "score": 20,
       "match_reason": "Relevant keywords: aws",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
