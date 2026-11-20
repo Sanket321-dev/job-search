@@ -1,12 +1,29 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-20T01:29:59.013795+00:00",
+  "updated_at": "2026-11-20T09:23:26.280492+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
     "Remotive remote API"
   ],
   "jobs": [
+    {
+      "title": "1024 | Senior Cloud & DevOps Engineer",
+      "company": "Intetics 2",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1024-senior-cloud-devops-engineer-germany-218124",
+      "description": "Intetics Inc., a leading American technology company specializing in custom software application development, distributed professional teams creation, software product quality assessment, and “all-things-digital” solutions, is on the lookout for a Senior Cloud & DevOps Engineer to join our team and provide exceptional customer support. Long-term cooperation on an as-needed basis, with potential part-time assignments and travel to the client’s office if required Responsibilities Design, implement, configure, and maintain Microsoft Azure infrastructure and services Develop reusable and traceable infrastructure-as-code components using Terraform",
+      "posted_at": 1795155603,
+      "tags": [
+        "Information Technology and Services",
+        "Remote"
+      ],
+      "experience": "Check listing",
+      "score": 48,
+      "match_reason": "Relevant keywords: azure, terraform, git, support, devops",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
     {
       "title": "Senior Site Reliability Engineer (SRE) m/f/x",
       "company": "Makersite GmbH",
@@ -21,6 +38,22 @@
       "experience": "Check listing",
       "score": 33,
       "match_reason": "Relevant keywords: git, sre",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Director of Platform Engineering [gn] – Data Intelligence Platform",
+      "company": "Actian",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.fr/jobs/companies/actian/remote-director-of-platform-engineering-gn-data-intelligence-platform-171418",
+      "description": "About Actian Actian is the company behind the Data Intelligence Platform — an enterprise solution that helps organisations discover, govern, and trust their data at scale. Our platform connects metadata, data lineage, data quality, and business context into a single knowledge graph, enabling enterprises to turn raw data into reliable decisions and providing the trusted data foundation required for enterprise AI. We operate globally, move fast, and build for the long term. The Opportunity We are looking for an experienced Director of Platform Engineering or Director of DevOps to establish and lead our newly formed Platform Engineering organisa",
+      "posted_at": 1795144121,
+      "tags": [
+        "Engineering"
+      ],
+      "experience": "Check listing",
+      "score": 28,
+      "match_reason": "Relevant keywords: devops",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
