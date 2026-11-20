@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-19T19:14:45.798485+00:00",
+  "updated_at": "2026-11-20T01:29:59.013795+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -8,37 +8,19 @@
   ],
   "jobs": [
     {
-      "title": "QA Tester (Remote): Test Real Apps, Flexible Hours",
-      "company": "Global App Testing",
-      "location": "Zürich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/global-app-testing/qa-testers-needed-zurich-313813",
-      "description": "Global App Testing Global App Testing provides on-demand crowdtesting by combining automation and intelligent crowdsourcing with over 60,000 professional testers across 150+ countries. Leading brands rely on this approach for fast and accurate test results with an impact-first quality focus. What you will do Execute test cases on various applications and platforms. Identify, log, and track bugs and software defects efficiently. Verify fixes and report test results accurately. What the role requires Experience in quality assurance and software testing is essential for this independent contractor role. You should be detail-oriented and able to ",
-      "posted_at": 1795105953,
+      "title": "Senior Site Reliability Engineer (SRE) m/f/x",
+      "company": "Makersite GmbH",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-site-reliability-engineer-sre-berlin-317887",
+      "description": "Location: Germany/Berlin/Stuttgart (Remote) Who You’ll Work For : At Makersite, we're pioneering the future of sustainable product development and digital collaboration. As a leading platform for product lifecycle management (PLM), we empower companies to make smarter, more sustainable decisions across their entire supply chain. Our cutting-edge software enables teams to design, prototype, and manufacture with transparency, efficiency, and responsibility—reducing environmental impact while optimizing performance. We're a fast-growing, innovative company that thrives on creativity, collaboration, and continuous learning. If you're passionate a",
+      "posted_at": 1795135900,
       "tags": [
-        "Remote",
-        "Quality Assurance",
-        "Inspection"
+        "Technology",
+        "Remote"
       ],
       "experience": "Check listing",
-      "score": 58,
-      "match_reason": "Relevant keywords: qa, testing",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Finance Operations Manager (m/w/d)",
-      "company": "Start To Finish Consulting GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/start-to-finish-consulting-gmbh/finance-operations-manager-berlin-175833",
-      "description": "Wir sind Start to Finish. Kein Startup kann wachsen ohne das richtige Team. Aus diesem Grund unterstützen wir aufstrebende Startups und Growth Companies wie Snocks, SellerX, Formary, Schema M und viele weitere dabei, ihre Schlüsselpositionen mit den richtigen Talenten zu besetzen. Mit über 100 zufriedenen Kunden sind wir die #1 Recruiting Boutique für E-Commerce Startups im deutschsprachigen Raum. Unser Kunde sucht Dich! Einer der bekanntesten Online-Händler für KFZ-Ersatzteile in Deutschland – gewachsen ohne externe Investoren, dafür mit klarem Fokus auf Service, Qualität und schlanke Prozesse. Über 150.000 Artikel von Premium-Herstellern, p",
-      "posted_at": 1795091458,
-      "tags": [
-        "Remote",
-        "Accounts Receivable"
-      ],
-      "experience": "Check listing",
-      "score": 48,
-      "match_reason": "Relevant keywords: role-family match",
+      "score": 33,
+      "match_reason": "Relevant keywords: git, sre",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
@@ -57,22 +39,6 @@
       "match_reason": "Relevant keywords: aws",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
-    },
-    {
-      "title": "HPC Infrastructure Site Reliability Engineer",
-      "company": "Radiant",
-      "location": "United Kingdom - Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/radiant/remote-hpc-infrastructure-site-reliability-engineer-392841",
-      "description": "About Us We’re a fast-growing GPU-as-a-Service provider, delivering scalable, high-performance compute infrastructure purpose-built for AI and HPC workloads. Operating across global data centres, we run mission-critical environments where uptime, throughput, and ultra-low latency are non-negotiable. Role Overview We are looking for a senior Infrastructure Site Reliability Engineer with deep experience operating large-scale distributed systems and recent hands-on expertise in high-performance computing (HPC) and AI infrastructure. This is an operations-first SRE role, working in a 24/7/365 on-call environment, responsible for ensuring reliabil",
-      "posted_at": 1795102813,
-      "tags": [
-        "Infrastructure Operations"
-      ],
-      "experience": "Check listing",
-      "score": 28,
-      "match_reason": "Relevant keywords: sre",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": false
     },
     {
       "title": "Senior Back-end Developer",
