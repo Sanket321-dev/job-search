@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-22T17:28:28.376735+00:00",
+  "updated_at": "2026-11-22T22:56:14.257846+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -87,24 +87,6 @@
       "experience": "Check listing",
       "score": 28,
       "match_reason": "Relevant keywords: git",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Senior Platform Engineer",
-      "company": "Treatwell",
-      "location": "Amsterdam, Netherlands",
-      "url": "https://www.arbeitnow.nl/jobs/companies/treatwell/remote-senior-platform-engineer-amsterdam-429264",
-      "description": "Senior Platform Engineer We are looking for a passionate and collaborative Senior Platform Engineer to join our Platform Core team. At Treatwell we follow Team Topologies principles: our platform exists to enable stream-aligned teams to move faster and more autonomously, through self-service capabilities, reliable infrastructure and a great developer experience, built in partnership with our Developer Experience and Data Platform teams. The Platform Core team provides the foundational infrastructure and tooling that enables Treatwell's engineering organisation to ship value quickly and safely. As a Senior Platform Engineer you will own the am",
-      "posted_at": 1795180810,
-      "tags": [
-        "Internet",
-        "Tech",
-        "Remote"
-      ],
-      "experience": "Early career mentioned",
-      "score": 27,
-      "match_reason": "Relevant keywords: role-family match",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
