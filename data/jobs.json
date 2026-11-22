@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-22T01:46:52.722127+00:00",
+  "updated_at": "2026-11-22T09:00:13.789612+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -11,9 +11,27 @@
       "title": "Qualitätsmanager:in für App-, Website- und Filialen-Tests (m/w/d)",
       "company": "Probantica",
       "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/probantica/qualitatsmanagerin-fur-app-website-und-filialen-tests-berlin-237149",
+      "description": "Über uns Probantica ist ein Anbieter für Qualitätstests aus Köln. Wir prüfen im Auftrag von Unternehmen, ob digitale Produkte und Abläufe vor Ort im Alltag funktionieren. Die Tests machen bei uns angestellte Qualitätsmanager:innen – Menschen mit Vertrag, fester Ansprechperson und klaren Vorgaben. Worum es geht Unternehmen müssen wissen, ob ihre Apps, Websites und Filialen im Alltag wirklich funktionieren. Als Kunde gehst du die angebotenen Abläufe durch: App öffnen, Konto anlegen, Formular ausfüllen, Bestellung abschließen, in eine Filiale gehen. Du testest den Prozess von Anfang bis Ende, dokumentierst jeden Schritt mit Uhrzeit und Screensho",
+      "posted_at": 1795316431,
+      "tags": [
+        "Remote",
+        "Quality Assurance",
+        "Inspection"
+      ],
+      "experience": "Check listing",
+      "score": 53,
+      "match_reason": "Relevant keywords: git",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Qualitätsmanager:in für App-, Website- und Filialen-Tests (m/w/d)",
+      "company": "Probantica",
+      "location": "Berlin",
       "url": "https://www.arbeitnow.com/jobs/companies/probantica/qualitatsmanagerin-fur-app-website-und-filialen-tests-berlin-74117",
-      "description": "Über uns Probantica ist ein Anbieter für Qualitätstests aus Köln. Wir prüfen im Auftrag von Unternehmen, ob digitale Produkte und Abläufe vor Ort im Alltag funktionieren. Die Tests machen bei uns angestellte Qualitätsmanager:innen – Menschen mit Vertrag, feste Ansprechperson und klaren Vorgaben. Worum es geht Unternehmen müssen wissen, ob ihre Apps, Websites und Filialen im Alltag wirklich funktionieren. Als Kunde gehst du die angebotenen Abläufe durch: App öffnen, Konto anlegen, Formular ausfüllen, Bestellung abschließen, in eine Filiale gehen. Du testest den Prozess von Anfang bis Ende, dokumentierst jeden Schritt mit Uhrzeit und Screenshot",
-      "posted_at": 1795294828,
+      "description": "Bewerbungen nehmen wir ausschließlich über unsere Website entgegen. Dort sind es zehn Fragen, deine Kontaktdaten und der Arbeitsvertrag – alles in einem Ablauf, ohne Lebenslauf und ohne Anschreiben. Fragen zur Stelle beantworten wir dagegen gern per E-Mail an ----- uns Probantica ist ein Anbieter für Qualitätstests aus Köln. Wir prüfen im Auftrag von Unternehmen, ob digitale Produkte und Abläufe vor Ort im Alltag funktionieren. Die Tests machen bei uns angestellte Qualitätsmanager:innen – Menschen mit Vertrag, feste Ansprechperson und klaren Vorgaben. Worum es geht Unternehmen müssen wissen, ob ihre Apps, Websites und Filialen im Alltag wirkl",
+      "posted_at": 1795324640,
       "tags": [
         "Remote",
         "Quality Assurance",
