@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-21T21:18:13.422176+00:00",
+  "updated_at": "2026-11-22T01:46:52.722127+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -8,18 +8,36 @@
   ],
   "jobs": [
     {
-      "title": "Backend Engineer (Ruby), Plan: Spec-Driven Development",
-      "company": "gitlab",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-backend-engineer-ruby-plan-spec-driven-development-90346",
-      "description": "<div class=\"content-intro\"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.</p> <p>The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and",
-      "posted_at": 1795287325,
+      "title": "Qualitätsmanager:in für App-, Website- und Filialen-Tests (m/w/d)",
+      "company": "Probantica",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/probantica/qualitatsmanagerin-fur-app-website-und-filialen-tests-berlin-74117",
+      "description": "Über uns Probantica ist ein Anbieter für Qualitätstests aus Köln. Wir prüfen im Auftrag von Unternehmen, ob digitale Produkte und Abläufe vor Ort im Alltag funktionieren. Die Tests machen bei uns angestellte Qualitätsmanager:innen – Menschen mit Vertrag, feste Ansprechperson und klaren Vorgaben. Worum es geht Unternehmen müssen wissen, ob ihre Apps, Websites und Filialen im Alltag wirklich funktionieren. Als Kunde gehst du die angebotenen Abläufe durch: App öffnen, Konto anlegen, Formular ausfüllen, Bestellung abschließen, in eine Filiale gehen. Du testest den Prozess von Anfang bis Ende, dokumentierst jeden Schritt mit Uhrzeit und Screenshot",
+      "posted_at": 1795294828,
       "tags": [
-        "DevOps Engineering"
+        "Remote",
+        "Quality Assurance",
+        "Inspection"
       ],
       "experience": "Check listing",
-      "score": 58,
-      "match_reason": "Relevant keywords: git, devops",
+      "score": 53,
+      "match_reason": "Relevant keywords: git",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Solutions Engineer, Veeam Data Cloud Vault",
+      "company": "veeamsoftware",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.fr/jobs/companies/veeamsoftware/remote-solutions-engineer-veeam-data-cloud-vault-242654",
+      "description": "<div class=\"content-intro\"><div class=\"elementToProof\"> <p>Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security, and AI risk. Headquartered in Seattle with offices in more than 30 countries, Veeam protects over 550,000 customers worldwide, who trust Veeam to keep their businesses running. Join us as we go fearlessly forward together, growing, learning, and ma",
+      "posted_at": 1795298128,
+      "tags": [
+        "Strategic Workloads - Global 1008556"
+      ],
+      "experience": "Check listing",
+      "score": 48,
+      "match_reason": "Relevant keywords: role-family match",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
