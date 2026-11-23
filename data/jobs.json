@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-22T22:56:14.257846+00:00",
+  "updated_at": "2026-11-23T03:24:18.928413+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -87,23 +87,6 @@
       "experience": "Check listing",
       "score": 28,
       "match_reason": "Relevant keywords: git",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Senior Full Stack Engineer (F# / ASP.NET Core / ReactJS) – Remote (Europe) (f/m/d)",
-      "company": "Boardwise GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/boardwise-gmbh/senior-full-stack-engineer-f-aspnet-core-reactjs-remote-europe-berlin-73400",
-      "description": "Your mission Your Role Collaborate closely with our development team on products built with F# (ASP.NET Core) and React.js Take full ownership of features, working closely with product in a cross-functional team Apply a functional programming approach and contribute to architectural discussions Keep our tech stack up to date and scalable Implement, optimize, and maintain new product features Improve all phases of the product lifecycle – from planning to deployment/production Build and maintain integrations with third-party systems like Azure and Office365 Your profile 4+ years of experience in full stack or backend engineering Hands-on experi",
-      "posted_at": 1795361460,
-      "tags": [
-        "Remote",
-        "Software Development"
-      ],
-      "experience": "Check listing",
-      "score": 20,
-      "match_reason": "Relevant keywords: azure",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
