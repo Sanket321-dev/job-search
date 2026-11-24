@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-24T11:46:34.105570+00:00",
+  "updated_at": "2026-11-24T21:41:10.693794+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -42,58 +42,6 @@
       "remote": true
     },
     {
-      "title": "Full-Stack Developer (m/w/d) – Java/Spring Boot & TypeScript",
-      "company": "P&T Software",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/pt-software/full-stack-developer-java-spring-boot-typescript-berlin-318262",
-      "description": "Wir sind P&T Software, rund 10 Leute, und bauen individuelle B2B-Software für Unternehmen mit komplexen Geschäftsprozessen. Bei uns setzt niemand nur Tickets um: Wir finden gemeinsam mit dem Kunden heraus, was wirklich gebaut werden muss, und setzen dann genau das um. Was du bei uns machst Backend (Java, Spring Boot) und Frontend (TypeScript, Vue.js) in anspruchsvollen Kundenprojekten entwickeln Softwarearchitektur entwerfen und im Team diskutieren Kundenberatung und Anforderungsanalyse, auch wenn der Kunde selbst noch nicht genau weiß, was er braucht In unseren Projektteams arbeiten oder mehrere Monate als Berater:in im Team eines Kunden Uns",
-      "posted_at": 1795509033,
-      "tags": [
-        "Remote",
-        "Software Development"
-      ],
-      "experience": "Check listing",
-      "score": 48,
-      "match_reason": "Relevant keywords: role-family match",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Quality Master",
-      "company": "Coopers Group AG",
-      "location": "Bern",
-      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/quality-master-bern-210554",
-      "description": "................ Für unseren Kunden aus der Versicherungsbranche in Bern, suchen wir eine:n erfahrene:n, motivierte:n und aufgeschlossene:n Quality Master. Für die Sicherstellung einer hohen Softwarequalität innerhalb eines Agile Release Trains (ART) suchen wir eine erfahrene Persönlichkeit, die das Testmanagement verantwortet, die Weiterentwicklung der Qualitätsstandards vorantreibt und den Wandel hin zu einer stärker automatisierten Testlandschaft begleitet. Deine Aufgaben: Verantwortung für die Qualitätssicherung innerhalb des Agile Release Trains (ART) Sicherstellung der definierten Teststrategie sowie eines strukturierten und effizienten",
-      "posted_at": 1795426254,
-      "tags": [
-        "Remote",
-        "Quality Assurance",
-        "Inspection"
-      ],
-      "experience": "Check listing",
-      "score": 48,
-      "match_reason": "Relevant keywords: role-family match",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Senior Cloud Operations Engineer (all genders) CH",
-      "company": "BSI Software",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.ch/jobs/companies/bsi-software/remote-senior-cloud-operations-engineer-all-genders-ch-baar-174018",
-      "description": "Alle reden von Digitalisierung – Wir machen es. Als Hersteller von Europas #1 CRM/CX-Plattform entwickeln wir innovative Softwareprodukte in den Bereichen Kundenbeziehungsmanagement, Marketing Automation und Machine Learning. Unternehmen bei der Digitalisierung und der konsequenten Kundenzentrierung zu begleiten, ist unsere Leidenschaft. Wir lieben modernste Technologie, Handwerk und Innovation. Du auch? Dann bist du bei BSI goldrichtig! Deine Aufgaben Du verantwortest den stabilen und effizienten Betrieb unserer SaaS-Plattform auf AWS, Azure und T-Systems sicher und sorgst für die Einhaltung unserer SLAs Du entwickelst unsere Observability m",
-      "posted_at": 1795361479,
-      "tags": [
-        "Services",
-        "Remote"
-      ],
-      "experience": "Check listing",
-      "score": 38,
-      "match_reason": "Relevant keywords: aws, azure, git",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
       "title": "Full-Stack Developer",
       "company": "Fluence International, Inc.",
       "location": "Worldwide",
@@ -106,63 +54,6 @@
       "experience": "Check listing",
       "score": 28,
       "match_reason": "Relevant keywords: aws",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Senior Fullstack Engineer (all genders) mit Fokus C# / React (all genders) - 100 % Remote",
-      "company": "Iits",
-      "location": "Remote Deutschland",
-      "url": "https://www.arbeitnow.com/jobs/companies/iits/senior-fullstack-engineer-all-genders-mit-fokus-c-react-all-genders-100-remote-256885",
-      "description": "Über uns This position requires C1-level knowledge of the German language. Wir bei iits bieten unseren Kunden individuelle Softwarelösungen, da jedes Unternehmen einzigartig ist und eigene Ziele und Herausforderungen hat. Dies ermöglichen wir durch die technische Expertise unserer Teams, welche die Geschäftsprozesse der Kunden tagtäglich optimieren und eine maßgeschneiderte Digitalisierung ermöglichen. Wir haben es uns zur Mission gemacht, Visionen zum Leben zu erwecken, einzelne Anforderungen zu verstehen und innovative Software zu entwickeln. Deine Aufgaben Du schreibst Code, auf den du stolz bist, und Softwareentwicklung ist für dich mehr ",
-      "posted_at": 1795491184,
-      "tags": [
-        "Backend",
-        "Softwareentwicklung",
-        "Cloud",
-        "Agentic Coding",
-        "C#",
-        "React",
-        "Frontend",
-        ".NET"
-      ],
-      "experience": "Check listing",
-      "score": 28,
-      "match_reason": "Relevant keywords: git",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": false
-    },
-    {
-      "title": "Senior IT Architect (m/w/d)",
-      "company": "virtual7 GmbH",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-it-architect-karlsruhe-441084",
-      "description": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, die mit ihren Ideen, ihrem Können und Engagement etwas bewegen wollen. Fühlst du dich angesprochen? Dann gestalte Deine Welt zum Besseren und werde Teil unseres Customer Clusters Healthcare. DEINE MISSION Du möchtest die technologische Grundlage gestalten, auf der zahlreiche Enterprise-Anwendungen im Gesundheitswesen aufbauen? Dann bist du hier genau richtig. Dich erwarten anspruchsvolle",
-      "posted_at": 1795512695,
-      "tags": [
-        "Customer Cluster Healthcare",
-        "Remote"
-      ],
-      "experience": "Check listing",
-      "score": 28,
-      "match_reason": "Relevant keywords: git",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Senior Java Developer im GKV Umfeld (m/w/d)",
-      "company": "virtual7 GmbH",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-java-developer-im-gkv-umfeld-karlsruhe-309214",
-      "description": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, die mit ihren Ideen, ihrem Können und Engagement etwas bewegen wollen. Fühlst du dich angesprochen? Dann gestalte Deine Welt zum Besseren und werde Teil unseres Customer Clusters Healthcare. DEINE MISSION Du möchtest komplexe Fachverfahren im Umfeld der gesetzlichen Krankenversicherung weiterentwickeln und dabei sowohl tiefes Fachwissen als auch moderne Java-Technologien einsetzen? Dann ",
-      "posted_at": 1795512695,
-      "tags": [
-        "Customer Cluster Healthcare",
-        "Remote"
-      ],
-      "experience": "Check listing",
-      "score": 28,
-      "match_reason": "Relevant keywords: git",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
