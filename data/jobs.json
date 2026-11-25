@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-24T21:41:10.693794+00:00",
+  "updated_at": "2026-11-25T04:40:20.328481+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -21,6 +21,24 @@
       "experience": "Check listing",
       "score": 58,
       "match_reason": "Relevant keywords: qa, testing",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Mitarbeiter*in (m/w/d) für digitales Qualitätsmanagement",
+      "company": "Jupiter IT Service UG",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/jupiter-it-service-ug/mitarbeiterin-fur-digitales-qualitatsmanagement-berlin-39452",
+      "description": "Jupiter-Digital 18. November 2026 Bei Jupiter-Digital unterstützen wir Unternehmen bei digitalen Projekten. Für unser Team suchen wir eine Person, die uns im digitalen Qualitätsmanagement hilft. Die Stelle ist ein Minijob mit 603 Euro brutto im Monat. Sie können die Arbeit komplett von zu Hause aus erledigen. Es ist keine vorherige Erfahrung nötig – auch nicht im technischen Bereich. Wir erklären Ihnen alles Schritt für Schritt. Was wir bieten Eine ausführliche Einarbeitung, bei der Sie alles Wichtige lernen Sehr flexible Arbeitszeiten, die Sie selbst bestimmen können Die Möglichkeit, ausschließlich im Home Office zu arbeiten Ein freundliches",
+      "posted_at": 1795554054,
+      "tags": [
+        "Remote",
+        "Quality Assurance",
+        "Inspection"
+      ],
+      "experience": "Check listing",
+      "score": 53,
+      "match_reason": "Relevant keywords: git",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
@@ -56,6 +74,22 @@
       "match_reason": "Relevant keywords: aws",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "Radiant",
+      "location": "United Kingdom - Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/radiant/remote-senior-software-engineer-98006",
+      "description": "Job Title: Senior Software Engineer Reports to: Engineering Manager Location: UK / Europe Company Overview: Radiant is redefining how AI infrastructure is built. We design and operate AI-native cloud platforms engineered for sovereignty, performance, and scale. Our infrastructure powers GPU-native workloads, multi-tenant control planes, and high-performance AI systems designed for the most demanding environments. We are not building a generic cloud. We are building purpose-built AI infrastructure — from powered land, to compute, to software. As we scale, we're building this organisation from the ground up. We're looking for people who'd rathe",
+      "posted_at": 1795567209,
+      "tags": [
+        "Engineering"
+      ],
+      "experience": "Check listing",
+      "score": 23,
+      "match_reason": "Relevant keywords: role-family match",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": false
     },
     {
       "title": "Senior Back-end Developerusa",
