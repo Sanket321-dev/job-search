@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-25T04:40:20.328481+00:00",
+  "updated_at": "2026-11-25T15:07:56.986975+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -8,54 +8,39 @@
   ],
   "jobs": [
     {
-      "title": "App Testers wanted in the Netherlands!",
-      "company": "Tester Work",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.nl/jobs/companies/tester-work/remote-app-testers-wanted-in-the-netherlands-valletta-152087",
-      "description": "Tester Work provides access to exciting and rewarding project-based opportunities for freelancers. Learn new skills and earn money by testing world-class apps and websites. 🌎 For this specific project, we are looking for QA testers and tech enthusiasts in the Netherlands! Having joined our community, you will then have regular access to a range of other projects, with unique requirements and workflows: Test Case Executions : Perform a set of flows using specific instructions and compare the results observed with the expected/intended results provided. Functional Exploratory Test Cases : Explore the application or website’s functionality based",
-      "posted_at": 1795480277,
+      "title": "AI Solution Architect (m/w/d)",
+      "company": "virtual7 GmbH",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-191672",
+      "description": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, die mit ihren Ideen, ihrem Können und Engagement etwas bewegen wollen. Fühlst du dich angesprochen? Dann gestalte Deine Welt zum Besseren und werde Teil unseres Customer Cluster Environment, Transportation & Energy. DEINE MISSION Als AI Solution Architect (m/w/d) gestaltest Du die KI-/ML-Gesamtarchitektur für komplexe Enterprise-Umgebungen in der Cloud mit Schwerpunkt Microsoft Azure. Du",
+      "posted_at": 1795599076,
       "tags": [
-        "QA Testing",
+        "Customer Cluster Environment",
+        "Transportation & Energy",
         "Remote"
       ],
       "experience": "Check listing",
       "score": 58,
-      "match_reason": "Relevant keywords: qa, testing",
+      "match_reason": "Relevant keywords: azure, git",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
     {
-      "title": "Mitarbeiter*in (m/w/d) für digitales Qualitätsmanagement",
-      "company": "Jupiter IT Service UG",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/jupiter-it-service-ug/mitarbeiterin-fur-digitales-qualitatsmanagement-berlin-39452",
-      "description": "Jupiter-Digital 18. November 2026 Bei Jupiter-Digital unterstützen wir Unternehmen bei digitalen Projekten. Für unser Team suchen wir eine Person, die uns im digitalen Qualitätsmanagement hilft. Die Stelle ist ein Minijob mit 603 Euro brutto im Monat. Sie können die Arbeit komplett von zu Hause aus erledigen. Es ist keine vorherige Erfahrung nötig – auch nicht im technischen Bereich. Wir erklären Ihnen alles Schritt für Schritt. Was wir bieten Eine ausführliche Einarbeitung, bei der Sie alles Wichtige lernen Sehr flexible Arbeitszeiten, die Sie selbst bestimmen können Die Möglichkeit, ausschließlich im Home Office zu arbeiten Ein freundliches",
-      "posted_at": 1795554054,
+      "title": "Senior Rendering/ Graphics Engineer - Freelance Talent Pool (2027 Opportunities)",
+      "company": "Keywords Intl1",
+      "location": "Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/keywords-intl1/remote-senior-rendering-graphics-engineer-freelance-talent-pool-2027-opportunities-netherlands-358816",
+      "description": "This is a fully remote ongoing freelance only position. You will hear directly from our Talent Acquisition team once we have an update for you regarding your application status. We are looking for experienced and multi-talented freelance Senior Rendering/ Graphics Engineer to help implement and maintain pipelines. You will ensure that the code is optimized to the highest level, this role is to support and develop the exciting visuals for our games. Requirements Taking responsibility for graphics development on the project. Developing, documenting, testing and maintaining graphical and engine features in collaboration with the other members of",
+      "posted_at": 1795612812,
       "tags": [
-        "Remote",
-        "Quality Assurance",
-        "Inspection"
+        "Engineering",
+        "Computer Games",
+        "Game Development",
+        "Remote"
       ],
       "experience": "Check listing",
-      "score": 53,
-      "match_reason": "Relevant keywords: git",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Solution Architect Customer Touchpoints & Cloud Transformation",
-      "company": "Coopers Group AG",
-      "location": "Zürich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/solution-architect-customer-touchpoints-cloud-transformation-zurich-258035",
-      "description": "................ Für unseren Kunden aus der Logistikbranche in Bern, suchen wir eine:n erfahrene:n, motivierte:n und aufgeschlossene:n Solution Architect Customer Touchpoints & Cloud Transformation. In einem anspruchsvollen Umfeld mit komplexen Systemlandschaften, Cloud-Technologien und innovativen Digitalisierungsinitiativen bietet sich die Möglichkeit, als zentrale Architektur-Persönlichkeit zukunftsweisende Lösungen mitzugestalten und nachhaltige Mehrwerte für Kundinnen und Kunden zu schaffen. Deine Aufgaben: Entwicklung und Gestaltung von Lösungs-, Software- und Integrationsarchitekturen für moderne digitale Kundenplattformen Mitarbeit in",
-      "posted_at": 1795509033,
-      "tags": [
-        "Remote",
-        "Software Development"
-      ],
-      "experience": "Check listing",
-      "score": 53,
-      "match_reason": "Relevant keywords: git",
+      "score": 33,
+      "match_reason": "Relevant keywords: testing, support",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
@@ -76,20 +61,21 @@
       "remote": true
     },
     {
-      "title": "Senior Software Engineer",
-      "company": "Radiant",
-      "location": "United Kingdom - Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/radiant/remote-senior-software-engineer-98006",
-      "description": "Job Title: Senior Software Engineer Reports to: Engineering Manager Location: UK / Europe Company Overview: Radiant is redefining how AI infrastructure is built. We design and operate AI-native cloud platforms engineered for sovereignty, performance, and scale. Our infrastructure powers GPU-native workloads, multi-tenant control planes, and high-performance AI systems designed for the most demanding environments. We are not building a generic cloud. We are building purpose-built AI infrastructure — from powered land, to compute, to software. As we scale, we're building this organisation from the ground up. We're looking for people who'd rathe",
-      "posted_at": 1795567209,
+      "title": "Senior Oracle Data Engineer (m/w/d)",
+      "company": "virtual7 GmbH",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-oracle-data-engineer-karlsruhe-234713",
+      "description": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, die mit ihren Ideen, ihrem Können und Engagement etwas bewegen wollen. Fühlst du dich angesprochen? Dann gestalte Deine Welt zum Besseren und werde Teil unseres Customer Clusters Finance. DEINE MISSION Als Senior Oracle Data Engineer (m/w/d) übernimmst du fachliche Verantwortung für anspruchsvolle Datenbanklösungen und gestaltest performante, sichere Anwendungen auf Basis von Oracle-Tech",
+      "posted_at": 1795599076,
       "tags": [
-        "Engineering"
+        "Customer Cluster Finance",
+        "Remote"
       ],
       "experience": "Check listing",
-      "score": 23,
-      "match_reason": "Relevant keywords: role-family match",
+      "score": 28,
+      "match_reason": "Relevant keywords: git",
       "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": false
+      "remote": true
     },
     {
       "title": "Senior Back-end Developerusa",
