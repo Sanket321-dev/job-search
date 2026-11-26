@@ -1,12 +1,46 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-26T05:53:24.969279+00:00",
+  "updated_at": "2026-11-26T15:59:01.441552+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
     "Remotive remote API"
   ],
   "jobs": [
+    {
+      "title": "Junior Cloud Operations Engineer (all genders) CH",
+      "company": "BSI Software",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.ch/jobs/companies/bsi-software/remote-junior-cloud-operations-engineer-all-genders-ch-baar-288099",
+      "description": "Alle reden von Digitalisierung – Wir machen es. Als Hersteller von Europas #1 CRM/CX-Plattform entwickeln wir innovative Softwareprodukte in den Bereichen Kundenbeziehungsmanagement, Marketing Automation und Machine Learning. Unternehmen bei der Digitalisierung und der konsequenten Kundenzentrierung zu begleiten, ist unsere Leidenschaft. Wir lieben modernste Technologie, Handwerk und Innovation. Du auch? Dann bist du bei BSI goldrichtig! Deine Aufgaben Du sorgst dafür, dass unsere SaaS-Plattform auf AWS, Azure und T-Systems zuverlässig und performant läuft und übernimmst dabei Verantwortung für eigene Bereiche und Themen Du analysierst und be",
+      "posted_at": 1795674681,
+      "tags": [
+        "Services",
+        "Remote"
+      ],
+      "experience": "Early career mentioned",
+      "score": 75,
+      "match_reason": "Relevant keywords: aws, azure, git",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Senior Platform Engineer (w/m/d) (remote within the EU)",
+      "company": "Weflow",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/weflow/senior-platform-engineer-remote-within-the-eu-berlin-387492",
+      "description": "About Weflow Weflow is the Salesforce-native revenue intelligence platform for B2B sales teams. We capture sales activity, analyze conversations, run AI playbooks, and power forecasting and pipeline analytics, all inside Salesforce. We're a team of about 30 based in Berlin, and revenue teams run their day on our data. Your role You'll own the foundation the rest of engineering builds on: how we run in production, how we stay secure and audit-ready, and how we ship. It's a high-ownership role on a small team. You decide what matters most, build it, and make it stick. What you'll bring 5+ years in platform engineering, DevOps, SRE, cloud infras",
+      "posted_at": 1795703481,
+      "tags": [
+        "Remote",
+        "System and Network Administration"
+      ],
+      "experience": "Check listing",
+      "score": 38,
+      "match_reason": "Relevant keywords: network, devops, sre",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
     {
       "title": "Senior Frontend Developer",
       "company": "Divio",
@@ -45,6 +79,22 @@
       "remote": true
     },
     {
+      "title": "Channel Director EMEA",
+      "company": "Firemon",
+      "location": "Germany, Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/firemon/remote-channel-director-emea-431501",
+      "description": "FireMon delivers Network Security Policy Control for the Modern Enterprise. Most enterprises run firewalls from multiple vendors alongside cloud security groups and microsegmentation platforms, and no single console can say whether it all works together. We believe policy is the control plane for network security: it defines what the environment should do, and the infrastructure carries it out. FireMon gives security teams one place to see, govern, and prove that their policy is doing what they intend, across on-prem, cloud, and hybrid environments As the Channel Director you’ll lead the growth and performance of FireMon’s channel ecosystem. ",
+      "posted_at": 1795694857,
+      "tags": [
+        "Channel Sales"
+      ],
+      "experience": "Check listing",
+      "score": 28,
+      "match_reason": "Relevant keywords: network",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": false
+    },
+    {
       "title": "Full-Stack Developer",
       "company": "Fluence International, Inc.",
       "location": "Worldwide",
@@ -57,6 +107,23 @@
       "experience": "Check listing",
       "score": 28,
       "match_reason": "Relevant keywords: aws",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Amazon Growth Lead (m/w/d)",
+      "company": "Start To Finish Consulting GmbH",
+      "location": "Hamburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/start-to-finish-consulting-gmbh/amazon-growth-lead-hamburg-380362",
+      "description": "Wir sind Start to Finish. Kein Startup kann wachsen ohne das richtige Team. Aus diesem Grund unterstützen wir aufstrebende Startups und Growth Companies wie Snocks, SellerX, Formary, Schema M und viele weitere dabei, ihre Schlüsselpositionen mit den richtigen Talenten zu besetzen. Mit über 100 zufriedenen Kunden sind wir die #1 Recruiting Boutique für E-Commerce Startups im deutschsprachigen Raum. Unser Kunde sucht Dich! Hinter dem Unternehmen steht ein profitables Amazon-Private-Label-Business mit eigenen Marken auf Amazon US, DE und UK. Der Umsatz ist in einem Jahr von 1 auf 3,5 Mio. € gewachsen, bei rund 20 % Marge. Das Hero-Produkt hat es",
+      "posted_at": 1795701667,
+      "tags": [
+        "Remote",
+        "Online Marketing"
+      ],
+      "experience": "Check listing",
+      "score": 23,
+      "match_reason": "Relevant keywords: role-family match",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
