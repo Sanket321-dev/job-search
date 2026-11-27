@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-27T00:19:32.117187+00:00",
+  "updated_at": "2026-11-27T09:15:20.155143+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -8,36 +8,53 @@
   ],
   "jobs": [
     {
-      "title": "Junior Cloud Operations Engineer (all genders) CH",
-      "company": "BSI Software",
+      "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
+      "company": "virtual7 GmbH",
       "location": "Homeoffice",
-      "url": "https://www.arbeitnow.ch/jobs/companies/bsi-software/remote-junior-cloud-operations-engineer-all-genders-ch-baar-288099",
-      "description": "Alle reden von Digitalisierung – Wir machen es. Als Hersteller von Europas #1 CRM/CX-Plattform entwickeln wir innovative Softwareprodukte in den Bereichen Kundenbeziehungsmanagement, Marketing Automation und Machine Learning. Unternehmen bei der Digitalisierung und der konsequenten Kundenzentrierung zu begleiten, ist unsere Leidenschaft. Wir lieben modernste Technologie, Handwerk und Innovation. Du auch? Dann bist du bei BSI goldrichtig! Deine Aufgaben Du sorgst dafür, dass unsere SaaS-Plattform auf AWS, Azure und T-Systems zuverlässig und performant läuft und übernimmst dabei Verantwortung für eigene Bereiche und Themen Du analysierst und be",
-      "posted_at": 1795674681,
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-315861",
+      "description": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, die mit ihren Ideen, ihrem Können und Engagement etwas bewegen wollen. Fühlst du dich angesprochen? Dann gestalte Deine Welt zum Besseren und werde Teil unseres Customer Clusters Justice. DEINE MISSION Als Kubernetes Administrator/Private Cloud Engineer (m/w/d) stellst du sicher, dass unsere Container-Infrastruktur reibungslos läuft und zukunftsfähig bleibt. Deine Mission ist es, eine ho",
+      "posted_at": 1795739496,
       "tags": [
-        "Services",
+        "Customer Cluster Justice",
         "Remote"
       ],
-      "experience": "Early career mentioned",
-      "score": 75,
-      "match_reason": "Relevant keywords: aws, azure, git",
+      "experience": "Check listing",
+      "score": 53,
+      "match_reason": "Relevant keywords: git",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
     {
-      "title": "Senior Platform Engineer (w/m/d) (remote within the EU)",
-      "company": "Weflow",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/weflow/senior-platform-engineer-remote-within-the-eu-berlin-387492",
-      "description": "About Weflow Weflow is the Salesforce-native revenue intelligence platform for B2B sales teams. We capture sales activity, analyze conversations, run AI playbooks, and power forecasting and pipeline analytics, all inside Salesforce. We're a team of about 30 based in Berlin, and revenue teams run their day on our data. Your role You'll own the foundation the rest of engineering builds on: how we run in production, how we stay secure and audit-ready, and how we ship. It's a high-ownership role on a small team. You decide what matters most, build it, and make it stick. What you'll bring 5+ years in platform engineering, DevOps, SRE, cloud infras",
-      "posted_at": 1795703481,
+      "title": "Software Test Engineer",
+      "company": "SwissPeak Partners GmbH",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-365909",
+      "description": "Wir rekrutieren einen Software Test Engineer (m/w/d) für ein neu formiertes Team rund um ein Dynamics 365 Projekt. Das Testing wird von Grund auf neu aufgebaut, du bist also massgeblich an der Definition des Vorgehens beteiligt. Du testest im Sprint mit und verantwortest gleichzeitig die Teststrategie, das Testkonzept und die Testplanung. Du koordinierst die UAT mit dem Fachbereich und bringst Qualitätsstandards in ein Team, das seine Testing-Reife gerade aufbaut. Der Fokus liegt überwiegend auf manuellem Testing, mit der Möglichkeit, später in die Automatisierung hineinzuwachsen. Must-have Anforderungen Mehrjährige Erfahrung im Software-Test",
+      "posted_at": 1795739493,
       "tags": [
-        "Remote",
-        "System and Network Administration"
+        "Software Engineering",
+        "Remote"
       ],
       "experience": "Check listing",
-      "score": 38,
-      "match_reason": "Relevant keywords: network, devops, sre",
+      "score": 53,
+      "match_reason": "Relevant keywords: testing",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Cloud DevSecOps Engineer – Software Supply Chain Security (m/w/d)",
+      "company": "virtual7 GmbH",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-cloud-devsecops-engineer-software-supply-chain-security-bonn-331082",
+      "description": "Bei virtual7 verbinden wir unsere technologische Expertise mit einem tiefen Verständnis für die Bedürfnisse unserer Kunden. Durch maßgeschneiderte Lösungen schaffen wir einen echten Mehrwert für unsere Rahmenvertragspartner in der öffentlichen Verwaltung. Aktuell suchen wir für einen unserer Kunden eine:n Cloud DevSecOps Engineer – Software Supply Chain Security (m/w/d). Projektstandort: deutschlandweit Zeitraum: 1. Januar bis 31. Dezember 2027, Verlängerung möglich Arbeitsmix: 90% Remote (nur in Deutschland möglich) Wichtig: Bereitschaft zur SÜ2 nach § 9 SÜG Geheim/Sabotageschutz DEINE MISSION Im Projekt geht es darum, eine sichere Software ",
+      "posted_at": 1795739496,
+      "tags": [
+        "Customer Cluster Defense & Public Security",
+        "Remote"
+      ],
+      "experience": "Check listing",
+      "score": 48,
+      "match_reason": "Relevant keywords: role-family match",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
@@ -58,21 +75,37 @@
       "remote": true
     },
     {
-      "title": "Amazon Growth Lead (m/w/d)",
-      "company": "Start To Finish Consulting GmbH",
-      "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/start-to-finish-consulting-gmbh/amazon-growth-lead-hamburg-380362",
-      "description": "Wir sind Start to Finish. Kein Startup kann wachsen ohne das richtige Team. Aus diesem Grund unterstützen wir aufstrebende Startups und Growth Companies wie Snocks, SellerX, Formary, Schema M und viele weitere dabei, ihre Schlüsselpositionen mit den richtigen Talenten zu besetzen. Mit über 100 zufriedenen Kunden sind wir die #1 Recruiting Boutique für E-Commerce Startups im deutschsprachigen Raum. Unser Kunde sucht Dich! Hinter dem Unternehmen steht ein profitables Amazon-Private-Label-Business mit eigenen Marken auf Amazon US, DE und UK. Der Umsatz ist in einem Jahr von 1 auf 3,5 Mio. € gewachsen, bei rund 20 % Marge. Das Hero-Produkt hat es",
-      "posted_at": 1795701667,
+      "title": "Senior GCA Infrastructure Engineer (m/w/d)",
+      "company": "virtual7 GmbH",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-gca-infrastructure-engineer-bonn-245939",
+      "description": "Bei virtual7 verbinden wir unsere technologische Expertise mit einem tiefen Verständnis für die Bedürfnisse unserer Kunden. Durch maßgeschneiderte Lösungen schaffen wir einen echten Mehrwert für unsere Rahmenvertragspartner in der öffentlichen Verwaltung. Aktuell suchen wir für einen unserer Kunden eine:n Senior GCA Infrastructure Engineer (m/w/d). Projektstandort: deutschlandweit Zeitraum: 1. Januar bis 31. Dezember 2027, Verlängerung möglich Arbeitsmix: 90% Remote (nur in Deutschland möglich) Wichtig: Bereitschaft zur SÜ2 nach § 9 SÜG Geheim/Sabotageschutz DEINE MISSION Im Projekt geht es darum, eine hochsichere Cloud-Infrastruktur auf Basi",
+      "posted_at": 1795739496,
       "tags": [
-        "Remote",
-        "Online Marketing"
+        "Customer Cluster Defense & Public Security",
+        "Remote"
       ],
       "experience": "Check listing",
       "score": 23,
       "match_reason": "Relevant keywords: role-family match",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
+    },
+    {
+      "title": "Senior DevSecOps Engineer",
+      "company": "360Learning",
+      "location": "Paris, Remote",
+      "url": "https://www.arbeitnow.fr/jobs/companies/360learning/remote-senior-devsecops-engineer-349434",
+      "description": "Our Security and IT team keeps the 360Learning platform secure, compliant and auditable for the 1,500 organisations that learn on it every day. As a Senior DevSecOps Engineer, your mission is to make our infrastructure secure by design, detectable by default, and provable at audit time. 360Learning runs its learning platform on Azure and Kubernetes, certified ISO 27001:2022 and SOC 2 Type II. Over the past two years the technical security workload has grown on every front: a larger and more regulated customer base sending their own scans and security assessments, a wider detection and response scope, more infrastructure to keep hardened and a",
+      "posted_at": 1795748899,
+      "tags": [
+        "Engineering"
+      ],
+      "experience": "Check listing",
+      "score": 20,
+      "match_reason": "Relevant keywords: azure",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": false
     },
     {
       "title": "Senior Back-end Developerusa",
