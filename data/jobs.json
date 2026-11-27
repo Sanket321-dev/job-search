@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-27T09:15:20.155143+00:00",
+  "updated_at": "2026-11-27T19:14:42.657120+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -8,19 +8,53 @@
   ],
   "jobs": [
     {
-      "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
-      "company": "virtual7 GmbH",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-315861",
-      "description": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, die mit ihren Ideen, ihrem Können und Engagement etwas bewegen wollen. Fühlst du dich angesprochen? Dann gestalte Deine Welt zum Besseren und werde Teil unseres Customer Clusters Justice. DEINE MISSION Als Kubernetes Administrator/Private Cloud Engineer (m/w/d) stellst du sicher, dass unsere Container-Infrastruktur reibungslos läuft und zukunftsfähig bleibt. Deine Mission ist es, eine ho",
-      "posted_at": 1795739496,
+      "title": "Inhouse DevOps / Platform Engineer (m/w/d) - 100% remote",
+      "company": "DWWA Personalberatung GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/dwwa-personalberatung-gmbh/inhouse-devops-platform-engineer-100-remote-berlin-320713",
+      "description": "Möchtest du als Inhouse DevOps/Plattform Engineer (m/w/d) deine eigene Cloud-Plattform betreiben, weiterentwickeln und mitgestalten? Suchst du eine langfristige Perspektive mit absoluter zeitlicher Flexibilität und bis zu 100% Remote-Anteil? Willst du in einem hochmotivierten Team nachhaltige Lösungen vorantreiben und dich technologisch stetig weiterentwickeln? Das bieten wir dir schon ab dem Erstgespräch mit uns: Gratis Karriereberatung: Wir zeigen Dir Karriere- und Verdienstmöglichkeiten auf. Ganz ehrlich und objektiv Wertvolles Insider Know-how: Wir geben Dir schon im Erstgespräch die Insights, die in keiner Stellenanzeige stehen Die schne",
+      "posted_at": 1795782650,
       "tags": [
-        "Customer Cluster Justice",
-        "Remote"
+        "Remote",
+        "System and Network Administration"
+      ],
+      "experience": "Check listing",
+      "score": 58,
+      "match_reason": "Relevant keywords: network, devops",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "DevOps Engineer W/M (remote) 🇪🇺",
+      "company": "Pennylane SAS",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/devops-engineer-w-m-remote-223420",
+      "description": "Are you looking to have an impact on the daily life of millions of entrepreneurs in France (and tomorrow in Europe)? Are you looking for a work environment that values trust, proactivity, and autonomy? Are our Engineering principles aligned with your vision? Then Pennylane is the right place for you ! Our vision We aim to become the most beloved financial Operating System of French SMEs and Accounting Firms (and soon, European ones). We help entrepreneurs rid themselves of time-consuming tasks related to accounting and finance while providing them with access to key financial information to assist in making the best decisions for their busine",
+      "posted_at": 1795794017,
+      "tags": [
+        "Tech"
       ],
       "experience": "Check listing",
       "score": 53,
-      "match_reason": "Relevant keywords: git",
+      "match_reason": "Relevant keywords: devops",
+      "missing_skills": "Confirm hands-on requirements and experience level",
+      "remote": true
+    },
+    {
+      "title": "Freelancer Quality Assurance Manager C# .NET (all genders)",
+      "company": "Vexcash AG",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/vexcash-ag/freelancer-quality-assurance-manager-c-net-all-genders-berlin-236265",
+      "description": "About Vexcash AG VEXCASH AG is Germany’s leading online provider of short-term loans. We offer our customers a quick and straightforward solution to tide them over until their next payday. More than 800,000 customers already trust our service. Thanks to our innovative approach, they can secure financial liquidity without having to commit to a long-term arrangement. Your responsibilities Develop automated UI test scripts using C# and .NET. Create, maintain and improve automated testing frameworks. Implement Page Object Model (POM) design patterns to ensure reusable and maintainable test code. Develop and execute automated API tests for RESTful",
+      "posted_at": 1795791659,
+      "tags": [
+        "Remote",
+        "Quality Assurance",
+        "Inspection"
+      ],
+      "experience": "Check listing",
+      "score": 53,
+      "match_reason": "Relevant keywords: testing",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
@@ -42,19 +76,19 @@
       "remote": true
     },
     {
-      "title": "Cloud DevSecOps Engineer – Software Supply Chain Security (m/w/d)",
-      "company": "virtual7 GmbH",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-cloud-devsecops-engineer-software-supply-chain-security-bonn-331082",
-      "description": "Bei virtual7 verbinden wir unsere technologische Expertise mit einem tiefen Verständnis für die Bedürfnisse unserer Kunden. Durch maßgeschneiderte Lösungen schaffen wir einen echten Mehrwert für unsere Rahmenvertragspartner in der öffentlichen Verwaltung. Aktuell suchen wir für einen unserer Kunden eine:n Cloud DevSecOps Engineer – Software Supply Chain Security (m/w/d). Projektstandort: deutschlandweit Zeitraum: 1. Januar bis 31. Dezember 2027, Verlängerung möglich Arbeitsmix: 90% Remote (nur in Deutschland möglich) Wichtig: Bereitschaft zur SÜ2 nach § 9 SÜG Geheim/Sabotageschutz DEINE MISSION Im Projekt geht es darum, eine sichere Software ",
-      "posted_at": 1795739496,
+      "title": "Senior SRE / Infrastructure Engineer (m/f/d)",
+      "company": "SimScale GmbH",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/simscale-gmbh/senior-sre-infrastructure-engineer-munich-295676",
+      "description": "Senior SRE / Infrastructure Engineer (m/f/d) Mission SimScale is a browser-based engineering simulation platform on AWS. Our infrastructure team builds and operates the shared cloud foundation that 40+ engineers across 10+ product teams rely on every day. We enable the product teams rather than acting as gatekeepers. Product teams own their services end-to-end, including their infrastructure code, monitoring, cloud cost and first response to incidents. We give them a safe and well-documented platform, guardrails and self-service tools. Thus the teams can do routine work themselves, also in production. You join this small team as a senior indi",
+      "posted_at": 1795789854,
       "tags": [
-        "Customer Cluster Defense & Public Security",
-        "Remote"
+        "Remote",
+        "System and Network Administration"
       ],
       "experience": "Check listing",
-      "score": 48,
-      "match_reason": "Relevant keywords: role-family match",
+      "score": 38,
+      "match_reason": "Relevant keywords: aws, network, sre",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
@@ -75,37 +109,21 @@
       "remote": true
     },
     {
-      "title": "Senior GCA Infrastructure Engineer (m/w/d)",
-      "company": "virtual7 GmbH",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-gca-infrastructure-engineer-bonn-245939",
-      "description": "Bei virtual7 verbinden wir unsere technologische Expertise mit einem tiefen Verständnis für die Bedürfnisse unserer Kunden. Durch maßgeschneiderte Lösungen schaffen wir einen echten Mehrwert für unsere Rahmenvertragspartner in der öffentlichen Verwaltung. Aktuell suchen wir für einen unserer Kunden eine:n Senior GCA Infrastructure Engineer (m/w/d). Projektstandort: deutschlandweit Zeitraum: 1. Januar bis 31. Dezember 2027, Verlängerung möglich Arbeitsmix: 90% Remote (nur in Deutschland möglich) Wichtig: Bereitschaft zur SÜ2 nach § 9 SÜG Geheim/Sabotageschutz DEINE MISSION Im Projekt geht es darum, eine hochsichere Cloud-Infrastruktur auf Basi",
-      "posted_at": 1795739496,
+      "title": "Senior Consultant SAP Customer Engagement / CRM Utilities (m/w/d)",
+      "company": "Natuvion GmbH",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-consultant-sap-customer-engagement-crm-utilities-berlin-492857",
+      "description": "Du fühlst dich in der Energiewirtschaft (Utilities) zu Hause und willst die Digitalisierung der Branche nicht nur auf dem Papier konzipieren, sondern direkt im System bauen? Du bringst tiefe Erfahrung in der SAP-Entwicklung mit und hast Lust, komplexe Customer-Management-Landschaften architektonisch und technisch auf das nächste Level zu heben? Dann passt du perfekt in unser Team! Im Customer Management stehen unsere Kunden aktuell vor einem massiven Wandel: Klassische SAP CRM- und IS-U-Systeme werden in Richtung S/4HANA und moderne Customer-Engagement-Plattformen ( SAP CX, u.a. Sales & Service Cloud ) transformiert. Genau hier kommst du ins ",
+      "posted_at": 1795793480,
       "tags": [
-        "Customer Cluster Defense & Public Security",
+        "Utilities",
         "Remote"
       ],
       "experience": "Check listing",
-      "score": 23,
-      "match_reason": "Relevant keywords: role-family match",
+      "score": 28,
+      "match_reason": "Relevant keywords: git",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
-    },
-    {
-      "title": "Senior DevSecOps Engineer",
-      "company": "360Learning",
-      "location": "Paris, Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/360learning/remote-senior-devsecops-engineer-349434",
-      "description": "Our Security and IT team keeps the 360Learning platform secure, compliant and auditable for the 1,500 organisations that learn on it every day. As a Senior DevSecOps Engineer, your mission is to make our infrastructure secure by design, detectable by default, and provable at audit time. 360Learning runs its learning platform on Azure and Kubernetes, certified ISO 27001:2022 and SOC 2 Type II. Over the past two years the technical security workload has grown on every front: a larger and more regulated customer base sending their own scans and security assessments, a wider detection and response scope, more infrastructure to keep hardened and a",
-      "posted_at": 1795748899,
-      "tags": [
-        "Engineering"
-      ],
-      "experience": "Check listing",
-      "score": 20,
-      "match_reason": "Relevant keywords: azure",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": false
     },
     {
       "title": "Senior Back-end Developerusa",
