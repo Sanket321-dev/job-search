@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-26T15:59:01.441552+00:00",
+  "updated_at": "2026-11-27T00:19:32.117187+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
@@ -40,59 +40,6 @@
       "match_reason": "Relevant keywords: network, devops, sre",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
-    },
-    {
-      "title": "Senior Frontend Developer",
-      "company": "Divio",
-      "location": "Switzerland",
-      "url": "https://www.arbeitnow.ch/jobs/companies/divio/remote-senior-frontend-developer-switzerland-292678",
-      "description": "About Divio Divio is a remote-first company spread across Europe. Our core product is a multi-cloud Platform-as-a-Service (PaaS) for deploying and managing web applications, used by agencies, developers, and enterprises who want to move fast without DevOps overhead. Alongside our platform, we provide application development and support services to a select group of key enterprise accounts. They rely on us not just for their infrastructure, but also to build, evolve, and support the applications that run on it. Because we run the platform as well as the code, we own the whole chain from development to production. The role You will join a small",
-      "posted_at": 1795641604,
-      "tags": [
-        "Engineering",
-        "Computer Software",
-        "Remote"
-      ],
-      "experience": "Check listing",
-      "score": 33,
-      "match_reason": "Relevant keywords: support, devops",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Senior Rendering/ Graphics Engineer - Freelance Talent Pool (2027 Opportunities)",
-      "company": "Keywords Intl1",
-      "location": "Netherlands",
-      "url": "https://www.arbeitnow.nl/jobs/companies/keywords-intl1/remote-senior-rendering-graphics-engineer-freelance-talent-pool-2027-opportunities-netherlands-358816",
-      "description": "This is a fully remote ongoing freelance only position. You will hear directly from our Talent Acquisition team once we have an update for you regarding your application status. We are looking for experienced and multi-talented freelance Senior Rendering/ Graphics Engineer to help implement and maintain pipelines. You will ensure that the code is optimized to the highest level, this role is to support and develop the exciting visuals for our games. Requirements Taking responsibility for graphics development on the project. Developing, documenting, testing and maintaining graphical and engine features in collaboration with the other members of",
-      "posted_at": 1795612812,
-      "tags": [
-        "Engineering",
-        "Computer Games",
-        "Game Development",
-        "Remote"
-      ],
-      "experience": "Check listing",
-      "score": 33,
-      "match_reason": "Relevant keywords: testing, support",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Channel Director EMEA",
-      "company": "Firemon",
-      "location": "Germany, Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/firemon/remote-channel-director-emea-431501",
-      "description": "FireMon delivers Network Security Policy Control for the Modern Enterprise. Most enterprises run firewalls from multiple vendors alongside cloud security groups and microsegmentation platforms, and no single console can say whether it all works together. We believe policy is the control plane for network security: it defines what the environment should do, and the infrastructure carries it out. FireMon gives security teams one place to see, govern, and prove that their policy is doing what they intend, across on-prem, cloud, and hybrid environments As the Channel Director you’ll lead the growth and performance of FireMon’s channel ecosystem. ",
-      "posted_at": 1795694857,
-      "tags": [
-        "Channel Sales"
-      ],
-      "experience": "Check listing",
-      "score": 28,
-      "match_reason": "Relevant keywords: network",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": false
     },
     {
       "title": "Full-Stack Developer",
