@@ -1,28 +1,12 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-28T02:21:12.153039+00:00",
+  "updated_at": "2026-11-28T11:04:54.327446+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
     "Remotive remote API"
   ],
   "jobs": [
-    {
-      "title": "DevOps Engineer W/M (remote) 🇪🇺",
-      "company": "Pennylane SAS",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/devops-engineer-w-m-remote-223420",
-      "description": "Are you looking to have an impact on the daily life of millions of entrepreneurs in France (and tomorrow in Europe)? Are you looking for a work environment that values trust, proactivity, and autonomy? Are our Engineering principles aligned with your vision? Then Pennylane is the right place for you ! Our vision We aim to become the most beloved financial Operating System of French SMEs and Accounting Firms (and soon, European ones). We help entrepreneurs rid themselves of time-consuming tasks related to accounting and finance while providing them with access to key financial information to assist in making the best decisions for their busine",
-      "posted_at": 1795794017,
-      "tags": [
-        "Tech"
-      ],
-      "experience": "Check listing",
-      "score": 53,
-      "match_reason": "Relevant keywords: devops",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
     {
       "title": "Senior DevOps Engineer (m/w/d)",
       "company": "celebrate company GmbH",
@@ -53,22 +37,6 @@
       "experience": "Check listing",
       "score": 28,
       "match_reason": "Relevant keywords: aws",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Senior Back-end Developerusa",
-      "company": "Lemon.io",
-      "location": "Europe, USA, Canada, Australia, Singapore, Mexico, Saudi Arabia",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-back-end-developerusa-2091135",
-      "description": "Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. We’ve been doing this since 2015, and more than 1,500 companies have hired engineers through us. Currently, we have a few open positions from our client, an AI-native cloud company. AI teams use its platform to run inference on open-source models, fine-tune them and rent large GPU clusters. The fleet is set to grow about 10×; the team won't. That's where you come in. Who they’re looking for : Site Reliability Engineer, Senior Back-end Developer with Golang, Senior Back-end Developer with Python, AI Infras",
-      "posted_at": "2026-10-27T12:56:13",
-      "tags": [
-        "Software Development"
-      ],
-      "experience": "Check listing",
-      "score": 15,
-      "match_reason": "Relevant keywords: role-family match",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     }
