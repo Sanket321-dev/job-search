@@ -1,29 +1,12 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-27T19:14:42.657120+00:00",
+  "updated_at": "2026-11-28T02:21:12.153039+00:00",
   "sources": [
     "Adzuna skipped (API secrets not configured)",
     "Arbeitnow public API",
     "Remotive remote API"
   ],
   "jobs": [
-    {
-      "title": "Inhouse DevOps / Platform Engineer (m/w/d) - 100% remote",
-      "company": "DWWA Personalberatung GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/dwwa-personalberatung-gmbh/inhouse-devops-platform-engineer-100-remote-berlin-320713",
-      "description": "Möchtest du als Inhouse DevOps/Plattform Engineer (m/w/d) deine eigene Cloud-Plattform betreiben, weiterentwickeln und mitgestalten? Suchst du eine langfristige Perspektive mit absoluter zeitlicher Flexibilität und bis zu 100% Remote-Anteil? Willst du in einem hochmotivierten Team nachhaltige Lösungen vorantreiben und dich technologisch stetig weiterentwickeln? Das bieten wir dir schon ab dem Erstgespräch mit uns: Gratis Karriereberatung: Wir zeigen Dir Karriere- und Verdienstmöglichkeiten auf. Ganz ehrlich und objektiv Wertvolles Insider Know-how: Wir geben Dir schon im Erstgespräch die Insights, die in keiner Stellenanzeige stehen Die schne",
-      "posted_at": 1795782650,
-      "tags": [
-        "Remote",
-        "System and Network Administration"
-      ],
-      "experience": "Check listing",
-      "score": 58,
-      "match_reason": "Relevant keywords: network, devops",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
     {
       "title": "DevOps Engineer W/M (remote) 🇪🇺",
       "company": "Pennylane SAS",
@@ -41,54 +24,19 @@
       "remote": true
     },
     {
-      "title": "Freelancer Quality Assurance Manager C# .NET (all genders)",
-      "company": "Vexcash AG",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/vexcash-ag/freelancer-quality-assurance-manager-c-net-all-genders-berlin-236265",
-      "description": "About Vexcash AG VEXCASH AG is Germany’s leading online provider of short-term loans. We offer our customers a quick and straightforward solution to tide them over until their next payday. More than 800,000 customers already trust our service. Thanks to our innovative approach, they can secure financial liquidity without having to commit to a long-term arrangement. Your responsibilities Develop automated UI test scripts using C# and .NET. Create, maintain and improve automated testing frameworks. Implement Page Object Model (POM) design patterns to ensure reusable and maintainable test code. Develop and execute automated API tests for RESTful",
-      "posted_at": 1795791659,
+      "title": "Senior DevOps Engineer (m/w/d)",
+      "company": "celebrate company GmbH",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/celebrate-company-gmbh/remote-senior-devops-engineer-hamburg-216097",
+      "description": "Wir verwandeln bedeutende Momente in wunderschöne Erinnerungen. celebrate ist eine Markengruppe mit der Mission, in ganz Europa schöne Momente in bleibende Erinnerungen zu verwandeln: mit hochwertigen Papierwaren, Fotoprodukten und besonderen Geschenkartikeln. Zur Verstärkung unseres DevOps-Teams suchen wir dich als Senior DevOps Engineer (m/w/d) – zur Übernahme unserer Observability-Plattform und für ein zuverlässiges, kosteneffizientes AWS- und Kubernetes-Setup hinter unseren Shops. Die Rolle ist remote-first in Deutschland, und du berichtest an unseren Head of DevOps innerhalb unserer Tech Foundations Unit. Das jährliche Gehalt für diese P",
+      "posted_at": 1795816282,
       "tags": [
-        "Remote",
-        "Quality Assurance",
-        "Inspection"
-      ],
-      "experience": "Check listing",
-      "score": 53,
-      "match_reason": "Relevant keywords: testing",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Software Test Engineer",
-      "company": "SwissPeak Partners GmbH",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-365909",
-      "description": "Wir rekrutieren einen Software Test Engineer (m/w/d) für ein neu formiertes Team rund um ein Dynamics 365 Projekt. Das Testing wird von Grund auf neu aufgebaut, du bist also massgeblich an der Definition des Vorgehens beteiligt. Du testest im Sprint mit und verantwortest gleichzeitig die Teststrategie, das Testkonzept und die Testplanung. Du koordinierst die UAT mit dem Fachbereich und bringst Qualitätsstandards in ein Team, das seine Testing-Reife gerade aufbaut. Der Fokus liegt überwiegend auf manuellem Testing, mit der Möglichkeit, später in die Automatisierung hineinzuwachsen. Must-have Anforderungen Mehrjährige Erfahrung im Software-Test",
-      "posted_at": 1795739493,
-      "tags": [
-        "Software Engineering",
+        "DevOps",
         "Remote"
       ],
       "experience": "Check listing",
-      "score": 53,
-      "match_reason": "Relevant keywords: testing",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Senior SRE / Infrastructure Engineer (m/f/d)",
-      "company": "SimScale GmbH",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/simscale-gmbh/senior-sre-infrastructure-engineer-munich-295676",
-      "description": "Senior SRE / Infrastructure Engineer (m/f/d) Mission SimScale is a browser-based engineering simulation platform on AWS. Our infrastructure team builds and operates the shared cloud foundation that 40+ engineers across 10+ product teams rely on every day. We enable the product teams rather than acting as gatekeepers. Product teams own their services end-to-end, including their infrastructure code, monitoring, cloud cost and first response to incidents. We give them a safe and well-documented platform, guardrails and self-service tools. Thus the teams can do routine work themselves, also in production. You join this small team as a senior indi",
-      "posted_at": 1795789854,
-      "tags": [
-        "Remote",
-        "System and Network Administration"
-      ],
-      "experience": "Check listing",
-      "score": 38,
-      "match_reason": "Relevant keywords: aws, network, sre",
+      "score": 33,
+      "match_reason": "Relevant keywords: aws, devops",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
@@ -105,23 +53,6 @@
       "experience": "Check listing",
       "score": 28,
       "match_reason": "Relevant keywords: aws",
-      "missing_skills": "Confirm hands-on requirements and experience level",
-      "remote": true
-    },
-    {
-      "title": "Senior Consultant SAP Customer Engagement / CRM Utilities (m/w/d)",
-      "company": "Natuvion GmbH",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-consultant-sap-customer-engagement-crm-utilities-berlin-492857",
-      "description": "Du fühlst dich in der Energiewirtschaft (Utilities) zu Hause und willst die Digitalisierung der Branche nicht nur auf dem Papier konzipieren, sondern direkt im System bauen? Du bringst tiefe Erfahrung in der SAP-Entwicklung mit und hast Lust, komplexe Customer-Management-Landschaften architektonisch und technisch auf das nächste Level zu heben? Dann passt du perfekt in unser Team! Im Customer Management stehen unsere Kunden aktuell vor einem massiven Wandel: Klassische SAP CRM- und IS-U-Systeme werden in Richtung S/4HANA und moderne Customer-Engagement-Plattformen ( SAP CX, u.a. Sales & Service Cloud ) transformiert. Genau hier kommst du ins ",
-      "posted_at": 1795793480,
-      "tags": [
-        "Utilities",
-        "Remote"
-      ],
-      "experience": "Check listing",
-      "score": 28,
-      "match_reason": "Relevant keywords: git",
       "missing_skills": "Confirm hands-on requirements and experience level",
       "remote": true
     },
